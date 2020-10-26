@@ -14,7 +14,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Composición electroacústica y [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf)  
 
-   - Live Coding (en México).[^1]
+   - Live Coding (en México).<sup>[1](#myfootnote1)</sup>
 
    - [LiveCodeNet Ensamble](https://livecodenetensamble.wordpress.com/) 
 
@@ -78,4 +78,4 @@ Y más recientemente...
 
 ## Notas
 
-[^1]: Una crónica en construcción: [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html] por Hernani Villaseñor. 
+<a name="myfootnote1">1</a>: Una crónica en construcción: [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html) por Hernani Villaseñor. 

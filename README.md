@@ -16,9 +16,9 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Live Coding (en México).<sup>[2](#foot2)</sup>
 
-   - [LiveCodeNet Ensamble](https://livecodenetensamble.wordpress.com/) 
+   - LiveCodeNet Ensamble.<sup>[3](#foot3)</sup>
 
-   - [RGGTRN](https://rggtrn.github.io/) y la práctica que va de la mano con la escritura. 
+   - RGGTRN y la práctica que va de la mano con la escritura.<sup>[4](#foot4)</sup>
 
 ## Música mixta y colaboración
 
@@ -46,15 +46,11 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - PiranhaLab.
 
-Inicialmente...
-
-	- Usuario que se desplaza hacia el desarrollo.
+   	- Usuario que se desplaza hacia el desarrollo.
 
 	- Software como caja negra.
 
 	- Desarrollos en AL orientados a la creación audiovisual.  
-
-Y más recientemente... 
 
         - Interacción co-presencial digital 
 
@@ -82,5 +78,11 @@ Y más recientemente...
 
 ## Notas
 
-<a name="foot1">1</a>: Emilio Ocelotl, Raúl A. Dávila, Alejandro Franco Briones - [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf). 
-<a name="foot2">2</a>: Una crónica en construcción: [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html) por Hernani Villaseñor. 
+<a name="foot1">1</a>: Emilio Ocelotl, Raúl A. Dávila, Alejandro Franco Briones - [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf).
+
+<a name="foot2">2</a>: Una crónica en construcción: [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html) por Hernani Villaseñor.
+
+
+<a name="foot3">3</a>: [LiveCodeNet Ensamble](https://livecodenetensamble.wordpress.com/) 
+
+<a name="foot4">4</a>: [RGGTRN](https://rggtrn.github.io/)

@@ -46,17 +46,17 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - PiranhaLab.
 
-   	- Usuario que se desplaza hacia el desarrollo.
+     - Usuario que se desplaza hacia el desarrollo.
 
-	- Software como caja negra.
+     - Software como caja negra.
 
-	- Desarrollos en AL orientados a la creación audiovisual.  
+     - Desarrollos en AL orientados a la creación audiovisual.  
 
-        - Interacción co-presencial digital 
+     - Interacción co-presencial digital 
 
-        - Desplazamiento hacia los espacios virtuales y colaboraciones no contempladas.
+     - Desplazamiento hacia los espacios virtuales y colaboraciones no contempladas.
 
-        - Inclusión y Exclusión :(
+     - Inclusión y Exclusión :(
 
 ## Three | Open Studies
 

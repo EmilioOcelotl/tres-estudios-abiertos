@@ -4,7 +4,7 @@
 
 Tres Estudios Abiertos presenta la articulación entre el proyecto de investigación que realicé en maestría y la propuesta que tengo en consideración para la propuesta de doctorado.
 
-Exponer un mapa que permita delimitar posibles rutas. 
+Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas. 
 
 ## Antecedentes
 
@@ -14,15 +14,19 @@ Exponer un mapa que permita delimitar posibles rutas.
 
    - Composición electroacústica y [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf)  
 
-   - [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html)  
+   - Live Coding (en México).[^1]
 
-   - LiveCodeNet Ensamble 
+   - [LiveCodeNet Ensamble](https://livecodenetensamble.wordpress.com/) 
 
-   - RGGTRN y la práctica que va de la mano con la escritura. 
+   - [RGGTRN](https://rggtrn.github.io/) y la práctica que va de la mano con la escritura. 
 
 ## Música mixta y colaboración
 
    - Contexto de una investigación de maestría > Sistema interactivo como motivo. 
+
+   - Abierto / Libre (No resuelto en el proyecto de maestría). Condiciones de posibilidad. Indagación histórica de los caminos, sin búsqueda de equivalencias.
+
+   - Problematizar la interfaz en términos políticos y prácticos.
 
    - El proceso de investigación en música y tecnología como un bucle entre práctica y reflexión.
 
@@ -30,7 +34,7 @@ Exponer un mapa que permita delimitar posibles rutas.
 
    - Reconfiguración de roles: instrumento, composición e interpretación. 
 
-   - Colaboración, buen vivir y buen conocer. La influencia de la cultura libre. 
+   - Colaboración, buen vivir y buen conocer. La influencia de la cultura libre / abierta. 
 
 ## Imagen y visualización
 
@@ -40,22 +44,38 @@ Exponer un mapa que permita delimitar posibles rutas.
 
    - Noches de las estrellas, HAWC y Jets astronómicos.
 
-   - PiranhaLab 
+   - PiranhaLab.
 
-## Three / Open Studies
+Inicialmente...
 
-   - Planteamiento del proyecto de doctorado. Realización de algunos estudios audiovisuales delimitados por estructuras y flujos de control en dos lenguajes de programación: Prolog y LISP.
+     - Usuario que se desplaza hacia el desarrollo.
+     - Software como caja negra.
+     - Desarrollos en AL orientados a la creación audiovisual.  
 
-   - Motor de audio: [SuperCollider](https://supercollider.github.io/). Motor gráfico: [OpenFrameworks](https://openframeworks.cc/) ([OpenGL](https://www.opengl.org)).
+Y más recientemente... 
 
-   - Contexto pandémico propone un replanteamiento en la comparación 1) LISP, SC y OF como módulos 2)  integración webGL, JavaScript y Web Audio API.
+     - Interacción co-presencial digital 
+     - Desplazamiento hacia los espacios virtuales y colaboraciones no contempladas.
+     - Inclusión y Exclusión :(
 
-   - Open Studies > Módulos independientes que corren de manera local 
+## Three | Open Studies
 
-   - Three Studies > Integración de módulos en el navegador y en la web
+   - Planteamiento del proyecto de doctorado. Realización de algunos estudios audiovisuales delimitados por estructuras y flujos de control en dos instancias libres de doslenguajes de programación: [SWI-Prolog (Prolog)](https://www.swi-prolog.org/) y [SBCL (Common LISP)](http://www.sbcl.org/).
+
+   - Motor de audio: [SuperCollider](https://supercollider.github.io/). Motor gráfico: [OpenFrameworks](https://openframeworks.cc/)([OpenGL](https://www.opengl.org)).
+
+   - Contexto pandémico propone un replanteamiento en la comparación
+
+     - 1) Open Studies > SBCL, SC y OF como módulos que corren localmente
+
+     - 2) Three Studies > integración en el navegador y en la web entre [WebGL](https://www.khronos.org/webgl/), [Web Audio API](https://developer.mozilla.org/es/docs/Web_Audio_API) (motores de audio y video) y [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) vía [three.js](https://threejs.org/).
 
    - Retroalimentación e interacción a través de la percepción > Sistemas interactivos y representación visual de flujos y cambios.   
 
-   - Mental / corporal. Música por computadora, interpretación, gesto y cuerpo
+   - Mental / corporal. Música por computadora, interpretación, gesto y cuerpo.
 
-   - Instancia que ya está en marcha: THREE.studies 
+   - Instancia que ya está en marcha: THREE.studies
+
+## Notas
+
+[^1]: Una crónica en construcción: [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html] por Hernani Villaseñor. 

@@ -12,9 +12,9 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Preguntas sobre el rol de la tecnología y el arte desde la perspectiva de las ciencias sociales.
 
-   - Composición electroacústica y [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf)  
+   - Reflexión y acercamiento a la composición electroacústica.<sup>[1](#foot1)</sup> 
 
-   - Live Coding (en México).<sup>[1](#myfootnote1)</sup>
+   - Live Coding (en México).<sup>[2](#foot2)</sup>
 
    - [LiveCodeNet Ensamble](https://livecodenetensamble.wordpress.com/) 
 
@@ -48,15 +48,19 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
 Inicialmente...
 
-     - Usuario que se desplaza hacia el desarrollo.
-     - Software como caja negra.
-     - Desarrollos en AL orientados a la creación audiovisual.  
+	- Usuario que se desplaza hacia el desarrollo.
+
+	- Software como caja negra.
+
+	- Desarrollos en AL orientados a la creación audiovisual.  
 
 Y más recientemente... 
 
-     - Interacción co-presencial digital 
-     - Desplazamiento hacia los espacios virtuales y colaboraciones no contempladas.
-     - Inclusión y Exclusión :(
+        - Interacción co-presencial digital 
+
+        - Desplazamiento hacia los espacios virtuales y colaboraciones no contempladas.
+
+        - Inclusión y Exclusión :(
 
 ## Three | Open Studies
 
@@ -66,9 +70,9 @@ Y más recientemente...
 
    - Contexto pandémico propone un replanteamiento en la comparación
 
-     - 1) Open Studies > SBCL, SC y OF como módulos que corren localmente
+     - Open Studies > SBCL, SC y OF como módulos que corren localmente
 
-     - 2) Three Studies > integración en el navegador y en la web entre [WebGL](https://www.khronos.org/webgl/), [Web Audio API](https://developer.mozilla.org/es/docs/Web_Audio_API) (motores de audio y video) y [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) vía [three.js](https://threejs.org/).
+     - Three Studies > integración en el navegador y en la web entre [WebGL](https://www.khronos.org/webgl/), [Web Audio API](https://developer.mozilla.org/es/docs/Web_Audio_API) (motores de audio y video) y [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) vía [three.js](https://threejs.org/).
 
    - Retroalimentación e interacción a través de la percepción > Sistemas interactivos y representación visual de flujos y cambios.   
 
@@ -78,4 +82,5 @@ Y más recientemente...
 
 ## Notas
 
-<a name="myfootnote1">1</a>: Una crónica en construcción: [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html) por Hernani Villaseñor. 
+<a name="foot1">1</a>: Emilio Ocelotl, Raúl A. Dávila, Alejandro Franco Briones - [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf). 
+<a name="foot2">2</a>: Una crónica en construcción: [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html) por Hernani Villaseñor. 

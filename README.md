@@ -26,13 +26,15 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Abierto / Libre (No resuelto en el proyecto de maestría). Condiciones de posibilidad. Indagación histórica de los caminos, sin búsqueda de equivalencias.
 
-   - Problematizar la interfaz en términos políticos y prácticos.
+   - Problematizar la interfaz en términos políticos y prácticos. Software libre y de código abierto como restricción y ofrecimiento. 
 
    - El proceso de investigación en música y tecnología como un bucle entre práctica y reflexión.
 
    - Computadora, código y práctica en múltiples perspectivas: como instrumento musical, prótesis o como agente autónomo.
 
-   - Reconfiguración de roles: instrumento, composición e interpretación. 
+   - Reconfiguración de roles: instrumento, composición e interpretación.
+
+   - Los estudios del software como un punto de partida para investigar estos procesos desde el lado técnico. 
 
    - Colaboración, buen vivir y buen conocer. La influencia de la cultura libre / abierta. 
 
@@ -48,11 +50,11 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
      - Usuario que se desplaza hacia el desarrollo.
 
-     - Software como caja negra.
+     - Software como una caja negra de cajas negras.
 
      - Desarrollos en AL orientados a la creación audiovisual.  
 
-     - Interacción co-presencial digital 
+     - Interacción co-presencial digital. 
 
      - Desplazamiento hacia los espacios virtuales y colaboraciones no contempladas.
 
@@ -60,7 +62,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
 ## Three | Open Studies
 
-   - Planteamiento del proyecto de doctorado. Realización de algunos estudios audiovisuales delimitados por estructuras y flujos de control en dos instancias libres de doslenguajes de programación: [SWI-Prolog (Prolog)](https://www.swi-prolog.org/) y [SBCL (Common LISP)](http://www.sbcl.org/).
+   - Planteamiento del proyecto de doctorado. Realización de algunos estudios audiovisuales delimitados por estructuras y flujos de control en dos instancias libres de dos lenguajes de programación: [SWI-Prolog (Prolog)](https://www.swi-prolog.org/) y [SBCL (Common LISP)](http://www.sbcl.org/).
 
    - Motor de audio: [SuperCollider](https://supercollider.github.io/). Motor gráfico: [OpenFrameworks](https://openframeworks.cc/)([OpenGL](https://www.opengl.org)).
 
@@ -74,15 +76,42 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Mental / corporal. Música por computadora, interpretación, gesto y cuerpo.
 
-   - Instancia que ya está en marcha: THREE.studies
+   - Investigación que parte de la práctica y tiene como referentes:
+
+     - Giro de los nuevos medios. 
+
+     - Aspectos políticos y estéticos del software y en específico, del diseño a partir de código. 
+
+     - Composición algorítmica al vuelo.
+
+     - La investigación / creación como bucle.
+
+   - Proyecto que ya está en marcha: open / three studies. Sistemas mixtos prediseñados controlados por código al vuelo. 
 
 ## Notas
 
-<a name="foot1">1</a>: Emilio Ocelotl, Raúl A. Dávila, Alejandro Franco Briones - [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf).
+<a name="foot1">1</a>: Emilio Ocelotl, Raúl A. Dávila, Alejandro Franco Briones - [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf). [Altamisa](https://youtu.be/R_k9EqBZGug) para cello eléctrico, electrónica en vivo y video. 
 
 <a name="foot2">2</a>: Una crónica en construcción: [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html) por Hernani Villaseñor.
 
-
 <a name="foot3">3</a>: [LiveCodeNet Ensamble](https://livecodenetensamble.wordpress.com/) 
 
-<a name="foot4">4</a>: [RGGTRN](https://rggtrn.github.io/)
+<a name="foot4">4</a>: [RGGTRN](https://rggtrn.github.io/). Ocelotl. E, Del Ángel, L. N. y Teixido, M. [Saborítmico: A Report From the Dance Floor in Mexico](https://dj.dancecult.net/index.php/dancecult/article/view/1066/962).
+
+## Referencias
+
+- Bown, O., Eldridge, A., y Mccormack, J. (2009). Understanding interaction in contemporary digital music: From instruments to behavioural objects. Org. Sound, 14(2):188–196.
+
+- Collins, N. (2006). Towards Autonomous Agents for Live Computer Music: Realtime Machine Listening and Interactive Music Systems. Tesis doctoral, University of Cambridge.
+
+- Collins, N., McLean, A., Rohruber, J., y Ward, A. (2003). Live coding techniques for laptop performance. Organised Sound, 8(3).
+
+- Cox, G. y McLean, A. (2013). Speaking Code. Coding as Aesthetic and Political Expression. The MIT Press.
+
+- López-Cano, R. y San Cristóbal Opazo, U. (2014). Investigación artística en música. Problemas, métodos, experiencias y modelos. Fonca-Esmuc, Barcelona.
+
+- Magnusson, T. (2010). Designing constraints: Composing and performing with digital musical systems. Computer Music Journal, 34(4):62–73.
+
+- Manovich, L. (2001). The Language of New Media. Leonardo (Series) (Cambridge, Mass.). MIT Press.
+
+- Rowe, R. (1993). Interactive music systems. En línea; consultado en https://wp.nyu.edu/robert_rowe/text/interactive-music-systems-1993/.

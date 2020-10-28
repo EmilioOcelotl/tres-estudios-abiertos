@@ -13,12 +13,13 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
    - Preguntas sobre el rol de la tecnología y el arte desde la perspectiva de las ciencias sociales.
 
    - Reflexión y acercamiento a la composición electroacústica.<sup>[1](#foot1)</sup> 
-
    - Live Coding (en México).<sup>[2](#foot2)</sup>
 
    - LiveCodeNet Ensamble.<sup>[3](#foot3)</sup>
 
    - RGGTRN y la práctica que va de la mano con la escritura.<sup>[4](#foot4)</sup>
+
+![musicaMixta](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/musicaMixta.png)
 
 ## Música mixta y colaboración
 
@@ -37,6 +38,8 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
    - Los estudios del software como un punto de partida para investigar estos procesos desde el lado técnico. 
 
    - Colaboración, buen vivir y buen conocer. La influencia de la cultura libre / abierta. 
+
+![musicaMixta](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/noche.png)
 
 ## Imagen y visualización
 
@@ -59,6 +62,8 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
      - Desplazamiento hacia los espacios virtuales y colaboraciones no contempladas.
 
      - Inclusión y Exclusión :(
+
+![open](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/open.png)
 
 ## Three | Open Studies
 
@@ -86,7 +91,9 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
      - La investigación / creación como bucle.
 
-   - Proyecto que ya está en marcha: open / three studies. Sistemas mixtos prediseñados controlados por código al vuelo. 
+   - Proyecto que ya está en marcha: open / three studies. Sistemas mixtos prediseñados controlados por código al vuelo.
+
+   - De manera indirecta: analizar aspectos sociales y políticos de la realización de piezas y de aspectos que se desprenden de ellas. 
 
 ## Notas
 

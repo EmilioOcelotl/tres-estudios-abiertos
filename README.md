@@ -56,7 +56,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
      - Software como una caja negra de cajas negras.
 
-     - Desarrollos en AL orientados a la creación audiovisual que persiguen estas premisas: [CineVivo - Celeste Bentacur](https://github.com/essteban/CineVivo), [CaosBox - José Carlos Hasbun](https://github.com/josecaos/caosbox), [INSTRUMENT - Rodrigo Frenk](https://github.com/punksnotdev/INSTRUMENT), [fluent-can / canon-generator - Diego Villaseñor y Alejandro Franco], [Hydra - Olivia jack](https://github.com/ojack/hydra), [SonoTexto - Hernani Villaseñor](https://github.com/hvillase/sonotexto), [seis8s - https://github.com/luisnavarrodelangel/seis8s], [Tinalla](https://github.com/rexmalebka/tinalla)...
+     - Desarrollos en AL orientados a la creación audiovisual que persiguen estas premisas: [CineVivo - Celeste Bentacur](https://github.com/essteban/CineVivo), [CaosBox - José Carlos Hasbun](https://github.com/josecaos/caosbox), [INSTRUMENT - Rodrigo Frenk](https://github.com/punksnotdev/INSTRUMENT), [fluent-can / canon-generator - Diego Villaseñor y Alejandro Franco](https://github.com/nanc-in-a-can/fluent-can), [Hydra - Olivia jack](https://github.com/ojack/hydra), [SonoTexto - Hernani Villaseñor](https://github.com/hvillase/sonotexto), [seis8s - Luis N. Del Angel](https://github.com/luisnavarrodelangel/seis8s), [Tinalla - Dorian Sotomayor](https://github.com/rexmalebka/tinalla)...
 
      - Interacción co-presencial digital, desplazamiento hacia [espacios virtuales](https://videotitlan.piranhalab.cc/) y colaboraciones.
 

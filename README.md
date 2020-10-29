@@ -34,7 +34,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
    
    > Con las herramientas comerciales disponibles para la interpretación con una laptop como Ableton Live o Radial, las sospechas existentes con respecto a las interfaces fijas y a las decisiones de su diseño provocan un giro hacia el lenguaje de programación personalizable. ¿Por qué no explorar la cualidad de interfaz del lenguaje mismo como una nueva herramienta performática, en marcado contraste con interfaces de usuario que resultan bastante convencionales? (Collins et al., 2003, p. 322)
 
-   - Software libre y de código abierto como restricción y ofrecimiento (Thor Magnusson y HCI). Incluso problematizar la misma retórica del software libre.
+   - Software libre y de código abierto como restricción y ofrecimiento (Thor Magnusson y HCI). Incluso problematizar la misma retórica del software libre. Trabajo humano y la relación con el software. 	 
 
    > El argumento de esta sección ha considerado al trabajo en estos términos maquínicos, para ver más allá de la retórica emancipatoria del software libre y tener un entendimiento más detallado del trabajo y la agencia a través de una pluralidad de movimientos sociales, de la auto-organización de los trabajadores, de las culturas del codeo y de la habilidad para escribir, compilar y ejecutar código en modos inesperados. (Cox y McLean, 2013, p. 57)
 
@@ -46,10 +46,6 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    > discutimos que el software musical introduce tres tipos de interacción que no son cubiertos por el paradigma acústico: el software actúa como un medio distinto y nuevo para la interacción entre personas, el desarrollo de software en contextos creativos implica un nuevo y distinto ciclo de interacción entre el desarrollador y el software, y los elementos del software pueden interactuar entre ellos en formas musicalmente significantes.(Bown et al., 2009, p. 188)
 
-   - Los estudios del software como un punto de partida para investigar estos procesos desde el lado técnico. 
-
-   - Colaboración, buen vivir y buen conocer. La influencia de la cultura libre / abierta. 
-
 ![musicaMixta](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/noche.png)
 
 ## Imagen y visualización
@@ -58,7 +54,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Estructuras de información que delimitan.
 
-   - Noches de las estrellas, [HAWC](https://www.hawc-observatory.org/) y [Jets astronómicos](https://github.com/aztekas-code/aztekas-main).
+   - Noches de las estrellas, [ofHAWC](https://github.com/EmilioOcelotl/ofhawc) [HAWC](https://www.hawc-observatory.org/) y [Jets astronómicos](https://github.com/aztekas-code/aztekas-main).
 
 ## PiranhaLab
 
@@ -112,7 +108,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Uno de estos aspectos: P2P y [redes federadas](https://monoskop.org/Federated_networks). Particularmente relevante: [Distributed Web of Care](http://distributedweb.care/)
 
-   > “El buen vivir *sumak kawsay*, demanda, en esta globalidad de conocimiento, de un *sumak yachay*, un buen conocer, de los saberes (nuevos y viejos) [...] crear una matriz productiva basada en conocimiento común y abierto”(Platohedro et al., 2019, p. 31).
+   > “El buen vivir *sumak kawsay*, demanda, en esta globalidad de conocimiento, de un *sumak yachay*, un buen conocer, de los saberes (nuevos y viejos). Es por tanto necesario desarrollar el buen conocer, aquel que beneficia a todos, que crea un entorno rico y fértil para la vida cultural, social, económica, política. En definitiva, crear una matriz productiva basada en conocimiento común y abierto”(Platohedro et al., 2019, p. 31).
    
 ## Referencias
 

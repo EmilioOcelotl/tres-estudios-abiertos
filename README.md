@@ -6,6 +6,8 @@ Tres Estudios Abiertos presenta la articulación entre el proyecto de investigac
 
 Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas. 
 
+![rggtrn](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/rggtrn.jpg)
+
 ## Antecedentes
 
    - Inquietudes de investigación que se desbordaron hacia la creación.
@@ -50,17 +52,21 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Noches de las estrellas, [HAWC](https://www.hawc-observatory.org/) y [Jets astronómicos](https://github.com/aztekas-code/aztekas-main).
 
-   - [PiranhaLab](https://github.com/piranhalab).
+![plab](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/plab.png)
 
-     - Usuario que se desplaza hacia el desarrollo.
+## PiranhaLab
 
-     - Software como una caja negra de cajas negras.
+[PiranhaLab](https://github.com/piranhalab).
 
-     - Desarrollos en AL orientados a la creación audiovisual que persiguen estas premisas: [CineVivo - Celeste Bentacur](https://github.com/essteban/CineVivo), [CaosBox - José Carlos Hasbun](https://github.com/josecaos/caosbox), [INSTRUMENT - Rodrigo Frenk](https://github.com/punksnotdev/INSTRUMENT), [fluent-can / canon-generator - Diego Villaseñor y Alejandro Franco](https://github.com/nanc-in-a-can/fluent-can), [Hydra - Olivia jack](https://github.com/ojack/hydra), [SonoTexto - Hernani Villaseñor](https://github.com/hvillase/sonotexto), [seis8s - Luis N. Del Angel](https://github.com/luisnavarrodelangel/seis8s), [Tinalla - Dorian Sotomayor](https://github.com/rexmalebka/tinalla)...
+   - Usuario que se desplaza hacia el desarrollo.
 
-     - Interacción co-presencial digital, desplazamiento hacia [espacios virtuales](https://videotitlan.piranhalab.cc/) y colaboraciones.
+   - Software como una caja negra de cajas negras.
 
-     - Inclusión y Exclusión :(
+   - Desarrollos orientados al live coding en AL orientados a la creación audiovisual que persiguen estas premisas: [CineVivo - Celeste Bentacur](https://github.com/essteban/CineVivo), [CaosBox - José Carlos Hasbun](https://github.com/josecaos/caosbox), [INSTRUMENT - Rodrigo Frenk](https://github.com/punksnotdev/INSTRUMENT), [fluent-can / canon-generator - Diego Villaseñor y Alejandro Franco](https://github.com/nanc-in-a-can/fluent-can), [Hydra - Olivia jack](https://github.com/ojack/hydra), [SonoTexto - Hernani Villaseñor](https://github.com/hvillase/sonotexto), [seis8s - Luis N. Del Angel](https://github.com/luisnavarrodelangel/seis8s), [Tinalla - Dorian Sotomayor](https://github.com/rexmalebka/tinalla)...
+
+   - Interacción co-presencial digital, desplazamiento hacia [espacios virtuales](https://videotitlan.piranhalab.cc/) y colaboraciones.
+
+   - Inclusión y Exclusión :(
 
 ![open](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/open.png)
 
@@ -91,6 +97,8 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
      - La investigación / creación como bucle.
 
    - Proyecto que ya está en marcha: open / three studies. Sistemas mixtos prediseñados controlados por código al vuelo.
+
+   - Contexto pandémico acelera el acercamiento al modo three: flujos, intercambios y procesamientos a través de la web: [Jack](https://jackaudio.org/) y [Jacktrip](https://ccrma.stanford.edu/software/jacktrip/). 
 
    - De manera indirecta: analizar aspectos sociales y políticos de la realización de piezas y de aspectos que se desprenden de ellas. 
  

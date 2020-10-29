@@ -6,8 +6,6 @@ Tres Estudios Abiertos presenta la articulación entre el proyecto de investigac
 
 Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas. 
 
-![rggtrn](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/rggtrn.jpg)
-
 ## Antecedentes
 
    - Inquietudes de investigación que se desbordaron hacia la creación.
@@ -51,8 +49,6 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
    - Estructuras de información que delimitan.
 
    - Noches de las estrellas, [HAWC](https://www.hawc-observatory.org/) y [Jets astronómicos](https://github.com/aztekas-code/aztekas-main).
-
-![plab](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/plab.png)
 
 ## PiranhaLab
 

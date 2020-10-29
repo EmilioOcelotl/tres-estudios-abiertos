@@ -12,12 +12,13 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Preguntas sobre el rol de la tecnología y el arte desde la perspectiva de las ciencias sociales.
 
-   - Reflexión y acercamiento a la composición electroacústica.<sup>[1](#foot1)</sup> 
-   - Live Coding (en México).<sup>[2](#foot2)</sup>
+   - [Altamisa](https://youtu.be/R_k9EqBZGug), [Leviathan](https://www.youtube.com/watch?v=X4a_5-Yodoo) y [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf) 
 
-   - LiveCodeNet Ensamble.<sup>[3](#foot3)</sup>
+   - [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html)
 
-   - RGGTRN y la práctica que va de la mano con la escritura.<sup>[4](#foot4)</sup>
+   - [LiveCodeNet Ensamble](https://livecodenetensamble.wordpress.com/)
+
+   - [RGGTRN](https://rggtrn.github.io/) y la práctica que va de la mano con la escritura: [Saborítmico](https://dj.dancecult.net/index.php/dancecult/article/view/1066/962) y [Bellacode](https://iclc.toplap.org/2019/papers/paper111.pdf)
 
 ![musicaMixta](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/musicaMixta.png)
 
@@ -47,19 +48,17 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Estructuras de información que delimitan.
 
-   - Noches de las estrellas, HAWC y Jets astronómicos.
+   - Noches de las estrellas, [HAWC](https://www.hawc-observatory.org/) y [Jets astronómicos](https://github.com/aztekas-code/aztekas-main).
 
-   - PiranhaLab.
+   - [PiranhaLab](https://github.com/piranhalab).
 
      - Usuario que se desplaza hacia el desarrollo.
 
      - Software como una caja negra de cajas negras.
 
-     - Desarrollos en AL orientados a la creación audiovisual.  
+     - Desarrollos en AL orientados a la creación audiovisual que persiguen estas premisas: [CineVivo - Celeste Bentacur](https://github.com/essteban/CineVivo), [CaosBox - José Carlos Hasbun](https://github.com/josecaos/caosbox), [INSTRUMENT - Rodrigo Frenk](https://github.com/punksnotdev/INSTRUMENT), [fluent-can / canon-generator - Diego Villaseñor y Alejandro Franco], [Hydra - Olivia jack](https://github.com/ojack/hydra), [SonoTexto - Hernani Villaseñor](https://github.com/hvillase/sonotexto), [seis8s - https://github.com/luisnavarrodelangel/seis8s], [Tinalla](https://github.com/rexmalebka/tinalla)...
 
-     - Interacción co-presencial digital. 
-
-     - Desplazamiento hacia los espacios virtuales y colaboraciones no contempladas.
+     - Interacción co-presencial digital, desplazamiento hacia [espacios virtuales](https://videotitlan.piranhalab.cc/) y colaboraciones.
 
      - Inclusión y Exclusión :(
 
@@ -94,17 +93,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
    - Proyecto que ya está en marcha: open / three studies. Sistemas mixtos prediseñados controlados por código al vuelo.
 
    - De manera indirecta: analizar aspectos sociales y políticos de la realización de piezas y de aspectos que se desprenden de ellas. 
-
-## Notas
-
-<a name="foot1">1</a>: Emilio Ocelotl, Raúl A. Dávila, Alejandro Franco Briones - [Aproximaciones al término de música electroacústica en México](http://www.ems-network.org/ems19/EMS%20timetable%20v5.pdf). [Altamisa](https://youtu.be/R_k9EqBZGug) para cello eléctrico, electrónica en vivo y video. 
-
-<a name="foot2">2</a>: Una crónica en construcción: [Live Coding en México](http://hernanivillasenor.com/archivos/html/livecoding.html) por Hernani Villaseñor.
-
-<a name="foot3">3</a>: [LiveCodeNet Ensamble](https://livecodenetensamble.wordpress.com/) 
-
-<a name="foot4">4</a>: [RGGTRN](https://rggtrn.github.io/). Ocelotl. E, Del Ángel, L. N. y Teixido, M. [Saborítmico: A Report From the Dance Floor in Mexico](https://dj.dancecult.net/index.php/dancecult/article/view/1066/962).
-
+ 
 ## Referencias
 
 - Bown, O., Eldridge, A., y Mccormack, J. (2009). Understanding interaction in contemporary digital music: From instruments to behavioural objects. Org. Sound, 14(2):188–196.

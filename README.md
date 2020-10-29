@@ -2,7 +2,7 @@
 
 # Tres Estudios Abiertos
 
-Tres Estudios Abiertos presenta la articulación entre el proyecto de investigación que realicé en maestría y la propuesta que tengo en consideración para la propuesta de doctorado.
+Tres Estudios Abiertos presenta la articulación entre el proyecto de investigación que realicé en maestría y la propuesta que tengo en consideración para el doctorado.
 
 Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas. 
 
@@ -26,9 +26,9 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
 ## Música mixta y colaboración
 
-   - Contexto de una investigación de maestría > Realización de piezas que usaran sistemas interactivos y que implicarán intérpretes.
+   - Contexto de una investigación de maestría > Realización de piezas que usaran sistemas interactivos y que implicarán la participación de intérpretes.
 
-   - Abierto / Libre en términos de la computadora(No resuelto en el proyecto de maestría). Condiciones de posibilidad. Indagación histórica de los caminos, sin búsqueda de equivalencias.
+   - Abierto / Libre en términos de la computadora (No resuelto en el proyecto de maestría). Condiciones de posibilidad. Indagación histórica de los caminos, sin búsqueda de equivalencias.
 
    - Problematizar la interfaz y desiciones de diseño en términos políticos y prácticos.
    
@@ -76,7 +76,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Empezaron como videos cortos en [Instagram](https://www.instagram.com/emilio_ocelotl/) (trabajos en proceso). 
 
-   - Planteamiento del proyecto de doctorado. Realización de algunos estudios audiovisuales delimitados por estructuras y flujos de control en dos instancias libres de dos lenguajes de programación: [SWI-Prolog (Prolog)](https://www.swi-prolog.org/) y [SBCL (Common LISP)](http://www.sbcl.org/).
+   - Planteamiento del proyecto de doctorado. Realización de algunos estudios audiovisuales delimitados por estructuras y flujos de control en dos instancias de lenguajes de programación: [SWI-Prolog (Prolog)](https://www.swi-prolog.org/) y [SBCL (Common LISP)](http://www.sbcl.org/).
 
    - Motor de audio: [SuperCollider](https://supercollider.github.io/). Motor gráfico: [OpenFrameworks](https://openframeworks.cc/)([OpenGL](https://www.opengl.org)).
 

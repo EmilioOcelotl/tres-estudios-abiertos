@@ -6,6 +6,8 @@ Tres Estudios Abiertos presenta la articulación entre el proyecto de investigac
 
 Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas. 
 
+> Si somos esclavos de la tecnologı́a, es precisamente porque hay todo un conjunto de artefactos de nuestra existencia cotidiana que tenemos por especı́ficamente “técnicos” y que consideramos eternamente como simples cajas negras de las cuales serı́amos sus inocentes usuarios. Comprender cómo funciona cualquiera de los aparatos que nos rodean conlleva a un incremento de potencia inmediato, permitiéndonos actuar sobre aquello que por consiguiente no se nos aparece ya como un medio ambiente, sino como un mundo agenciado de una cierta manera y sobre el cual podemos intervenir. (Comité-invisible, 2014, p. 133)
+
 ## Antecedentes
 
    - Inquietudes de investigación que se desbordaron hacia la creación.
@@ -28,7 +30,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Abierto / Libre (No resuelto en el proyecto de maestría). Condiciones de posibilidad. Indagación histórica de los caminos, sin búsqueda de equivalencias.
 
-   - Problematizar la interfaz en términos políticos y prácticos. Software libre y de código abierto como restricción y ofrecimiento. 
+   - Problematizar la interfaz en términos políticos y prácticos. Software libre y de código abierto como restricción y ofrecimiento. Live Coding y Thor Magnusson.  
 
    - El proceso de investigación en música y tecnología como un bucle entre práctica y reflexión.
 
@@ -82,13 +84,11 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Retroalimentación e interacción a través de la percepción > Sistemas interactivos y representación visual de flujos y cambios.   
 
-   - Mental / corporal. Música por computadora, interpretación, gesto y cuerpo.
+   - Mental / corporal. Música por computadora, interpretación, gesto y cuerpo. [Sobre cómo emborrachar a un ordenador](http://users.sussex.ac.uk/~thm21/thor/pdfs/Magnusson_EmborracharUnOrdenador.pdf) 
 
    - Investigación que parte de la práctica y tiene como referentes:
 
-     - Giro nuevos medios > software. Lev Manovich
-
-     > Cita Lev Manovich
+     - Software Studies. Lev Manovich
 
      - Aspectos políticos y estéticos del software y en específico, del diseño a partir de código. 
 
@@ -98,13 +98,13 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
    - Proyecto que ya está en marcha: open / three studies. Sistemas mixtos prediseñados controlados por código al vuelo.
 
-   - Contexto pandémico acelera el acercamiento al modo three: flujos, intercambios y procesamientos a través de la web: [Jack](https://jackaudio.org/) y [Jacktrip](https://ccrma.stanford.edu/software/jacktrip/). 
+   - Contexto pandémico acelera el acercamiento al modo three: flujos, intercambios y procesamientos a través de la web: [Jack](https://jackaudio.org/) y [Jacktrip](https://ccrma.stanford.edu/software/jacktrip/). Más recientemente: [SonoBus](https://github.com/essej/sonobus) 
 
-   - De manera indirecta: analizar aspectos sociales y políticos de la realización de piezas y de aspectos que se desprenden de ellas. 
+   - De manera indirecta: analizar aspectos sociales y políticos, vinculados a lo tecnológico que resultan de la realización de piezas y de aspectos que se desprenden de ellas.
 
-   > La extensión y la puesta en red del Do It Yourself ha implicado su parte de reclamaciones: se trata de arreglar las cosas, la calle, la ciudad, la sociedad, e incluso la vida.
+   - Uno de estos aspectos: P2P y [redes federadas](https://monoskop.org/Federated_networks). Particularmente relevante: [Distributed Web of Care](http://distributedweb.care/)
 
-   > Platohedro
+   > “El buen vivir *sumak kawsay*, demanda, en esta globalidad de conocimiento, de un *sumak yachay*, un buen conocer, de los saberes (nuevos y viejos) [...] crear una matriz productiva basada en conocimiento común y abierto”(Platohedro et al., 2019, p. 31).
    
 ## Referencias
 
@@ -114,7 +114,11 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
 - Collins, N., McLean, A., Rohruber, J., y Ward, A. (2003). Live coding techniques for laptop performance. Organised Sound, 8(3).
 
+- Comité-invisible (2014). [A nuestros amigos](http://mexico.indymedia.org/IMG/pdf/a_nuestros_amigos_-_comite_invisible.pdf).
+
 - Cox, G. y McLean, A. (2013). Speaking Code. Coding as Aesthetic and Political Expression. The MIT Press.
+
+- Latour, B. (2001). La esperanza de Pandora. Ensayos sobre la realidad de los estudios de la ciencia. Gedisa, Barcelona.
 
 - López-Cano, R. y San Cristóbal Opazo, U. (2014). Investigación artística en música. Problemas, métodos, experiencias y modelos. Fonca-Esmuc, Barcelona.
 
@@ -122,4 +126,8 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
 - Manovich, L. (2001). The Language of New Media. Leonardo (Series) (Cambridge, Mass.). MIT Press.
 
-- Rowe, R. (1993). Interactive music systems. En línea; consultado en https://wp.nyu.edu/robert_rowe/text/interactive-music-systems-1993/.
+- Platohedro, Correa, A., Alvarez, L. M., Fleischmann, L., Rodrı́guez, Y., Rueda, D., Jaramillo, J. A., Correa, C., y Narváez, O. (2019). Platohedro. [Multiversos](https://platohedro.org/multiversos/). Cráneo Invertido, Medellı́n, Colombia.
+
+- Rowe, R. (1993). [Interactive music systems](https://wp.nyu.edu/robert_rowe/text/interactive-music-systems-1993/).
+
+- Welch, C. (2010). Programming machines and people: Techniques for live improvisation with electronics. Leonardo Music Journal, -:25–28.

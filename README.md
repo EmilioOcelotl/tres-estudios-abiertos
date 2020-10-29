@@ -26,17 +26,25 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
 ## Música mixta y colaboración
 
-   - Contexto de una investigación de maestría > Sistema interactivo como motivo. 
+   - Contexto de una investigación de maestría > Realización de piezas que usaran sistemas interactivos y que implicarán intérpretes.
 
-   - Abierto / Libre (No resuelto en el proyecto de maestría). Condiciones de posibilidad. Indagación histórica de los caminos, sin búsqueda de equivalencias.
+   - Abierto / Libre en términos de la computadora(No resuelto en el proyecto de maestría). Condiciones de posibilidad. Indagación histórica de los caminos, sin búsqueda de equivalencias.
 
-   - Problematizar la interfaz en términos políticos y prácticos. Software libre y de código abierto como restricción y ofrecimiento. Live Coding y Thor Magnusson.  
+   - Problematizar la interfaz y desiciones de diseño en términos políticos y prácticos.
+   
+   > Con las herramientas comerciales disponibles para la interpretación con una laptop como Ableton Live o Radial, las sospechas existentes con respecto a las interfaces fijas y a las decisiones de su diseño provocan un giro hacia el lenguaje de programación personalizable. ¿Por qué no explorar la cualidad de interfaz del lenguaje mismo como una nueva herramienta performática, en marcado contraste con interfaces de usuario que resultan bastante convencionales? (Collins et al., 2003, p. 322)
+
+   - Software libre y de código abierto como restricción y ofrecimiento (Thor Magnusson y HCI). Incluso problematizar la misma retórica del software libre.
+
+   > El argumento de esta sección ha considerado al trabajo en estos términos maquínicos, para ver más allá de la retórica emancipatoria del software libre y tener un entendimiento más detallado del trabajo y la agencia a través de una pluralidad de movimientos sociales, de la auto-organización de los trabajadores, de las culturas del codeo y de la habilidad para escribir, compilar y ejecutar código en modos inesperados. (Cox y McLean, 2013, p. 57)
 
    - El proceso de investigación en música y tecnología como un bucle entre práctica y reflexión.
 
    - Computadora, código y práctica en múltiples perspectivas: como instrumento musical, prótesis o como agente autónomo.
 
-   - Reconfiguración de roles: instrumento, composición e interpretación.
+   - Reconfiguración de roles: instrumento, composición e interpretación. Interacciones que se generan a partir del uso de software en música:
+
+   > discutimos que el software musical introduce tres tipos de interacción que no son cubiertos por el paradigma acústico: el software actúa como un medio distinto y nuevo para la interacción entre personas, el desarrollo de software en contextos creativos implica un nuevo y distinto ciclo de interacción entre el desarrollador y el software, y los elementos del software pueden interactuar entre ellos en formas musicalmente significantes.(Bown et al., 2009, p. 188)
 
    - Los estudios del software como un punto de partida para investigar estos procesos desde el lado técnico. 
 

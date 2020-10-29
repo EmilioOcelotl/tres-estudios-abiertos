@@ -88,6 +88,8 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
      - Giro nuevos medios > software. Lev Manovich
 
+     > Cita Lev Manovich
+
      - Aspectos políticos y estéticos del software y en específico, del diseño a partir de código. 
 
      - Composición algorítmica al vuelo.
@@ -99,7 +101,11 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
    - Contexto pandémico acelera el acercamiento al modo three: flujos, intercambios y procesamientos a través de la web: [Jack](https://jackaudio.org/) y [Jacktrip](https://ccrma.stanford.edu/software/jacktrip/). 
 
    - De manera indirecta: analizar aspectos sociales y políticos de la realización de piezas y de aspectos que se desprenden de ellas. 
- 
+
+   > La extensión y la puesta en red del Do It Yourself ha implicado su parte de reclamaciones: se trata de arreglar las cosas, la calle, la ciudad, la sociedad, e incluso la vida.
+
+   > Platohedro
+   
 ## Referencias
 
 - Bown, O., Eldridge, A., y Mccormack, J. (2009). Understanding interaction in contemporary digital music: From instruments to behavioural objects. Org. Sound, 14(2):188–196.

@@ -78,7 +78,7 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
      - Lenguajes de programación y sintaxis a partir de un caso en específico. 
 
-     - Estudios para los múltiples lenguajes de programación y plataformas que históricamente han sido significativos para la composición musical (con la computadora).
+     - Estudios para los múltiples lenguajes de programación y plataformas que históricamente han sido significativos para la composición musical (con la computadora). Inicialmente pudo plantearse como una comparación entre dos plataformas, también podría ser entre la mayor cantidad de plataformas posibles. 
 
      - Estudios para el navegador. Exploraciones de plataformas que rebasan la zona de confort: SuperCollider y OpenFrameworks. Audio / Imagen para la web. Distribución. Considero que este último punto propone una ruta no experimentada. Una instancia que ya está en marcha > [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies/blob/main/threecln/README.md) para cello, live coder y navegador. 
 

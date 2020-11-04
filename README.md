@@ -74,6 +74,14 @@ Exponer un mapa que permita visualizar el panorama y delimitar posibles rutas.
 
 ## Three | Open Studies
 
+   - Tres posibles caminos para recorrer el mapa:
+
+     - Lenguajes de programación y sintaxis a partir de un caso en específico. 
+
+     - Estudios para los múltiples lenguajes de programación y plataformas que históricamente han sido significativos para la composición musical (con la computadora).
+
+     - Estudios para el navegador. Exploraciones de plataformas que rebasan la zona de confort: SuperCollider y OpenFrameworks. Audio / Imagen para la web. Distribución. Considero que este último punto propone una ruta no experimentada. 
+
    - Empezaron como videos cortos en [Instagram](https://www.instagram.com/emilio_ocelotl/) (trabajos en proceso). 
 
    - Planteamiento del proyecto de doctorado. Realización de algunos estudios audiovisuales delimitados por estructuras y flujos de control en dos instancias de lenguajes de programación: [SWI-Prolog (Prolog)](https://www.swi-prolog.org/) y [SBCL (Common LISP)](http://www.sbcl.org/).

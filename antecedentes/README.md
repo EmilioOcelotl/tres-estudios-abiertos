@@ -2,7 +2,17 @@
 
 # Tres Estudios Abiertos - Antecedentes
 
-## Generales
+De los antecedentes y como estos influyeron en el planteamiento y en la discusión con el tutor, planteo tres posibles caminos para recorrer el mapa:
+
+- Lenguajes de programación y sintaxis a partir de un caso en específico. Por ejemplo podría aprender Prolog o LISP de una manera muy precisa y generar una síntaxis que me permita hacer piezas y profundizar en el estudio del caso seleccionado.  
+
+  - Estudios para los múltiples lenguajes de programación y plataformas que históricamente han sido significativos para la composición musical (con la computadora). Inicialmente pudo plantearse como una comparación entre dos plataformas, también podría ser entre la mayor cantidad de plataformas posibles. 
+
+  - Estudios para el navegador. Exploraciones de plataformas que rebasan la zona de confort: SuperCollider y OpenFrameworks. Audio / Imagen para la web. Distribución. Considero que este último punto propone una ruta no experimentada. Una instancia que ya está en marcha > [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies/blob/main/threecln/README.md) para cello, live coder y navegador. 
+
+## Antecedentes generales
+
+He desplazado este apartado para no extenderme mucho en las exposiciones. 
 
    - Preguntas sobre el rol de la tecnología y el arte desde la perspectiva de las ciencias sociales. Desbordamiento hacia la creación.
 
@@ -60,3 +70,9 @@
    - Interacción co-presencial digital, desplazamiento hacia [espacios virtuales](https://videotitlan.piranhalab.cc/) y colaboraciones.
 
    - Inclusión y Exclusión :(
+
+## Antecedentes fuera de la experiencia personal, cursos/ talleres  e inspiraciones
+
+- [Nodos y trayectos](https://github.com/EmilioOcelotl/nodos-y-trayectos) 
+
+- Hydra de Olivia Jack

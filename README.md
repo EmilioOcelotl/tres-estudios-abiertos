@@ -8,27 +8,24 @@ Este repositorio busca exponer un mapa que permita visualizar el panorama y deli
 
 ## Resumen
 
-El presente estudio se enfoca en el desarrollo y puesta en marcha de un sistema personalizado para el procesamiento de música e imagen en tiempo real desde el navegador. 
-Aprovecha el potencial de los lenguajes de programación y de las interfaces de texto al vuelo como posibilidad tecnológica y poética. 
-Busca estudiar el rol de la triada intrumento, interpretación y composición con la implementación de un prototipo que se ejecute y que sirva como partitura en situación de concierto.
-Este prototipo tendrá una salida audiovisual
-Finalmente, a manera de propuesta para la exploración de estas piezas, indaga en las posibilidades creativas y sociales de movimientos que problematizan el conocimiento y la codificación en un contexto creativo como el buen vivir/ buen conocer, DIY (Házlo tú mismo), DIWO (Hazlo con otros) y la distribución y decentralización en la web. 
+El presente estudio se enfoca en el desarrollo y puesta en marcha de un sistema personalizado para el procesamiento de música e imagen en tiempo real desde el navegador. Aprovecha el potencial de los lenguajes de programación y de las interfaces de texto al vuelo como posibilidad tecnológica y poética. 
+
+Busca estudiar el rol de la triada instrumento, interpretación y composición con la implementac
+ión de un prototipo audio visual que se ejecute como audio/imagen en vivo  y que sirva como partitura en situación de concierto. En términos estéticos el prototipo tendrá como eje la experimentación espacial y temporal. 
+
+Finalmente, a manera de propuesta para la exploración de estas piezas, indaga en las posibilidades creativas y sociales de movimientos que problematizan el conocimiento y la codificación en un contexto creativo como el buen vivir/ buen conocer, DIY (Hazlo tú mismo), DIWO (Hazlo con otros) y la distribución y decentralización en la web. 
+
+[Presentaciones y versiones anteriores](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/anteriores/README.md)
 
 [Antecedentes](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/antecedentes/README.md)
 
 ![open](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/open.png)
 
-## Introducción 
+## Introducción
+
+Tres estudios abiertos es un proyecto que se desenvuelve en discusión con la práctica musical.En específico hace referencia a la música por computadora y al uso de interfaces de texto basasadas en lenguajes de programación orentados al audio  Actualmente hay una instancia que inspira a este proyecto y que es su motivo más inmediato: [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies) 
 
 ## Three | Open Studies
-
-   - Tres posibles caminos para recorrer el mapa:
-
-     - Lenguajes de programación y sintaxis a partir de un caso en específico. 
-
-     - Estudios para los múltiples lenguajes de programación y plataformas que históricamente han sido significativos para la composición musical (con la computadora). Inicialmente pudo plantearse como una comparación entre dos plataformas, también podría ser entre la mayor cantidad de plataformas posibles. 
-
-     - Estudios para el navegador. Exploraciones de plataformas que rebasan la zona de confort: SuperCollider y OpenFrameworks. Audio / Imagen para la web. Distribución. Considero que este último punto propone una ruta no experimentada. Una instancia que ya está en marcha > [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies/blob/main/threecln/README.md) para cello, live coder y navegador. 
 
    - Empezaron como videos cortos en [Instagram](https://www.instagram.com/emilio_ocelotl/) (trabajos en proceso). 
 

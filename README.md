@@ -19,6 +19,8 @@ Finalmente, a manera de propuesta para la exploración de estas piezas, indaga e
 
 [Antecedentes](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/antecedentes/README.md)
 
+Maquetas y proyectos que sean accesibles.
+
 ![open](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/open.png)
 
 ## Introducción
@@ -33,7 +35,9 @@ TEA considera al uso del navegador y de piezas audiovisuales en la web como uno 
 
 El proyecto se encuentra en un estado inicial y plantea dos momentos específicos: el primero busca ser un primer acercamiento al uso de [WebGL](https://www.khronos.org/webgl/), [Web Audio API](https://developer.mozilla.org/es/docs/Web_Audio_API) (motores de audio y video) y [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) vía [three.js](https://threejs.org/). El segundo momento busca explorar las posibilidades en un nivel de programación inferior. Para resolver este último punto la investigación parte de dos plataformas: [WebGL](https://get.webgl.org/) y [WebAssembly](https://webassembly.org/).
 
-El sistema propuesto será un granulador de audio e imagen. El procesamiento de señales de audio y de objetos visuales generados en un entorno 3d tendrán correspondencia y las piezas generadas transformarán simultáneamente al flujo de sonido e imagen. Nota: Clasificación. 
+El sistema propuesto será un granulador de audio e imagen. El procesamiento de señales de audio y de objetos visuales generados en un entorno 3d tendrán correspondencia y las piezas generadas transformarán simultáneamente al flujo de sonido e imagen. Nota: Clasificación y espectro pueden ser relevantes en el contexto de la reconstrucción. 
+
+La presente propuesta busca aportar elementos abstractos que puedan ser implementadas en el contexto específico de la realización de piezas audiovisuales que coincidan o aporten elementos a otros desarrollos complejos y extensos que sobrepasen los tiempos de esta investigación. El colectivo PiranhaLab puede ser uno de los interlocutores tecno-estéticos colectivos que permitan enriquecer el proyecto de manera diferenciada. Relevancia de los proyectos paralelos. 
 
 ## Procesamiento, flujos e interpretación 
 
@@ -50,6 +54,8 @@ El proyecto busca establecer flujos de audio, imagen e información. Esto se imp
 Además de los agentes que interpretan y alimentan con flujos de audio / video al sistema interactivo, el sistema contempla ejecutentes de computadora. Para la realización de esta función el proyecto busca explorar las posibilidades de las interfaces textuales para el control y la transformación de audio e imagen. El ejecutante de la computadora idealmente puede ser un ejecutante al vuelo o *live coder*. La función de este ejecutante consiste en explorar y sacarle sonido a un sistema que por una parte ya está delimitado y es fijo y que por el otro, permite la exploración al vuelo por medio del mismo código que lo ejecuta. La interfaz de audio partira de dialéctos personalizados basados en lenguajes de programación amplios como Javascript o LISP y buscar ser, además de una interfaz eficaz, un recurso poético que permita delimitar las piezas a partir de lo textual. 
 
 La distinción entre intérpretes y ejecutantes de computadora son los extremos de un continuo. Las personas involucradas en la interpretación podrían controlar flujos de audio provenientes de una señal acústica y manipular la señal en este espacio. De hecho el mismo compositor puede ser ejecutante y la idea es que los ejecutantes puedan aportar desde la perspectiva de la composición. Incluso el flujo de la pieza podrá estar delimitado por el mismo sistema. Este último punto ofrecerá una discusión referente a la reconfiguración de la triada composición, intepretación e instrumento. 
+
+La generación de una interfaz de texto basada en código tiene como objetivo principal practicar y reflexionar en torno a la expresividad visual/musical a través de estas interfaces. La generación de capas superiores de código en el contexto permiten expresar una idea con pocos elementos o instrucciones. El presente proyecto se adscribe a la perspectiva del live coding y busca sortear los problemas que surgen en las interpretaciones en situación de concierto con código de programación. El presente proyecto apunta a la descentralización y des-estandarización de las interfaces de alto nivel. 
 
 ## Vetas reflexivas 
 
@@ -68,7 +74,9 @@ Finalmente el proyecto busca plantear formas de colaboraciónteniendo en cuenta 
 Y formas de organización decentralizadas como las redes par a par conceptos y formas de organización que toman en cuenta el conocimiento y lo tecnológico para plantear un motivo constante en la realización de piezas y que pueden ser un motivo para problematizar no solamente la práctica musical y el desarrollo de tecnología musical: 
 
 > “El buen vivir *sumak kawsay*, demanda, en esta globalidad de conocimiento, de un *sumak yachay*, un buen conocer, de los saberes (nuevos y viejos). Es por tanto necesario desarrollar el buen conocer, aquel que beneficia a todos, que crea un entorno rico y fértil para la vida cultural, social, económica, política. En definitiva, crear una matriz productiva basada en conocimiento común y abierto”(Platohedro et al., 2019, p. 31).
-   
+
+[Ideas sueltas](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/sueltas/README.md)
+
 ## Referencias
 
 - Bown, O., Eldridge, A., y Mccormack, J. (2009). Understanding interaction in contemporary digital music: From instruments to behavioural objects. Org. Sound, 14(2):188–196.

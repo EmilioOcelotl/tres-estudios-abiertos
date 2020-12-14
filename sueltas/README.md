@@ -15,7 +15,6 @@ Inventar un idioma que solo voy a hablar
 
 Medir fuerzas rutinas de control sobre JS
 
-
 Sintetizador granular en algo que no sea supercollider
 
 Extender las ideas de la síntesis granular a la parte visual

@@ -6,12 +6,23 @@
 
 Este repositorio busca exponer un mapa que permita visualizar el panorama y delimitar posibles rutas. 
 
+Actualmente hay una instancia que inspira a este proyecto y que es su motivo más inmediato: [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies).
+
+## Objetivos
+
+- Principal: Desarrollar un sintetizador granular visual y sonoro en el navegador
+- Principal: Implementar este sintetizador en un espacio virtual y en situaciones de concierto
+- Secundario: Implementar el proyecto en dos capas de complejidad. Pasar del alto al bajo nivel.
+- Secundario: Utilizar una serie de instrucciones personalizadas como interfaz textual que puedan mediar entre niveles y que discutan con el contexto cultural en el que se enmarcan. 
+- Secundiario: Realizar reflexiones a manera de documentación, teniendo como eje de vinculación conceptos tecno-sociales y estéticos. 
+- Secundario: Aportar módulos de desarrollo tecnólogico que puedar ser de utilidad para otros proyectos. 
+- Secundario: Estrategias de colaboración y creación a distancia, por medio de la computadora y e instrumentos acústicos. 
+
 ## Resumen
 
 El presente estudio se enfoca en el desarrollo y puesta en marcha de un sistema personalizado para el procesamiento de música e imagen en tiempo real desde el navegador. Aprovecha el potencial de los lenguajes de programación y de las interfaces de texto al vuelo como posibilidad tecnológica y poética. 
 
-Busca estudiar el rol de la triada instrumento, interpretación y composición con la implementac
-ión de un prototipo audio visual que se ejecute como audio/imagen en vivo  y que sirva como partitura en situación de concierto. En términos estéticos el prototipo tendrá como eje la experimentación espacial y temporal. 
+De manera secundaria estudiar el rol de la triada instrumento, interpretación y composición con la implementación de un prototipo audio visual que se ejecute como audio/imagen en vivo  y que sirva como partitura en situación de concierto. En términos estéticos el prototipo tendrá como eje la experimentación espacial y temporal. 
 
 Finalmente, a manera de propuesta para la exploración de estas piezas, indaga en las posibilidades creativas y sociales de movimientos que problematizan el conocimiento y la codificación en un contexto creativo como el buen vivir/ buen conocer, DIY (Hazlo tú mismo), DIWO (Hazlo con otros) y la distribución y decentralización en la web. 
 
@@ -25,7 +36,7 @@ Maquetas y proyectos que sean accesibles.
 
 ## Introducción
 
-Tres estudios abiertos es un proyecto que se desenvuelve en discusión con la práctica musical.En específico hace referencia a la música por computadora, a la interpretación musical y al uso de interfaces de texto basasadas en lenguajes de programación orentados al audio  Actualmente hay una instancia que inspira a este proyecto y que es su motivo más inmediato: [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies).
+Tres estudios abiertos es un proyecto que se desenvuelve en discusión con la práctica musical.En específico hace referencia a la música por computadora, a la interpretación musical y al uso de interfaces de texto basasadas en lenguajes de programación orentados al audio.
 
 El proyecto de investigación toma en cuenta a los lenguajes de programación orientados a música e imagen como un proceso histórico delimitado por factores sociales, políticos y económicos. La conformación de estas plantaformas ha planteado momentos en los cuales es posible observar giros en la orientación de estas plataformas.
 
@@ -41,7 +52,7 @@ La presente propuesta busca aportar elementos abstractos que puedan ser implemen
 
 ## Procesamiento, flujos e interpretación 
 
-Si bien el sistema inicialmente plantea el procesamiento de señales desde el navegador como motor de audio, también plantea la interacción con flujos de audio de fuentes no sintéticas. Idealmente este sistema podría funcionar para procesar la señal de audio de un flujo de audio generado por instrumentistas presencialmente o a distancia. El objeto práctico del prototipo es construir un sistema interactivo en la web que reduzca curvas de instalación y que permita la participación de intérpretes musicales y ejecutantes de la computadora.
+Si bien el sistema inicialmente plantea el procesamiento de señales desde el navegador como motor de audio, también plantea la interacción con flujos de audio de fuentes no sintéticos. Idealmente este sistema podría funcionar para procesar la señal de audio de un flujo de audio generado por instrumentistas presencialmente o a distancia. El objeto práctico del prototipo es construir un sistema interactivo en la web que reduzca curvas de instalación y que permita la participación de intérpretes musicales y ejecutantes de la computadora.
 
 El proyecto busca plantear la interacción entre intérpretes musicales, ejecutantes de la computadora y sistema interactivo a través de un proceso de retroalimentación e interacción a través de la percepción  visual(a través de la imagen pero también a través de la lectura de código) y sonora. En este sentido el flujo de audio e imagen es por sí misma la electrónica en vivo de la pieza y al mismo tiempo es una partitura audiovisual sugerida.
 
@@ -67,11 +78,13 @@ El proyecto se implementará en software libre y de código abierto. Pretende ap
 
 > El argumento de esta sección ha considerado al trabajo en estos términos maquínicos, para ver más allá de la retórica emancipatoria del software libre y tener un entendimiento más detallado del trabajo y la agencia a través de una pluralidad de movimientos sociales, de la auto-organización de los trabajadores, de las culturas del codeo y de la habilidad para escribir, compilar y ejecutar código en modos inesperados. (Cox y McLean, 2013, p. 57)
 
-Finalmente el proyecto busca plantear formas de colaboraciónteniendo en cuenta un ciclo de interacción entre inérprete, compositor, desarrollador y software:
+Finalmente el proyecto busca plantear formas de colaboración teniendo en cuenta un ciclo de interacción entre inérprete, compositor, desarrollador y software:
 
 > discutimos que el software musical introduce tres tipos de interacción que no son cubiertos por el paradigma acústico: el software actúa como un medio distinto y nuevo para la interacción entre personas, el desarrollo de software en contextos creativos implica un nuevo y distinto ciclo de interacción entre el desarrollador y el software, y los elementos del software pueden interactuar entre ellos en formas musicalmente significantes.(Bown et al., 2009, p. 188)
 
-Y formas de organización decentralizadas como las redes par a par conceptos y formas de organización que toman en cuenta el conocimiento y lo tecnológico para plantear un motivo constante en la realización de piezas y que pueden ser un motivo para problematizar no solamente la práctica musical y el desarrollo de tecnología musical: 
+La presente investigación busca relacionar conceptos y práctica artística en varios niveles. Tomamos en cuenta el planteamiento teórico de la síntesis granular y en específico, tendremos en consideración la noción de escalas de tiempo de Curtis Roads como herramienta conceptual de acercamiento-alejamiento del proceso. La observación microscópica nos permitirá hablar del sonido en términos tecnológicos y la macroscópica en términos sociales. La realización de las piezas sucederá en el continuo intermedio.
+
+Del lado macroscópico hablaremos de formas de organización decentralizadas como las redes par a par conceptos y formas de organización que toman en cuenta el conocimiento y lo tecnológico para plantear un motivo constante en la realización de piezas y que pueden ser un motivo para problematizar no solamente la práctica musical y el desarrollo de tecnología musical: 
 
 > “El buen vivir *sumak kawsay*, demanda, en esta globalidad de conocimiento, de un *sumak yachay*, un buen conocer, de los saberes (nuevos y viejos). Es por tanto necesario desarrollar el buen conocer, aquel que beneficia a todos, que crea un entorno rico y fértil para la vida cultural, social, económica, política. En definitiva, crear una matriz productiva basada en conocimiento común y abierto”(Platohedro et al., 2019, p. 31).
 

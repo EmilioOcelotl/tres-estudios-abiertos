@@ -8,15 +8,19 @@ Este repositorio busca exponer un mapa que permita visualizar el panorama y deli
 
 Actualmente hay una instancia que inspira a este proyecto y que es su motivo más inmediato: [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies).
 
-## Objetivos
+## Objetivos Principales 
 
-- Principal: Desarrollar un sintetizador granular visual y sonoro en el navegador
-- Principal: Implementar este sintetizador en un espacio virtual y en situaciones de concierto
-- Secundario: Implementar el proyecto en dos capas de complejidad. Pasar del alto al bajo nivel.
-- Secundario: Utilizar una serie de instrucciones personalizadas como interfaz textual que puedan mediar entre niveles y que discutan con el contexto cultural en el que se enmarcan. 
-- Secundiario: Realizar reflexiones a manera de documentación, teniendo como eje de vinculación conceptos tecno-sociales y estéticos. 
-- Secundario: Aportar módulos de desarrollo tecnólogico que puedar ser de utilidad para otros proyectos. 
-- Secundario: Estrategias de colaboración y creación a distancia, por medio de la computadora y e instrumentos acústicos. 
+- Desarrollar un sintetizador granular visual y sonoro en el navegador
+- Implementar este sintetizador en un espacio virtual y en situaciones de concierto
+- Expandir el proyecto a partir de tres capas de complejidad: Uso de frameworks dedicados, exploración de bajo nivel y desarrollo.
+
+## Objetivos Secundarios
+
+- Utilizar una serie de instrucciones personalizadas como interfaz textual que puedan mediar entre niveles y que discutan con el contexto cultural en el que se enmarcan. 
+- Realizar reflexiones a manera de documentación, teniendo como eje de vinculación conceptos tecno-sociales y estéticos. 
+- Aportar módulos de desarrollo tecnólogico que puedar ser de utilidad para otros proyectos. 
+- Estrategias de colaboración y creación a distancia, por medio de la computadora y e instrumentos acústicos. 
+- Comparar críticamente el desarrollo tecnológico y la tecnología existente. 
 
 ## Resumen
 

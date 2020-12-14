@@ -8,6 +8,8 @@ Este repositorio busca exponer un mapa que permita visualizar el panorama y deli
 
 Actualmente hay una instancia que inspira a este proyecto y que es su motivo más inmediato: [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies).
 
+[Calendario]](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/calendario/README.md)
+
 ## Objetivos Principales 
 
 - Desarrollar un sintetizador granular visual y sonoro en el navegador
@@ -21,6 +23,7 @@ Actualmente hay una instancia que inspira a este proyecto y que es su motivo má
 - Aportar módulos de desarrollo tecnólogico que puedar ser de utilidad para otros proyectos. 
 - Estrategias de colaboración y creación a distancia, por medio de la computadora y e instrumentos acústicos. 
 - Comparar críticamente el desarrollo tecnológico y la tecnología existente. 
+- Documentar los desarrollos y resultados secundarios realizados en colectivo. 
 
 ## Resumen
 
@@ -33,8 +36,6 @@ Finalmente, a manera de propuesta para la exploración de estas piezas, indaga e
 [Presentaciones y versiones anteriores](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/anteriores/README.md)
 
 [Antecedentes](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/antecedentes/README.md)
-
-Maquetas y proyectos que sean accesibles.
 
 ![open](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/img/open.png)
 

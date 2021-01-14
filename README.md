@@ -6,14 +6,17 @@
 
 Este repositorio busca exponer un mapa que permita visualizar el panorama y delimitar posibles rutas. 
 
-Actualmente hay una instancia que inspira a este proyecto y que es su motivo más inmediato: [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies).
+Actualmente hay dos instancias que inspiran al proyecto y que son su motivo más inmediato:
 
-[Calendario]](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/calendario/README.md)
+- [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies)
+- [Anti](https://github.com/EmilioOcelotl/Anti) (Posible nueva instancia del proyecto, revisar viabilidad e integrar) 
+
+[Calendario](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/calendario/README.md)
 
 ## Objetivos Principales 
 
-- Desarrollar un sintetizador granular visual y sonoro en el navegador
-- Implementar este sintetizador en un espacio virtual y en situaciones de concierto
+- Desarrollar un sintetizador granular visual y sonoro en el navegador.
+- Implementar este sintetizador en un espacio virtual y en situaciones de concierto-
 - Expandir el proyecto a partir de tres capas de complejidad: Uso de frameworks dedicados, exploración de bajo nivel y desarrollo.
 
 ## Objetivos Secundarios

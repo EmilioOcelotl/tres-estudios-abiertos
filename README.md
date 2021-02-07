@@ -15,7 +15,7 @@ Obras y actividades relacionadas con el proyecto:
 - [Anti](https://github.com/EmilioOcelotl/Anti) (Posible nueva instancia del proyecto, revisar viabilidad e integrar) 
 - Artículo 
 
-[Calendario](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/calendario/README.md)
+[Calendario](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/calendario)
 
 ## Objetivos Principales 
 

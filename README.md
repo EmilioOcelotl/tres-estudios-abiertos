@@ -11,7 +11,7 @@ Se relaciona con otros repositorios para establecer una red de códigos, documen
 Obras y actividades relacionadas con el proyecto:
 
 - [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies)
-- [Diálogo IV @ Coloquio Salvador Contreras. Artes Sonoras y Creación Musical en México: Siglo XXI](https://github.com/EmilioOcelotl/dialogoIV)
+- [Diálogo IV](https://github.com/EmilioOcelotl/dialogoIV) @ Coloquio Salvador Contreras. Artes Sonoras y Creación Musical en México: Siglo XXI
 - [Anti](https://github.com/EmilioOcelotl/Anti) (Posible nueva instancia del proyecto, revisar viabilidad e integrar) 
 - Artículo 
 

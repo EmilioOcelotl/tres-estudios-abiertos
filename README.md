@@ -6,21 +6,25 @@
 
 Este repositorio busca exponer un mapa que permita visualizar el panorama y delimitar posibles rutas. 
 
-Actualmente hay dos instancias que inspiran al proyecto y que son su motivo más inmediato:
+Se relaciona con otros repositorios para establecer una red de códigos, documentaciones y bitácoras. 
+
+Obras y actividades relacionadas con el proyecto:
 
 - [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies)
+- [Diálogo IV @ Coloquio Salvador Contreras. Artes Sonoras y Creación Musical en México: Siglo XXI](https://github.com/EmilioOcelotl/dialogoIV)
 - [Anti](https://github.com/EmilioOcelotl/Anti) (Posible nueva instancia del proyecto, revisar viabilidad e integrar) 
+- Artículo 
 
 [Calendario](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/calendario/README.md)
 
 ## Objetivos Principales 
 
-- Desarrollar un sintetizador granular visual y sonoro en el navegador.
-- Implementar este sintetizador en un espacio virtual y en situaciones de concierto-
+- Desarrollar un sistema de sintesis granular visual y sonoro en el navegador.
 - Expandir el proyecto a partir de tres capas de complejidad: Uso de frameworks dedicados, exploración de bajo nivel y desarrollo.
 
 ## Objetivos Secundarios
 
+- Implementar el sistema en obras. Detonador de la relación entre práctica y reflexión escrita de cara a la tesis. 
 - Utilizar una serie de instrucciones personalizadas como interfaz textual que puedan mediar entre niveles y que discutan con el contexto cultural en el que se enmarcan. 
 - Realizar reflexiones a manera de documentación, teniendo como eje de vinculación conceptos tecno-sociales y estéticos. 
 - Aportar módulos de desarrollo tecnólogico que puedar ser de utilidad para otros proyectos. 

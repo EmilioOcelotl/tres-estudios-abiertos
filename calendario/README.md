@@ -3,7 +3,7 @@
 ## Primer semestre
 
 - Realización de maqueta 1
-  - [ ] 12.02.21 - Entrega final Música UNAM - [threecln](https://github.com/EmilioOcelotl/THREE.studies/tree/main/threecln)
+  - [x] 12.02.21 - Entrega final Música UNAM - [threecln](https://github.com/EmilioOcelotl/THREE.studies/tree/main/threecln)
   - [ ] 25.02.21 - Delimitación de cara a una propuesta para presentaciones en vivo. 
   - [ ] S/Fecha  - Presentación Música UNAM. Mediados de año 
 

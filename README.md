@@ -11,11 +11,16 @@ Se relaciona con otros repositorios para establecer una red de códigos, documen
 Obras y actividades relacionadas con el proyecto:
 
 - [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies)
+  - [threecln](https://github.com/EmilioOcelotl/THREE.studies/tree/main/threecln)
 - [Diálogo IV](https://github.com/EmilioOcelotl/dialogoIV) @ Coloquio Salvador Contreras. Artes Sonoras y Creación Musical en México: Siglo XXI
 - [Anti](https://github.com/EmilioOcelotl/Anti) (Posible nueva instancia del proyecto, revisar viabilidad e integrar) 
 - Artículo 
 
 [Calendario](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/calendario)
+
+[Árbol](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/img/diagrama.pdf) de hilos y temas.
+
+[Estado del arte](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/estado)
 
 ## Objetivos Principales 
 

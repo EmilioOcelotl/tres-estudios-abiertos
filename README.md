@@ -18,7 +18,7 @@ Obras y actividades relacionadas con el proyecto:
 
 [Calendario](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/calendario)
 
-[Árbol](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/img/diagrama.pdf) de hilos y temas.
+[Árbol](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/pdf/diagrama.pdf) de hilos y temas.
 
 [Estado del arte](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/estado)
 

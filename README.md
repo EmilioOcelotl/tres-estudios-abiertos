@@ -2,8 +2,6 @@
 
 # Tres Estudios Abiertos
 
-> Si somos esclavos de la tecnologı́a, es precisamente porque hay todo un conjunto de artefactos de nuestra existencia cotidiana que tenemos por especı́ficamente “técnicos” y que consideramos eternamente como simples cajas negras de las cuales serı́amos sus inocentes usuarios. Comprender cómo funciona cualquiera de los aparatos que nos rodean conlleva a un incremento de potencia inmediato, permitiéndonos actuar sobre aquello que por consiguiente no se nos aparece ya como un medio ambiente, sino como un mundo agenciado de una cierta manera y sobre el cual podemos intervenir. (Comité-invisible, 2014, p. 133)
-
 Este repositorio busca exponer un mapa que permita visualizar el panorama y delimitar posibles rutas de un proyecto de doctorado. 
 
 Se relaciona con otros repositorios para establecer una red de códigos, documentaciones y bitácoras. 

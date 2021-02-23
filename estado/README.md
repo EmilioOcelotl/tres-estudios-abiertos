@@ -21,3 +21,5 @@ Proyectos relacionados
 - [Troop](https://github.com/Qirky/Troop)
 - [flok](https://github.com/munshkr/flok) 
 - [tilt](https://github.com/munshkr/tilt) 
+- [Live Lab](https://github.com/ojack/LiveLab)
+- [Hydra](https://github.com/ojack/hydra)

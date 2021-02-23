@@ -131,4 +131,6 @@ Del lado macroscópico hablaremos de formas de organización decentralizadas com
 
 - Rowe, R. (1993). [Interactive music systems](https://wp.nyu.edu/robert_rowe/text/interactive-music-systems-1993/).
 
+- Soon, W. y Cox, G. (2020) [Aesthetic Programming: A Handbook of Software Studies](http://openhumanitiespress.org/books/download/Soon-Cox_2020_Aesthetic-Programming.pdf). Open Humanities Press. 
+
 - Welch, C. (2010). Programming machines and people: Techniques for live improvisation with electronics. Leonardo Music Journal, -:25–28.

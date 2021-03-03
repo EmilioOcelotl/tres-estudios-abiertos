@@ -2,7 +2,7 @@
 
 Proyectos relacionados
 
-## Nivel medio
+## Nivel bajo
 
 - [ruffbox](https://github.com/the-drunk-coder/ruffbox)
 - [webassembly rust tutorial web audio](https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio)

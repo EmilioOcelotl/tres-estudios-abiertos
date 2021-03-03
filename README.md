@@ -20,6 +20,8 @@ Obras y actividades relacionadas con el proyecto:
 
 [Estado del arte](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/estado)
 
+[Rutas](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/rutas)
+
 [Antecedentes](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/antecedentes)
 
 [Objetivos](https://github.com/EmilioOcelotl/tres-estudios-abiertos/tree/main/objetivos)

@@ -1,18 +1,18 @@
 # Ruta(s)
 
-La ruta implica una serie de pasos para llegar a la realización del objetivo final: un escrito que pueda defenderse como tesis. La tesis irá acompañada de algunos ejercicios tecnológicos. Estos estudios serán casos que demuestren la premisa del desarrollo tecnológico. 
+La ruta implica una serie de etapas para llegar a la realización del objetivo final: un escrito que pueda defenderse como tesis. La tesis irá acompañada de algunos ejercicios tecnológicos. Estos estudios serán casos que demuestren la premisa del desarrollo tecnológico. 
 
 ## Previo 
 
 El proyecto parte de relacionar desarrollo y reflexión. Me imagino algo así como varios momentos intercalados por algunos pensamientos. 
 
-## Primero
+## Primera
 
 - Delimitación de módulos de código que puedan resolver una premisa principal y algunas premisas secundarias.
 - La premisa principal sería utilizar algunos conceptos (nodo, escala de tiempo) para plantear una salida estética audiovisual experimental en tiempo real.
 - Podría bosquejear la idea a partir de maquetas. 
 
-## Segundo
+## Segunda
 
 - Evaluar la pertinencia de los conceptos, seleccionar algunos casos de salidas en piezas que pudieran definir las posiblidades de los módulos de código.
 - Como sucede en anti, detectar un camino o dos. Detectar las capas de complejidad que tiene cada caso.
@@ -21,7 +21,7 @@ El proyecto parte de relacionar desarrollo y reflexión. Me imagino algo así co
   - 2) La parte que implica un compromiso mediano, por ejemplo el uso de varios módulos y el diseño de un sistema con varias partes conectadas
   - 3) La escritura de librerías para la granulación audiovisual en tiempo real. 
 
-## Tercero
+## Tercera
 
 - Me gustaría llegar a la parte de escritura de librerías.
 - En este punto podría empezar a intercalar algunas propuestas extra-tecnológicas. Por ejemplo, una parte importante de la intención de esta investigación es la problematización de módulos que funcionan pero que son cajas negras. Véase anti.

@@ -42,3 +42,7 @@ El proyecto parte de relacionar desarrollo y reflexión. Me imagino algo así co
 - Teniendo esto en cuenta este apartado podría centrase en la realización final
 - Me imagino una estructura similar al artículo de código (vease panorama). Usar una especie de estructura que explique el funcionamiento del sistema y que pueda intercalarse con ideas.
 - A partir de este punto tal vez podría empezar a escribir la tesis. 
+
+## Sexta
+
+- Cuestiones adicionales del proyecto: escritura del texto en git, compilación a partir del proyecto e incluso una versión online del texto de titulación. 

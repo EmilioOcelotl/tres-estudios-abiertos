@@ -2,7 +2,9 @@
 
 La ruta implica una serie de etapas para llegar a la realización del objetivo final: un escrito que pueda defenderse como tesis. La tesis irá acompañada de algunos ejercicios tecnológicos. Estos estudios serán casos que demuestren la premisa del desarrollo tecnológico. 
 
-## Previo 
+threecln, anti y el artículo como avances que delimitan estas posibles rutas 
+
+## Previa
 
 El proyecto parte de relacionar desarrollo y reflexión. Me imagino algo así como varios momentos intercalados por algunos pensamientos. 
 

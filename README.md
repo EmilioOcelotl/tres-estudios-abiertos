@@ -11,7 +11,7 @@ Obras y actividades relacionadas con el proyecto:
 - [Anti](https://github.com/EmilioOcelotl/Anti) 
 - [Panorama](https://github.com/piranhalab/panoramaArticulo). Escritura de espacios libres e inmersivos para el performance audiovisual. 
 
-# Objetivos
+## Objetivos
 
 *Objetivo principal:* Escribir una serie de mpodulos interconectados para realizar sintesis granular audiovisual en el navegador.
 

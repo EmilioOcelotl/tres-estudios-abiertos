@@ -3,7 +3,8 @@
 # Tres Estudios Abiertos
 
 Nuevas prácticas performáticas audiovisuales experimentales para el navegador. 
-Obras y actividades relacionadas con el proyecto:
+
+Instancias relacionadas al proyecto: 
 
 - [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies)
   - [threecln](https://github.com/EmilioOcelotl/THREE.studies/tree/main/threecln)
@@ -79,7 +80,7 @@ Proyectos relacionados
 
 ## Pendientes operativos
 
-- [ ] Vincular este repositorio con una versión escrita del protocolo en latex 
+- [ ] Rescritura del protocolo en latex. Conversión Tex a MD para dejar ese texto como el README principal 
 
 # Referencias
 

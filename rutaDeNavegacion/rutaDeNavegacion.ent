@@ -1,0 +1,61 @@
+\@doanenote {1}
+macro:->¿Todavía
+es
+posible
+usar
+otros
+lenguajes
+de
+programación?
+\@endanenote 
+\@doanenote {2}
+macro:->\url
+{https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio}
+(Consultado
+el
+\today
+)
+\@endanenote 
+\@doanenote {3}
+macro:->\url
+{https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API}
+\@endanenote 
+\@doanenote {4}
+macro:->\url
+{https://tonejs.github.io/}
+\@endanenote 
+\@doanenote {5}
+macro:->\url
+{https://github.com/crucialfelix/supercolliderjs/}
+\@endanenote 
+\@doanenote {6}
+macro:->Hipótesis
+premisa
+que
+traspola
+la
+propuesta
+que
+Ludwig
+Wittgenstein
+expresa
+en
+el
+\textit
+{Tractatus
+Logico
+Philosophicus}:
+¿Los
+límites
+de
+mi
+lenguaje
+(de
+programación)
+son
+los
+límites
+de
+mi
+mundo?
+\@endanenote 

@@ -1,6 +1,6 @@
 % Tres-Estudios-Abiertos. Ruta de navegación  
 
-\documentclass[12pt,letterpaper, twocolumn]{article}
+\documentclass[11pt,letterpaper, twocolumn]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish, es-notilde]{babel}
 \usepackage{endnotes}
@@ -8,7 +8,19 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{titling}
+\usepackage{lmodern}
 \usepackage[sort&compress]{natbib}
+
+\pretitle{%
+  \begin{center}
+    \LARGE
+    
+  \includegraphics[width=\textwidth]{../img/bannerPrincipal.png}\\[\bigskipamount]
+}
+\posttitle{\end{center}}
+
 
 \renewcommand{\notesname}{Notas}
 
@@ -41,20 +53,27 @@
 
 \maketitle
 
-\begin{abstract}
-  \input{sections/abstract}
-\end{abstract}
-
-\input{sections/keywords}
-
+\input{sections/abstract}
+\input{sections/keywords} % Mientras tanto sin palabras clave
+\input{sections/antecedentes}
+\input{sections/marco}
+\input{sections/planteamiento}
+\input{sections/premisa}
+\input{sections/metodo}
+\input{sections/justificacion}
+\input{sections/objetivos}
+\input{sections/estructura}
+\input{sections/cronograma}
 % \input{sections/ecosistema} % Introducción, antecedentes, proyectos y tecnologías similares.
 
 % 1. Antecedentes de la investigación y marco teórico
 % 2. Planteamiento del problema
-% 3. Proposición o hipótesis 
-% 4. Justificación
-% 5. Objetivos y metas correspondientes
-% 6. Cronograma
+% 3. Proposición o hipótesis
+% 4. Metodo
+% 5. Justificación
+% 6. Objetivos y metas correspondientes
+% 7. Estructura general sugerida
+% 8. Cronograma
 
 
 \theendnotes % El artículo usa notas al final del texto. Aquí aparecen hipervínculos y conceptos de apoyo. Conceptos 

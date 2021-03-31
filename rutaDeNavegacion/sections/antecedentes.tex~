@@ -1,0 +1,35 @@
+
+\section*{Antecedentes}
+
+% Artículo Panorama como antecedente del proyecto
+
+Los antecedentes de este proyecto describen la transición del desarrollo de software para la realización de sistemas interactivos a la escritura de módulos de software audiovisuales. Estas experiencias parten de la optimización y la ligereza del lado del hardware (por ejemplo, con el uso de computadoras de placa reducida como Raspberry Pi o Jetson Nano ) y de sistemas ligeros, con pocas capas de abstracción y accesibles de síntesis y renderización de audio y video en el navegador.
+
+Parte de los antecedentes están directamente relacionados con la experiencia performática de escribir de código al vuelo con fines creativos, audiovisuales y experimentales. 
+
+% De estas ideas se pueden extender reflexiones y puestas en práctica de ideas políticas relacionadas con la opotimización de recursos para el bajo consumo de energía y la resistencia a la obsolescencia programada de los dispositivos electrónicos. 
+
+De manera directa, los siguientes casos están relacionados con la investigación y funcionan como antecedente:
+
+\begin{itemize}
+
+\item THREE.studies \citep{threestudies} y en específico, la iteración threecln \citep{threecln}
+\item Diálogo IV
+\item Anti
+\item Panorama 
+  
+\end{itemize}
+
+% De manera indirecta 
+
+Algunos proyectos similares al que describe \textit{Tres Estudios Abiertos}.
+
+\begin{itemize}
+
+\item \textbf{Nivel Bajo:} \citep{ruffbox}, WebAssembly/Rust Tutorial\footnote{\url{https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio} (Consultado el \today)} y \citep{flocking}.
+\item \textbf{Nivel Medio: }
+\item \textbf{Nivel Alto:  }
+  
+\end{itemize}
+
+¿Cuál es la diferencia entre los proyectos mencionados y \textit{Tres Estudios Abiertos}. 

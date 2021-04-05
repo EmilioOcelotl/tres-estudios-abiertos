@@ -1,5 +1,10 @@
 \begin{thebibliography}{}
 
+\bibitem[AFrancoB, 2019]{timenot}
+AFrancoB (2019).
+\newblock timenot.
+\newblock \url{https://github.com/AFrancoB/timeNot}.
+
 \bibitem[continuing creativity, 2011]{flocking}
 continuing creativity (2011).
 \newblock Flocking.
@@ -15,26 +20,77 @@ dktr0 (2019).
 \newblock Estuary.
 \newblock \url{https://github.com/dktr0/estuary}.
 
-\bibitem[EmilioOcelotl, 2020a]{threecln}
+\bibitem[EmilioOcelotl, 2020a]{anti}
 EmilioOcelotl (2020a).
+\newblock anti.
+\newblock \url{https://github.com/EmilioOcelotl/anti}.
+
+\bibitem[EmilioOcelotl, 2020b]{threecln}
+EmilioOcelotl (2020b).
 \newblock threecln.
 \newblock
   \url{https://github.com/EmilioOcelotl/THREE.studies/tree/main/threecln}.
 
-\bibitem[EmilioOcelotl, 2020b]{threestudies}
-EmilioOcelotl (2020b).
+\bibitem[EmilioOcelotl, 2020c]{threestudies}
+EmilioOcelotl (2020c).
 \newblock Three.studies.
 \newblock \url{https://github.com/EmilioOcelotl/THREE.studies}.
+
+\bibitem[EmilioOcelotl, 2021a]{dialogo}
+EmilioOcelotl (2021a).
+\newblock Dialogoiv.
+\newblock \url{https://github.com/EmilioOcelotl/dialogoIV}.
+
+\bibitem[EmilioOcelotl, 2021b]{threeBEASTs}
+EmilioOcelotl (2021b).
+\newblock threebeasts.
+\newblock
+  \url{https://github.com/EmilioOcelotl/THREE.studies/tree/main/threeBEASTs}.
 
 \bibitem[khilnani, 2012]{supercolliderweb}
 khilnani (2012).
 \newblock supercollider.web.
 \newblock \url{https://github.com/khilnani/supercollider.web/}.
 
+\bibitem[luisnavarrodelangel, 2020]{seis8s}
+luisnavarrodelangel (2020).
+\newblock seis8s.
+\newblock \url{https://github.com/luisnavarrodelangel/seis8s}.
+
 \bibitem[Manovich, 2001]{manovichlanguage}
 Manovich, L. (2001).
 \newblock {\em The Language of New Media}.
 \newblock Leonardo (Series) (Cambridge, Mass.). MIT Press.
+
+\bibitem[munshkr, 2019]{flok}
+munshkr (2019).
+\newblock flok.
+\newblock \url{https://github.com/munshkr/flok}.
+
+\bibitem[munshkr, 2021]{tilt}
+munshkr (2021).
+\newblock tilt.
+\newblock \url{https://github.com/munshkr/tilt}.
+
+\bibitem[ojack, 2020a]{hydra}
+ojack (2020a).
+\newblock hydra.
+\newblock \url{https://github.com/ojack/hydra}.
+
+\bibitem[ojack, 2020b]{livelab}
+ojack (2020b).
+\newblock Livelab.
+\newblock \url{https://github.com/ojack/LiveLab}.
+
+\bibitem[PiranhaLab, 2020]{PanoramaArticulo}
+PiranhaLab (2020).
+\newblock Panorama.
+\newblock \url{https://github.com/piranhalab/panorama}.
+
+\bibitem[Qirky, 2016]{Troop}
+Qirky (2016).
+\newblock Troop.
+\newblock \url{https://github.com/Qirky/Troop}.
 
 \bibitem[Soon y Cox, 2020]{aestheticProgramming}
 Soon, W. y Cox, G. (2020).
@@ -45,5 +101,12 @@ Soon, W. y Cox, G. (2020).
 the-drunk coder (2019).
 \newblock ruffbox.
 \newblock \url{https://github.com/the-drunk-coder/ruffbox}.
+
+\bibitem[Villaseñor-Ramírez y Paz, 2020]{villasenor}
+Villaseñor-Ramírez, H. y Paz, I. (2020).
+\newblock {Live Coding From Scratch:The Cases of Practice in Mexico City and
+  Barcelona}.
+\newblock En {\em {Proceedings of the 2020 International Conference on Live
+  Coding (ICLC2020)}}, pp. 59--68, Limerick, Ireland. University of Limerick.
 
 \end{thebibliography}

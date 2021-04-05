@@ -9,6 +9,23 @@ de
 programación?
 \@endanenote 
 \@doanenote {2}
+macro:->Una
+versión
+en
+construcción
+y
+en
+línea
+del
+artículo
+se
+puede
+encontrar
+en
+\url
+{https://piranhalab.github.io/panorama/}
+\@endanenote 
+\@doanenote {3}
 macro:->\url
 {https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio}
 (Consultado
@@ -16,19 +33,19 @@ el
 \today
 )
 \@endanenote 
-\@doanenote {3}
+\@doanenote {4}
 macro:->\url
 {https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API}
 \@endanenote 
-\@doanenote {4}
+\@doanenote {5}
 macro:->\url
 {https://tonejs.github.io/}
 \@endanenote 
-\@doanenote {5}
+\@doanenote {6}
 macro:->\url
 {https://github.com/crucialfelix/supercolliderjs/}
 \@endanenote 
-\@doanenote {6}
+\@doanenote {7}
 macro:->Hipótesis
 premisa
 que

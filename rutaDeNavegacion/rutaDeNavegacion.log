@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  30 MAR 2021 21:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  5 APR 2021 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -452,7 +452,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 10.
 
-Underfull \vbox (badness 1460) has occurred while \output is active []
+Underfull \vbox (badness 2884) has occurred while \output is active []
 
 )
 (./sections/keywords.tex) (./sections/antecedentes.tex [1{/var/lib/texmf/fonts/
@@ -461,65 +461,85 @@ map/pdftex/updmap/pdftex.map}
 
  <../img/bannerPrincipal.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 29.
+(Font)              <10> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 29.
+(Font)              <7> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 29.
-)
-(./sections/marco.tex) (./sections/planteamiento.tex) (./sections/premisa.tex)
-(./sections/metodo.tex) (./sections/justificacion.tex)
-(./sections/objetivos.tex [2]) (./sections/estructura.tex
-Underfull \hbox (badness 5316) in paragraph at lines 6--7
-[]\OT1/lmr/m/n/10 Introducci^^Son. An-te-ce-den-tes, mo-ti-va-cio-nes e
+(Font)              <5> on input line 19.
+
+Underfull \hbox (badness 1502) in paragraph at lines 31--32
+[]\OT1/lmr/bx/n/10 Nivel Al-to: \OT1/lmr/m/n/10 Es-tuary ([][]dktr0[][], [][]20
+19[][]), Troop
  []
 
-) (./sections/cronograma.tex) (./rutaDeNavegacion.ent
+
+Underfull \hbox (badness 5756) in paragraph at lines 31--32
+\OT1/lmr/m/n/10 ([][]Qirky[][], [][]2016[][]), flok ([][]munshkr[][], [][]2019[
+][]), tilt
+ []
+
+) (./sections/marco.tex) (./sections/planteamiento.tex) (./sections/premisa.tex
+) (./sections/metodo.tex [2]) (./sections/justificacion.tex)
+(./sections/objetivos.tex) (./sections/estructura.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\OT1/lmr/bx/n/10 Conclusi[]on\OT1/lmr/m/n/10 . ?`Se de-mostr^^So la hip^^Sote
+-
+ []
+
+) (./rutaDeNavegacion.ent
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--18
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
 [][][][]$\OT1/lmr/m/n/9 https : / / www . toptal . com / webassembly /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--18
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
 \OT1/lmr/m/n/9 webassembly-[]rust-[]tutorial-[]web-[]audio$[][] (Con-sul-ta-do
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
 [][][][]$\OT1/lmr/m/n/9 https : / / developer . mozilla . org / es / docs / Web
  / API /
  []
 
 ) (./rutaDeNavegacion.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 19--23
-[]\OT1/lmr/m/n/10 EmilioOcelotl (2020a).  th-reecln.  [][]$https :
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
+[]\OT1/lmr/m/n/10 EmilioOcelotl (2020b).  th-reecln.  [][]$https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--23
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
 \OT1/lmr/m/n/10 / / github . com / EmilioOcelotl / THREE . studies /
  []
 
-[3]) [4
 
-] (./rutaDeNavegacion.aux
+Underfull \hbox (badness 5519) in paragraph at lines 45--49
+[]\OT1/lmr/m/n/10 EmilioOcelotl (2021b).  th-ree-beasts.  [][]$https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+\OT1/lmr/m/n/10 / / github . com / EmilioOcelotl / THREE . studies /
+ []
+
+) [4] (./rutaDeNavegacion.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `rutaDeNavegacion.out' has not changed.
-(rerunfilecheck)             Checksum: 8C7315148D85A04DB222B840AE3BFB8E;48.
+(rerunfilecheck)             Checksum: B6E2828ECCDF4DC252C0EAFA65F8BAED;48.
  ) 
 Here is how much of TeX's memory you used:
- 8070 strings out of 479383
- 117212 string characters out of 5875830
- 448663 words of memory out of 5000000
- 24944 multiletter control sequences out of 15000+600000
+ 8113 strings out of 479383
+ 117812 string characters out of 5875830
+ 450039 words of memory out of 5000000
+ 24979 multiletter control sequences out of 15000+600000
  464731 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,8n,72p,555b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,8n,72p,1341b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fo
 nts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmb
 x12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/share/te
@@ -530,10 +550,10 @@ e1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></u
 sr/share/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri9.
 pfb>
-Output written on rutaDeNavegacion.pdf (4 pages, 579645 bytes).
+Output written on rutaDeNavegacion.pdf (4 pages, 588284 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 212 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
  14 words of extra memory for PDF output out of 10000 (max. 10000000)
 

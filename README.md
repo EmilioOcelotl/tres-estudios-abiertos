@@ -2,8 +2,6 @@
 
 # Tres Estudios Abiertos
 
-Nuevas prácticas performáticas audiovisuales experimentales para el navegador. 
-
 *Tres Estudios Abiertos* es un proyecto de investigación que busca adentrarse en nuevas prácticas experimentales y audiovisuales para el navegador. Parte de la programación de un esqueleto de granulación audiovisual complementado con módulos personalizados de software. Atiende a niveles altos de programación para el control de software por medio de una interfaz de texto. 
 
 Toma en cuenta piezas para el navegador que fungen casos de estudio. El proyecto busca demostrar que las lógicas de los lenguajes de programación posibilitan formas de pensamiento específicos con consecuencias estéticas definidas. 
@@ -20,6 +18,7 @@ Instancias relacionadas al proyecto:
 
 - [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies)
   - [threecln](https://github.com/EmilioOcelotl/THREE.studies/tree/main/threecln)
+  - [threeBEASTs](https://github.com/EmilioOcelotl/THREE.studies/tree/main/threeBEASTs)
 - [Diálogo IV](https://github.com/EmilioOcelotl/dialogoIV) @ Coloquio Salvador Contreras. Artes Sonoras y Creación Musical en México: Siglo XXI
 - [Anti](https://github.com/EmilioOcelotl/Anti) 
 - [Panorama](https://github.com/piranhalab/panoramaArticulo). Escritura de espacios libres e inmersivos para el performance audiovisual. 

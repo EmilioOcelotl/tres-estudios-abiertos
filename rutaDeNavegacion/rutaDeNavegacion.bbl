@@ -92,6 +92,17 @@ Qirky (2016).
 \newblock Troop.
 \newblock \url{https://github.com/Qirky/Troop}.
 
+\bibitem[Roads, 2001]{microsound}
+Roads, C. (2001).
+\newblock {\em Microsound / Curtis Roads.}
+\newblock MIT Press, Cambridge, Mass.
+
+\bibitem[Schollmeier, 2001]{p2p}
+Schollmeier, R. (2001).
+\newblock A definition of peer-to-peer networking for the classification of
+  peer-to-peer architectures and applications.
+\newblock pp. 101 -- 102.
+
 \bibitem[Soon y Cox, 2020]{aestheticProgramming}
 Soon, W. y Cox, G. (2020).
 \newblock {\em Aesthetic Programming: A Handbook of Software Studies}.

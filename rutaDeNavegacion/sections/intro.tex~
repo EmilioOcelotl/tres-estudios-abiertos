@@ -1,0 +1,10 @@
+
+\section*{Introducción}
+
+El proyecto busca demostrar que las lógicas de los lenguajes de programación posibilitan formas de pensamiento específicos con consecuencias estéticas que pueden extenderse y aportar a la investigación artística que involucra tecnología. 
+
+Para discutir la premisa anterior, el proyecto toma piezas como casos de estudio con características específicas: ligeras, sin instalaciones, sin referencias a dependencias de terceros, basadas en la web, distribuidas y optimizadas para el bajo consumo de recursos de una computadora o una red de computadoras. 
+
+Hasta el momento considera a \textit{Javascript}\footnote{¿Todavía es posible usar otros lenguajes de programación?} como el lenguaje principal de los casos de estudio. De manera secundaria el proyecto se pregunta si es posible deducir ideas estéticas de las arquitecturas de los lenguajes de programación para la escritura de interfaces textuales de control. 
+
+Consideramos un tercer hilo, adicionalmente al estético y tecnológico, que corre paralelamente en bucle de investigación-creación: el investigativo. En esta hilo encontramos la relación de la escritura del texto resultante con la escritura de software. El vínculo se establece con el uso de sistemas distribuidos de control de versiones para la escritura de software y de texto. De esta manera, el documento resultante busca desbordarse del papel y de la palabra escrita por medio de una versión web. 

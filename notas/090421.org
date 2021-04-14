@@ -1,0 +1,34 @@
+
+Hugo menciona que puedo usar formas más arriesgadas para relacionar el texto de la tesis y los programas. 
+
+Notebook jupyter 
+
+https://jupyter.org/
+
+Desplazamiento de github a otra cosa. Blockchain? Código guardado en ethereum
+
+Es github una plataforma verdaderamente distribuida y políticamente congruente con mi proyecto?
+
+Cuál es el objetivo ? no es modulos interconectados -> reflexión tecno-teórica de la relación entre código y el pensamiento sonoro.
+
+Ejercicio de pensamiento en la web. 
+Objetivo secundario: experimentos en la web. 
+
+Invertir la prioridad de objetivos.
+
+Historia de la palabra granulación -> Referenciar a una investigación bastante extensa.
+
+Que tanto aporte haré en la síntesis granular
+
+Puede que sea más un recurso estético
+
+Pensamiento, escritura y programación de código como representación de pensamiento.
+
+Módulos que funcionen con texto escrito > lenguaje natural
+
+Qué pasaría si me aviento a escribir algo que se escriba en lenguaje natural
+
+Código con lenguaje natural
+
+Prueba de concepto 
+

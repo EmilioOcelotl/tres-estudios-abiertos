@@ -5,6 +5,11 @@ AFrancoB (2019).
 \newblock timenot.
 \newblock \url{https://github.com/AFrancoB/timeNot}.
 
+\bibitem[Augoyard y Torgue, 2006]{augoyard}
+Augoyard, J.-F. y Torgue, H., editores (2006).
+\newblock {\em Sonic experience. A guide to everyday sounds}.
+\newblock McHill Queen’s University Press, Canada.
+
 \bibitem[continuing creativity, 2011]{flocking}
 continuing creativity (2011).
 \newblock Flocking.
@@ -72,6 +77,20 @@ munshkr (2021).
 \newblock tilt.
 \newblock \url{https://github.com/munshkr/tilt}.
 
+\bibitem[Ocelotl, 2015]{ocelotlLic}
+Ocelotl, E. (2015).
+\newblock Objeto, paisaje y efecto. {A}portes para la investigación social en
+  música.
+\newblock Tesis de licenciatura en sociología, Facultad de Ciencias Políticas
+  y Sociales. Universidad Nacional Autónoma de México.
+
+\bibitem[Ocelotl, 2019]{ocelotlMas}
+Ocelotl, E. (2019).
+\newblock Cuidado con la brecha autorreferencial. {A}portes para la
+  producción-investigación en música de sistemas interactivos.
+\newblock Tesis de maestría en música (tecnología musical), Posgrado en
+  Música. Universidad Nacional Autónoma de México.
+
 \bibitem[ojack, 2020a]{hydra}
 ojack (2020a).
 \newblock hydra.
@@ -82,7 +101,7 @@ ojack (2020b).
 \newblock Livelab.
 \newblock \url{https://github.com/ojack/LiveLab}.
 
-\bibitem[PiranhaLab, 2020]{PanoramaArticulo}
+\bibitem[PiranhaLab, 2020]{panoramaArticulo}
 PiranhaLab (2020).
 \newblock Panorama.
 \newblock \url{https://github.com/piranhalab/panorama}.
@@ -96,6 +115,17 @@ Qirky (2016).
 Roads, C. (2001).
 \newblock {\em Microsound / Curtis Roads.}
 \newblock MIT Press, Cambridge, Mass.
+
+\bibitem[Schaeffer, 2003]{schaeffer}
+Schaeffer, P. (2003).
+\newblock {\em Tratado de los objetos musicales}.
+\newblock Alianza M\'usica, M\'exico D.F.
+
+\bibitem[Schafer, 1994]{schafer1}
+Schafer, M.~R. (1994).
+\newblock {\em The Soundscape. Our Sonic Environment and the Turning of the
+  World}.
+\newblock Destiny Books, Vermont.
 
 \bibitem[Schollmeier, 2001]{p2p}
 Schollmeier, R. (2001).

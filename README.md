@@ -2,15 +2,9 @@
 
 # Tres Estudios Abiertos
 
-*Tres Estudios Abiertos* es un proyecto de investigación que busca adentrarse en nuevas prácticas experimentales y audiovisuales para el navegador. Parte de la programación de un esqueleto de granulación audiovisual complementado con módulos personalizados de software. Atiende a niveles altos de programación para el control de software por medio de una interfaz de texto. 
+*Tres Estudios Abiertos* es una reflexión sobre prácticas experimentales y audiovisuales para el navegador. Explora la influencia de los lenguajes de programación en la práctica artística y el aporte que pueden realizar a la investigación artística con tecnología. Implementa un esqueleto de granulación audiovisual y módulos personalizados de software que se implementarán en estudios para el navegador. 
 
-El proyecto busca demostrar que las lógicas de los lenguajes de programación posibilitan formas de pensamiento específicos con consecuencias estéticas que pueden extenderse y aportar a la investigación artística que involucra tecnología. 
-
-Para discutir la premisa anterior, el proyecto toma piezas como casos de estudio con características específicas: ligeras, sin instalaciones, sin referencias a dependencias de terceros, basadas en la web, distribuidas y optimizadas para el bajo consumo de recursos de una computadora o una red de computadoras. 
-
-Hasta el momento considera a *Javascript* como el lenguaje principal de los casos de estudio. De manera secundaria el proyecto se pregunta si es posible deducir ideas estéticas de las arquitecturas de los lenguajes de programación para la escritura de interfaces textuales de control. 
-
-Consideramos un tercer hilo, adicionalmente al estético y tecnológico, que corre paralelamente en bucle de investigación-creación: el investigativo. En esta hilo encontramos la relación de la escritura del texto resultante con la escritura de software. El vínculo se establece con el uso de sistemas distribuidos de control de versiones para la escritura de software y de texto. De esta manera, el documento resultante busca desbordarse del papel y de la palabra escrita por medio de una versión web. 
+Estas piezas estarán alojadas en la web, serán distribuidas y optimizadas para el bajo consumo de recursos de la computadora y no requerirán instalación ni dependencias. El proyecto considera a *Javascript* como el lenguaje de programación que permeará al proyecto y que permitirá reflexionar en el nivel bajo, medio y alto de programación. 
 
 Instancias relacionadas al proyecto: 
 
@@ -25,4 +19,5 @@ Instancias relacionadas al proyecto:
 
 ## Pendientes operativos
 
-- [ ] Rescritura del protocolo en latex. Conversión Tex a MD para dejar ese texto como el README principal 
+- [x] Rescritura del protocolo en latex. Conversión Tex a MD para dejar ese texto como el README principal 
+- [ ] Tex > HTML > algo editable 

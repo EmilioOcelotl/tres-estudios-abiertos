@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  14 APR 2021 17:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  19 APR 2021 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -324,9 +324,9 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count277
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 33.
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
-2.
+3.
 
 (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -337,27 +337,27 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box49
 )
 (./rutaDeNavegacion.aux
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 )
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
  (/usr/share/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
@@ -366,7 +366,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 52.
+Package hyperref Info: Link coloring ON on input line 53.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -379,9 +379,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count279
 )
-LaTeX Info: Redefining \ref on input line 52.
-LaTeX Info: Redefining \pageref on input line 52.
-LaTeX Info: Redefining \nameref on input line 52.
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
 
 (./rutaDeNavegacion.out) (./rutaDeNavegacion.out)
 \@outlinefile=\write4
@@ -411,134 +411,93 @@ e
 <../img/bannerPrincipal.png, id=8, 1927.2pt x 352.31625pt>
 File: ../img/bannerPrincipal.png Graphic file (type png)
 <use ../img/bannerPrincipal.png>
-Package pdftex.def Info: ../img/bannerPrincipal.png  used on input line 54.
-(pdftex.def)             Requested size: 469.0pt x 85.73494pt.
+Package pdftex.def Info: ../img/bannerPrincipal.png  used on input line 55.
+(pdftex.def)             Requested size: 360.0pt x 65.81183pt.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
-4.
+5.
 
 (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-54.
+55.
 
 (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-54.
+55.
 
 (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 54.
+(Font)              <12> on input line 55.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 54.
+(Font)              <8> on input line 55.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 54.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
+(Font)              <6> on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (./sections/abstract.tex)
-(./sections/keywords.tex) (./sections/antecedentes.tex [1{/var/lib/texmf/fonts/
-map/pdftex/updmap/pdftex.map}
+(./sections/keywords.tex) (./sections/antecedentes.tex [1
 
-
- <../img/bannerPrincipal.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../img/bannerPrincipal.png
+>]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 16.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 16.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 16.
-
-Underfull \hbox (badness 1502) in paragraph at lines 39--40
-[]\OT1/lmr/bx/n/10 Nivel Al-to: \OT1/lmr/m/n/10 Es-tuary ([][]dktr0[][], [][]20
-19[][]), Troop
- []
-
-
-Underfull \hbox (badness 5756) in paragraph at lines 39--40
-\OT1/lmr/m/n/10 ([][]Qirky[][], [][]2016[][]), flok ([][]munshkr[][], [][]2019[
-][]), tilt
- []
-
-) (./sections/planteamiento.tex [2]) (./sections/premisa.tex [3])
-(./sections/objetivos.tex) (./sections/metodo.tex [4]) (./rutaDeNavegacion.ent
+ [2])
+(./sections/planteamiento.tex [3] [4]) (./sections/premisa.tex)
+(./sections/objetivos.tex) (./sections/metodo.tex [5]) (./rutaDeNavegacion.ent
+[6]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 2.
 
-Underfull \hbox (badness 6063) in paragraph at lines 22--30
-[][]\OT1/lmr/m/n/9 Versi^^Son en cons-truc-ci^^Son y en l^^S^^Pnea: [][]$https 
-: / /
+Overfull \hbox (2.85876pt too wide) in paragraph at lines 39--45
+[][][][]$\OT1/lmr/m/n/9 https : / / www . toptal . com / webassembly / webassem
+bly-[]rust-[]tutorial-[]web-[]audio$[][] (Con-sul-
+ []
+
+) (./rutaDeNavegacion.bbl [7]
+Underfull \hbox (badness 1297) in paragraph at lines 81--84
+[]\OT1/lmr/m/n/10 nanc-in-a can (2021).  canon-generator.  [][]$https : / / git
+hub . com / nanc-[]in-[]a-[]can /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--38
-[][][][]$\OT1/lmr/m/n/9 https : / / www . toptal . com / webassembly /
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+[]\OT1/lmr/m/n/10 punksnotdev (2021).  Ins-tru-ment.  [][]$https : / / github .
+ com / punksnotdev /
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--38
-\OT1/lmr/m/n/9 webassembly-[]rust-[]tutorial-[]web-[]audio$[][] (Con-sul-ta-do
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
-[][][][]$\OT1/lmr/m/n/9 https : / / developer . mozilla . org / es / docs / Web
- / API /
- []
-
-
-Underfull \hbox (badness 1430) in paragraph at lines 52--99
-\OT1/lmr/m/n/9 m^^Sas.'' [][]$https : / / developer . mozilla . org / es / docs
- / Web / API /
- []
-
-) (./rutaDeNavegacion.bbl [5]
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
-[]\OT1/lmr/m/n/10 EmilioOcelotl (2020b).  th-reecln.  [][]$https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
-\OT1/lmr/m/n/10 / / github . com / EmilioOcelotl / THREE . studies /
- []
-
-
-Underfull \hbox (badness 5519) in paragraph at lines 50--54
-[]\OT1/lmr/m/n/10 EmilioOcelotl (2021b).  th-ree-beasts.  [][]$https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--54
-\OT1/lmr/m/n/10 / / github . com / EmilioOcelotl / THREE . studies /
- []
-
-) [6] (./rutaDeNavegacion.aux
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
+[8]) [9] (./rutaDeNavegacion.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `rutaDeNavegacion.out' has not changed.
-(rerunfilecheck)             Checksum: 4BF5E9677804814AF2C7E1E604F3061C;47.
+(rerunfilecheck)             Checksum: 494D8952182272B7D0FE002C905327F6;47.
  ) 
 Here is how much of TeX's memory you used:
- 8128 strings out of 479383
- 117979 string characters out of 5875830
- 452242 words of memory out of 5000000
- 24998 multiletter control sequences out of 15000+600000
- 463661 words of font info for 73 fonts, out of 8000000 for 9000
+ 8138 strings out of 479383
+ 118125 string characters out of 5875830
+ 445298 words of memory out of 5000000
+ 25004 multiletter control sequences out of 15000+600000
+ 459443 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,8n,72p,1702b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,6n,72p,1702b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fo
 nts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmb
 x12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/share/te
@@ -548,10 +507,10 @@ hare/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr9.pfb></u
 sr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/lm/lmri9.pfb>
-Output written on rutaDeNavegacion.pdf (6 pages, 589912 bytes).
+Output written on rutaDeNavegacion.pdf (9 pages, 591743 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
  14 words of extra memory for PDF output out of 10000 (max. 10000000)
 

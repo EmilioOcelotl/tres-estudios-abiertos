@@ -128,61 +128,76 @@ You're missing a field name---line 366 of file bib/panBib.bib
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 374 of file bib/panBib.bib
+You're missing a field name---line 375 of file bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 384 of file bib/panBib.bib
+You're missing a field name---line 383 of file bib/panBib.bib
+ :   
+ :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 391 of file bib/panBib.bib
+ :   
+ :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 399 of file bib/panBib.bib
+ :   
+ :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 409 of file bib/panBib.bib
  :     
  :     %pages    = "321-330",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 411 of file bib/panBib.bib
+You're missing a field name---line 436 of file bib/panBib.bib
  : 
  : %  author = {Charles, P.W.D.},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--empty booktitle in p2p
-You've used 28 entries,
+You've used 31 entries,
             1977 wiz_defined-function locations,
-            612 strings with 6711 characters,
-and the built_in function-call counts, 7826 in all, are:
-= -- 804
-> -- 221
-< -- 30
-+ -- 74
-- -- 64
-* -- 493
-:= -- 1476
-add.period$ -- 86
-call.type$ -- 28
-change.case$ -- 167
-chr.to.int$ -- 24
-cite$ -- 29
-duplicate$ -- 345
-empty$ -- 537
-format.name$ -- 104
-if$ -- 1511
+            624 strings with 6948 characters,
+and the built_in function-call counts, 8561 in all, are:
+= -- 882
+> -- 242
+< -- 33
++ -- 80
+- -- 70
+* -- 538
+:= -- 1623
+add.period$ -- 95
+call.type$ -- 31
+change.case$ -- 185
+chr.to.int$ -- 27
+cite$ -- 32
+duplicate$ -- 375
+empty$ -- 582
+format.name$ -- 113
+if$ -- 1646
 int.to.chr$ -- 5
 int.to.str$ -- 0
 missing$ -- 15
-newline$ -- 143
-num.names$ -- 85
-pop$ -- 132
+newline$ -- 158
+num.names$ -- 94
+pop$ -- 141
 preamble$ -- 1
-purify$ -- 172
+purify$ -- 190
 quote$ -- 0
-skip$ -- 283
+skip$ -- 310
 stack$ -- 0
-substring$ -- 398
+substring$ -- 434
 swap$ -- 26
 text.length$ -- 2
 text.prefix$ -- 8
 top$ -- 0
-type$ -- 154
+type$ -- 172
 warning$ -- 1
-while$ -- 60
+while$ -- 66
 width$ -- 0
-write$ -- 348
-(There were 28 error messages)
+write$ -- 384
+(There were 31 error messages)

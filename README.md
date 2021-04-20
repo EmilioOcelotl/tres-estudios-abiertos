@@ -2,7 +2,7 @@
 
 # Tres Estudios Abiertos
 
-*Tres Estudios Abiertos* es una reflexión sobre prácticas experimentales y audiovisuales para el navegador. Explora la influencia de los lenguajes de programación en la práctica artística y el aporte que pueden realizar a la investigación artística con tecnología. Implementa un esqueleto de granulación audiovisual y módulos personalizados de software que conformarán una colección de estudios para el navegador. 
+*Tres Estudios Abiertos* aborda prácticas experimentales y audiovisuales para el navegador. Explora la influencia de los lenguajes de programación en la práctica artística y el aporte que pueden realizar a la investigación artística con tecnología. Implementa un esqueleto de granulación audiovisual y módulos personalizados de software que conformarán una colección de estudios para el navegador. 
 
 Estas piezas estarán alojadas en la web, serán distribuidas y optimizadas para el bajo consumo de recursos de la computadora y no requerirán instalación ni dependencias. El proyecto considera a *Javascript* como el lenguaje de programación que permeará al proyecto y que permitirá reflexionar en el nivel bajo, medio y alto de programación. 
 

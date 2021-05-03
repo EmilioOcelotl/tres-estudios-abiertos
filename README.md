@@ -26,4 +26,6 @@ Instancias relacionadas con el proyecto:
 ## Pendientes operativos
 
 - [x] Rescritura del protocolo en latex. Conversión Tex a MD para dejar ese texto como el README principal 
-- [ ] Tex > HTML > algo editable 
+- [ ] Tex > HTML > algo editable
+- [ ] Usar el mismo texto para distintos documentos
+- [ ] Mismo bib para todo

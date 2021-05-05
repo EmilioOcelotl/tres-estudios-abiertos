@@ -17,7 +17,7 @@ Instancias relacionadas con el proyecto:
   - [Anti](https://github.com/EmilioOcelotl/Anti) 
 - Ponencias
   - [Diálogo IV](https://github.com/EmilioOcelotl/dialogoIV) @ Coloquio Salvador Contreras. Artes Sonoras y Creación Musical en México: Siglo XXI
-  - Tres Estudios Abiertos @ XVI Coloquio de Alumnas del Programa de Maestría y Doctorado en Música UNAM 
+  - [Tres Estudios Abiertos](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/coloquioPMDM21/textoCompleto/textoCompleto.pdf) @ XVI Coloquio de Alumnas del Programa de Maestría y Doctorado en Música UNAM 
 - Articulos
   - [Panorama](https://github.com/piranhalab/panoramaArticulo). Escritura de espacios libres e inmersivos para el performance audiovisual. 
 

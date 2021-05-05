@@ -11,7 +11,16 @@ Estas piezas estarán alojadas en la web, serán distribuidas y optimizadas para
 
 El foro de observación de la investigación no son las piezas realizadas o el entramado de software que posibilitan su ejecución en la web, tampoco es la reflexión sobre las implicaciones tecno-sociales de los lenguajes de programación. El núcleo que esta investigación busca observar es el bucle que retroalimenta práctica artística y reflexión. 
 
-Texto completo 
+[Texto completo](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/coloquioPMDM21/textoCompleto/textoCompleto.pdf)
 
-Beamer
+[Beamer](https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/coloquioPMDM21/beamer/coloquio21beamer.pdf)
 
+## Índice
+
+- Antecedentes y Marco Teórico
+- Descripción de la Investigación
+- Escritura y Ejecución
+- Avances y Práctica
+- Conclusiones
+
+## Antecedentes y Marco Teórico 

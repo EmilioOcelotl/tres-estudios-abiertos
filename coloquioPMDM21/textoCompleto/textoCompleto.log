@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  3 MAY 2021 16:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  5 MAY 2021 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -286,35 +286,46 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count277
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 23.
+
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count278
 \l__pdf_internal_box=\box49
 )
 (./textoCompleto.aux
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
 )
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
-Package hyperref Info: Link coloring OFF on input line 31.
- (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+ (/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 41.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
 (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
@@ -325,9 +336,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count279
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./textoCompleto.out) (./textoCompleto.out)
 \@outlinefile=\write4
@@ -354,47 +365,119 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (./sec/abstract.tex)
-(./sec/antecedentes.tex) (./sec/planteamiento.tex) (./sec/avances.tex)
-(./sec/conclusiones.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(./sec/antecedentes.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
+]
+Underfull \hbox (badness 1946) in paragraph at lines 35--36
+[]\OT1/cmr/bx/n/10 Nivel Al-to: \OT1/cmr/m/n/10 Es-tuary ([][]dktr0[][], [][]20
+19[][]), Troop
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 ([][]Qirky[][], [][]2016[][]), flok ([][]munshkr[][], [][]2019[
+][]), tilt
+ []
+
+) (./sec/planteamiento.tex [2]) (./sec/escritura.tex [3]) (./sec/avances.tex)
+(./sec/conclusiones.tex) (./textoCompleto.ent
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+[][][][]$\OT1/cmr/m/n/8 https : / / www . toptal . com / webassembly /
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 39--45
+\OT1/cmr/m/n/8 webassembly-[]rust-[]tutorial-[]web-[]audio$[][] (Con-sul-ta-do 
+el 5 de
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+[][][][]$\OT1/cmr/m/n/8 https : / / developer . mozilla . org / es / docs / Web
+ / API /
+ []
+
+
+Package natbib Warning: Citation `p2p' on page 5 undefined on input line 260.
+
+) (./textoCompleto.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+[]\OT1/cmr/m/n/10 EmilioOcelotl (2020b).  th-reecln.  [][]$https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+\OT1/cmr/m/n/10 / / github . com / EmilioOcelotl / THREE . studies /
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 50--54
+[]\OT1/cmr/m/n/10 EmilioOcelotl (2021b).  th-ree-beasts.  [][]$https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--54
+\OT1/cmr/m/n/10 / / github . com / EmilioOcelotl / THREE . studies /
+ []
+
+[5]
+Underfull \hbox (badness 1168) in paragraph at lines 151--154
+[]\OT1/cmr/m/n/10 tidalcycles (2021).  Tidal.  [][]$https : / / github . com /
+ []
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[6
 
 ] (./textoCompleto.aux
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
 )
-Package rerunfilecheck Info: File `textoCompleto.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package rerunfilecheck Warning: File `textoCompleto.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `textoCompleto.out':
+(rerunfilecheck)             Before: 494D8952182272B7D0FE002C905327F6;47
+(rerunfilecheck)             After:  4BF5E9677804814AF2C7E1E604F3061C;47.
  ) 
 Here is how much of TeX's memory you used:
- 7784 strings out of 479383
- 112171 string characters out of 5875830
- 435451 words of memory out of 5000000
- 24739 multiletter control sequences out of 15000+600000
- 409632 words of font info for 50 fonts, out of 8000000 for 9000
+ 7997 strings out of 479383
+ 115401 string characters out of 5875830
+ 455275 words of memory out of 5000000
+ 24897 multiletter control sequences out of 15000+600000
+ 411993 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,7n,72p,536b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb>
-Output written on textoCompleto.pdf (1 page, 61273 bytes).
+ 66i,8n,72p,1697b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on textoCompleto.pdf (6 pages, 170626 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 265 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
 

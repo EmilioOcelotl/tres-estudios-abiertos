@@ -27,15 +27,28 @@ El núcleo de la investigación será el bucle que retroalimenta práctica artí
 
 - Escritura de módulos de software > Ligereza y accesibilidad
 - Live Coding > Práctica y no tanta investigación 
-- Trilogía de Investigación > OPyE y Cuidado con la Brecha
-- PiranhaLab, Panorama y Edges.
+- Trilogía de Investigación > [OPyE](http://132.248.9.195/ptd2015/diciembre/0739159/Index.html) y [Cuidado con la Brecha](http://132.248.9.195/ptd2019/junio/0790154/Index.html)
+- [PiranhaLab](https://piranhalab.github.io/), Panorama y Edges.
 - Instancias directamente relacionadas.
-  - THREE.studies
-  - Anti
-  - Panorama (artículo)
+  - [THREE.studies](https://github.com/EmilioOcelotl/THREE.studies)
+  - [4Nt1](https://github.com/EmilioOcelotl/anti)
+  - [Panorama](https://github.com/piranhalab/panorama) (artículo)
 - Software cercano tecnológica, conceptual y estéticamente. 
 
+## Objetivos y premisa 
+
 ## Descripción de la Investigación
+
+- Diversidad en la escritura de software vs comunidades que orbitan alrrededor de plataformas.
+- Decisiones de diseño en sintaxis de control
+  - Notaciones musicales y computacionales
+  - Lenguajes de programación exóticos y ofuscados
+  - Estilos musicales
+  - Flujos de voltaje
+  - Planteamientos políticos
+- Síntesis granular audiovisual en el navegador.
+- Tres niveles de exploración: bajo, medio y alto.
+- Lógicas distribuidas de la web presentes en la realización
 
 ## Escritura
 
@@ -45,4 +58,4 @@ El núcleo de la investigación será el bucle que retroalimenta práctica artí
 
 ## Por hacer
 
-- [ ] Escribir en algún lado la hipótesis 
+- [ ] Escribir objetivos e hipótesis entre antecedentes y descripción. 

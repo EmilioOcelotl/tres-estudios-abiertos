@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  11 MAY 2021 20:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  11 MAY 2021 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -392,8 +392,8 @@ Underfull \hbox (badness 6842) in paragraph at lines 35--36
 ][]), tilt
  []
 
-) (./sec/planteamiento.tex [2]) (./sec/escritura.tex [3]) (./sec/avances.tex
-[4] [5]) (./sec/conclusiones.tex) (./textoCompleto.ent
+) (./sec/premisa.tex) (./sec/planteamiento.tex [2]) (./sec/escritura.tex
+[3] [4]) (./sec/avances.tex [5]) (./sec/conclusiones.tex) (./textoCompleto.ent
 Underfull \hbox (badness 10000) in paragraph at lines 39--45
 [][][][]$\OT1/cmr/m/n/8 https : / / www . toptal . com / webassembly /
  []
@@ -404,8 +404,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--49
  / API /
  []
 
+[6]
 
-Package natbib Warning: Citation `p2p' on page 6 undefined on input line 260.
+Package natbib Warning: Citation `p2p' on page 7 undefined on input line 260.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 371--373
@@ -413,7 +414,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 371--373
 -[]2021 /
  []
 
-) (./textoCompleto.bbl [6]
+) (./textoCompleto.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 34--38
 []\OT1/cmr/m/n/10 EmilioOcelotl (2020b).  th-reecln.  [][]$https :
  []
@@ -433,12 +434,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--54
 \OT1/cmr/m/n/10 / / github . com / EmilioOcelotl / THREE . studies /
  []
 
-
+[7]
 Underfull \hbox (badness 1168) in paragraph at lines 151--154
 []\OT1/cmr/m/n/10 tidalcycles (2021).  Tidal.  [][]$https : / / github . com /
  []
 
-[7])
+)
 
 Package natbib Warning: There were undefined citations.
 
@@ -449,16 +450,16 @@ LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
 )
 Package rerunfilecheck Info: File `textoCompleto.out' has not changed.
-(rerunfilecheck)             Checksum: 4BF5E9677804814AF2C7E1E604F3061C;47.
+(rerunfilecheck)             Checksum: 196CAB34210D5B9D4C0636772C2DCF9D;47.
  ) 
 Here is how much of TeX's memory you used:
- 7999 strings out of 479383
- 115413 string characters out of 5875830
- 453275 words of memory out of 5000000
- 24897 multiletter control sequences out of 15000+600000
+ 8004 strings out of 479383
+ 115477 string characters out of 5875830
+ 454275 words of memory out of 5000000
+ 24898 multiletter control sequences out of 15000+600000
  411993 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,8n,72p,1697b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,8n,72p,1697b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public
@@ -468,10 +469,10 @@ hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on textoCompleto.pdf (8 pages, 177589 bytes).
+Output written on textoCompleto.pdf (8 pages, 178429 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
- 47 named destinations out of 1000 (max. 500000)
+ 278 PDF objects out of 1000 (max. 8388607)
+ 254 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 

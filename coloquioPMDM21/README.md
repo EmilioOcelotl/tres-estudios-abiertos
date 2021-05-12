@@ -54,7 +54,15 @@ El núcleo de la investigación será el bucle que retroalimenta práctica artí
 
 ## Avances y Práctica
 
+- THREE.studies
+- 4NT1
+
 ## Conclusiones 
+
+- Contexto pandémico > restricción y ofrecimiento.
+- Exploraciones superficiales > visualización de la panorámica.
+- Javascript > relación con las redes distribuidas.
+- Pondereación entre práctica e investigación artística. 
 
 ## Por hacer
 

@@ -40,7 +40,7 @@ El núcleo de la investigación será el bucle que retroalimenta práctica artí
 
 - **Objetivo principal:** La premisa principal principal de la investigación consiste en estudiar casos específicos de programación estética orientada a la integración audiovisual, posibilitada a partir de lenguajes de programación, específicamente Javascript, en el contexto del bucle investigación-creación. 
  
-- Objetivos secundarios:**De esta premisa se desprenden los objetivos secundarios: escribir software que pueda ser implementado en el contexto de obras audiovisuales para el navegador y realizar reflexiones a manera de documentación que vinculen conceptos tecno-sociales y estéticos. 
+- **Objetivos secundarios:** De esta premisa se desprenden los objetivos secundarios: escribir software que pueda ser implementado en el contexto de obras audiovisuales para el navegador y realizar reflexiones a manera de documentación que vinculen conceptos tecno-sociales y estéticos. 
 
 ## Descripción
 

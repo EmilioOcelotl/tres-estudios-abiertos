@@ -1,4 +1,14 @@
 \@doanenote {1}
+macro:->Un
+ejemplo
+reciente
+se
+encuentra
+en:
+\url
+{https://youtu.be/n5kwi4eRAE4}
+\@endanenote 
+\@doanenote {2}
 macro:->``PiranhaLab
 es
 un
@@ -18,14 +28,14 @@ el
 \today
 )
 \@endanenote 
-\@doanenote {2}
+\@doanenote {3}
 macro:->Actualmente
 Laboratorio
 de
 Tecnologías
 Compartidas
 \@endanenote 
-\@doanenote {3}
+\@doanenote {4}
 macro:->Versión
 en
 construcción
@@ -35,7 +45,7 @@ línea:
 \url
 {https://piranhalab.github.io/panorama/}
 \@endanenote 
-\@doanenote {4}
+\@doanenote {5}
 macro:->\url
 {https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio}
 (Consultado
@@ -43,19 +53,19 @@ el
 \today
 )
 \@endanenote 
-\@doanenote {5}
+\@doanenote {6}
 macro:->\url
 {https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API}
 \@endanenote 
-\@doanenote {6}
+\@doanenote {7}
 macro:->\url
 {https://tonejs.github.io/}
 \@endanenote 
-\@doanenote {7}
+\@doanenote {8}
 macro:->\url
 {https://github.com/crucialfelix/supercolliderjs/}
 \@endanenote 
-\@doanenote {8}
+\@doanenote {9}
 macro:->``La
 API
 de
@@ -104,7 +114,7 @@ el
 \today
 )
 \@endanenote 
-\@doanenote {9}
+\@doanenote {10}
 macro:->``El
 proyecto
 de
@@ -130,7 +140,7 @@ el
 \today
 )
 \@endanenote 
-\@doanenote {10}
+\@doanenote {11}
 macro:->``\textit
 {Icecast}
 es
@@ -181,7 +191,7 @@ el
 \today
 )
 \@endanenote 
-\@doanenote {11}
+\@doanenote {12}
 macro:->\textit
 {P2P}
 (par
@@ -259,7 +269,7 @@ intermediarias."
 \citep
 {p2p}
 \@endanenote 
-\@doanenote {12}
+\@doanenote {13}
 macro:->``\textit
 {Git}
 es
@@ -296,7 +306,7 @@ el
 \today
 )
 \@endanenote 
-\@doanenote {13}
+\@doanenote {14}
 macro:->LaTeX
 es
 un
@@ -325,7 +335,7 @@ el
 \today
 )
 \@endanenote 
-\@doanenote {14}
+\@doanenote {15}
 macro:->\textit
 {JupyterLab}
 es
@@ -354,7 +364,7 @@ el
 \today
 )
 \@endanenote 
-\@doanenote {15}
+\@doanenote {16}
 macro:->Una
 prueba
 de
@@ -366,8 +376,4 @@ consultar
 en:
 \url
 {https://emilioocelotl.github.io/tres-estudios-abiertos/}
-\@endanenote 
-\@doanenote {16}
-macro:->\url
-{http://www.beast.bham.ac.uk/beast-feast-2021/online-works/}
 \@endanenote 

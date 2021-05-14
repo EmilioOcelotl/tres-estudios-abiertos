@@ -10,6 +10,14 @@ Augoyard, J.-F. y Torgue, H., editores (2006).
 \newblock {\em Sonic experience. A guide to everyday sounds}.
 \newblock McHill Queen’s University Press, Canada.
 
+\bibitem[Bernardo \textit{et al.}, 2019]{2019_40}
+Bernardo, F., Kiefer, C., y Magnusson, T. (2019).
+\newblock An audioworklet-based signal engine for a live coding language
+  ecosystem.
+\newblock En Xambó, A., Martín, S.~R., y Roma, G., editores, {\em Proceedings
+  of the International Web Audio Conference}, WAC '19, pp. 77--82, Trondheim,
+  Norway. NTNU.
+
 \bibitem[continuing creativity, 2011]{flocking}
 continuing creativity (2011).
 \newblock Flocking.
@@ -51,6 +59,11 @@ EmilioOcelotl (2021b).
 \newblock threebeasts.
 \newblock
   \url{https://github.com/EmilioOcelotl/THREE.studies/tree/main/threeBEASTs}.
+
+\bibitem[frantic0, 2021]{sema}
+frantic0 (2021).
+\newblock sema-engine.
+\newblock \url{https://github.com/frantic0/sema-enginef}.
 
 \bibitem[khilnani, 2012]{supercolliderweb}
 khilnani (2012).
@@ -136,6 +149,12 @@ Schafer, M.~R. (1994).
 \newblock {\em The Soundscape. Our Sonic Environment and the Turning of the
   World}.
 \newblock Destiny Books, Vermont.
+
+\bibitem[Schollmeier, 2001]{p2p}
+Schollmeier, R. (2001).
+\newblock A definition of peer-to-peer networking for the classification of
+  peer-to-peer architectures and applications.
+\newblock pp. 101 -- 102.
 
 \bibitem[Soon y Cox, 2020]{aestheticProgramming}
 Soon, W. y Cox, G. (2020).

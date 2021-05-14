@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  11 MAY 2021 21:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  14 MAY 2021 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-03> xparse <2020-03-03>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count177
 \c@section=\count178
@@ -23,29 +23,55 @@ File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count185
+\Gm@cntv=\count186
+\c@Gm@tempcnt=\count187
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+)
 (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/10/27 3.51 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/10/27 3.51 Babel common definitions
-\babel@savecnt=\count185
-\U@D=\dimen139
+\babel@savecnt=\count188
+\U@D=\dimen147
 \l@babelnohyphens=\language86
 
 (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count186
+\bbl@dirlevel=\count189
 
 (/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
-\es@quottoks=\toks17
-\es@quotdepth=\count187
+\es@quottoks=\toks19
+\es@quotdepth=\count190
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
@@ -53,8 +79,8 @@ Package babel Info: Making > an active character on input line 707.
 ))
 (/usr/share/texmf-dist/tex/latex/endnotes/endnotes.sty
 Package: endnotes 2020-01-02 endnotes package
-\c@endnote=\count188
-\endnotesep=\dimen140
+\c@endnote=\count191
+\endnotesep=\dimen148
 \@enotes=\write3
 )
 (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -62,9 +88,6 @@ Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
 (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
 (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -76,10 +99,6 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
 )
 (/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
@@ -102,9 +121,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen141
-\Hy@linkcounter=\count189
-\Hy@pagecounter=\count190
+\@linkdim=\dimen149
+\Hy@linkcounter=\count192
+\Hy@pagecounter=\count193
 
 (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
@@ -117,7 +136,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count191
+\Hy@SavedSpaceFactor=\count194
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -125,14 +144,14 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count192
+\c@Hy@tempcnt=\count195
 
 (/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen142
+\XeTeXLinkMargin=\dimen150
 
 (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -141,9 +160,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count193
-\Field@Width=\dimen143
-\Fld@charsize=\dimen144
+\Fld@menulength=\count196
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -159,9 +178,9 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count194
-\c@Item=\count195
-\c@Hfootnote=\count196
+\Hy@abspage=\count197
+\c@Item=\count198
+\c@Hfootnote=\count199
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -173,8 +192,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count197
-\c@bookmark@seq@number=\count198
+\Fld@listcount=\count266
+\c@bookmark@seq@number=\count267
 
 (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -197,51 +216,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen145
+\@emptytoks=\toks20
+\ex@=\dimen153
 ))
 (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen146
+\pmbraise@=\dimen154
 )
 (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count199
+\inf@bad=\count268
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count266
-\leftroot@=\count267
+\uproot@=\count269
+\leftroot@=\count270
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count268
-\DOTSCASE@=\count269
+\classnum@=\count271
+\DOTSCASE@=\count272
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
 \Mathstrutbox@=\box47
 \strutbox@=\box48
-\big@size=\dimen147
+\big@size=\dimen155
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count270
-\c@MaxMatrixCols=\count271
+\macc@depth=\count273
+\c@MaxMatrixCols=\count274
 \dotsspace@=\muskip17
-\c@parentequation=\count272
-\dspbrk@lvl=\count273
-\tag@help=\toks20
-\row@=\count274
-\column@=\count275
-\maxfields@=\count276
-\andhelp@=\toks21
-\eqnshift@=\dimen148
-\alignsep@=\dimen149
-\tagshift@=\dimen150
-\tagwidth@=\dimen151
-\totwidth@=\dimen152
-\lineht@=\dimen153
-\@envbody=\toks22
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
+\tag@help=\toks21
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
+\andhelp@=\toks22
+\eqnshift@=\dimen156
+\alignsep@=\dimen157
+\tagshift@=\dimen158
+\tagwidth@=\dimen159
+\totwidth@=\dimen160
+\lineht@=\dimen161
+\@envbody=\toks23
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
@@ -273,8 +292,8 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen154
-\Gin@req@width=\dimen155
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
 )
 (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -284,38 +303,73 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip53
 \bibsep=\skip54
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count277
+\c@NAT@ctr=\count280
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 23.
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count278
+\l__kernel_color_stack_int=\count281
 \l__pdf_internal_box=\box49
 )
 (./textoCompleto.aux
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
 )
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
- (/usr/share/texmf-dist/tex/latex/graphics/color.sty
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=557.38951pt
+* \textheight=681.15898pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
 (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -323,7 +377,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 41.
+Package hyperref Info: Link coloring ON on input line 43.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -334,28 +388,28 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count279
+\c@section@level=\count282
 )
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 
 (./textoCompleto.out) (./textoCompleto.out)
 \@outlinefile=\write4
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen156
+\scratchcounter=\count283
+\scratchdimen=\dimen164
 \scratchbox=\box50
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen157
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks25
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen165
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks26
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -365,13 +419,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -381,69 +435,83 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ]
-Underfull \hbox (badness 1946) in paragraph at lines 35--36
-[]\OT1/cmr/bx/n/10 Nivel Al-to: \OT1/cmr/m/n/10 Es-tuary ([][]dktr0[][], [][]20
-19[][]), Troop
+Underfull \hbox (badness 1552) in paragraph at lines 21--22
+[]\OT1/cmr/m/n/10.95 Caso de es-tu-dio. TH-REE.studies ([][]Emi-lioO-ce-lotl[][
+],
+ []
+
+) (./sec/premisa.tex) (./sec/planteamiento.tex [2]
+Underfull \vbox (badness 1694) has occurred while \output is active []
+
+ [3])
+(./sec/escritura.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4])
+(./sec/avances.tex [5]) (./sec/conclusiones.tex) [6] (./textoCompleto.ent
+Underfull \hbox (badness 4454) in paragraph at lines 2--10
+[][]\OT1/cmr/m/n/9 Un ejem-plo re-cien-te se en-cuen-tra en: [][]$https : / / y
+outu . be /
  []
 
 
-Underfull \hbox (badness 6842) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 ([][]Qirky[][], [][]2016[][]), flok ([][]munshkr[][], [][]2019[
-][]), tilt
- []
-
-) (./sec/premisa.tex) (./sec/planteamiento.tex [2]) (./sec/escritura.tex
-[3] [4]) (./sec/avances.tex [5]) (./sec/conclusiones.tex) (./textoCompleto.ent
-Underfull \hbox (badness 10000) in paragraph at lines 39--45
-[][][][]$\OT1/cmr/m/n/8 https : / / www . toptal . com / webassembly /
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
+[][][][]$\OT1/cmr/m/n/9 https : / / www . toptal . com / webassembly /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
-[][][][]$\OT1/cmr/m/n/8 https : / / developer . mozilla . org / es / docs / Web
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
+\OT1/cmr/m/n/9 webassembly-[]rust-[]tutorial-[]web-[]audio$[][] (Con-sul-ta-do 
+el 14 de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+[][][][]$\OT1/cmr/m/n/9 https : / / developer . mozilla . org / es / docs / Web
  / API /
  []
 
-[6]
-
-Package natbib Warning: Citation `p2p' on page 7 undefined on input line 260.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 371--373
-[][][][]$\OT1/cmr/m/n/8 http : / / www . beast . bham . ac . uk / beast-[]feast
--[]2021 /
- []
-
 ) (./textoCompleto.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
-[]\OT1/cmr/m/n/10 EmilioOcelotl (2020b).  th-reecln.  [][]$https :
+Underfull \hbox (badness 3343) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/10.95 AFrancoB (2019).  ti-me-not.  [][]$https : / / github . co
+m /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
-\OT1/cmr/m/n/10 / / github . com / EmilioOcelotl / THREE . studies /
+Underfull \hbox (badness 1661) in paragraph at lines 32--35
+[]\OT1/cmr/m/n/10.95 dktr0 (2019).  Es-tuary.  [][]$https : / / github . com / 
+dktr0 /
  []
 
 
-Underfull \hbox (badness 5519) in paragraph at lines 50--54
-[]\OT1/cmr/m/n/10 EmilioOcelotl (2021b).  th-ree-beasts.  [][]$https :
+Underfull \hbox (badness 2503) in paragraph at lines 37--40
+[]\OT1/cmr/m/n/10.95 EmilioOcelotl (2020a).  an-ti.  [][]$https : / / github . 
+com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--54
-\OT1/cmr/m/n/10 / / github . com / EmilioOcelotl / THREE . studies /
+Underfull \hbox (badness 10000) in paragraph at lines 58--62
+[]\OT1/cmr/m/n/10.95 EmilioOcelotl (2021b).  th-ree-beasts.  [][]$https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--62
+\OT1/cmr/m/n/10.95 / / github . com / EmilioOcelotl / THREE . studies / tree /
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 64--67
+[]\OT1/cmr/m/n/10.95 frantic0 (2021).  sema-engine.  [][]$https : / / github . 
+com /
  []
 
 [7]
-Underfull \hbox (badness 1168) in paragraph at lines 151--154
-[]\OT1/cmr/m/n/10 tidalcycles (2021).  Tidal.  [][]$https : / / github . com /
+Underfull \hbox (badness 1259) in paragraph at lines 118--121
+[]\OT1/cmr/m/n/10.95 ojack (2020b).  Li-ve-lab.  [][]$https : / / github . com 
+/ ojack /
  []
 
-)
-
-Package natbib Warning: There were undefined citations.
-
-[8
+) [8
 
 ] (./textoCompleto.aux
 LaTeX Info: Redefining \. on input line 34.
@@ -453,26 +521,26 @@ Package rerunfilecheck Info: File `textoCompleto.out' has not changed.
 (rerunfilecheck)             Checksum: 196CAB34210D5B9D4C0636772C2DCF9D;47.
  ) 
 Here is how much of TeX's memory you used:
- 8004 strings out of 479383
- 115477 string characters out of 5875830
- 454275 words of memory out of 5000000
- 24898 multiletter control sequences out of 15000+600000
- 411993 words of font info for 60 fonts, out of 8000000 for 9000
+ 8488 strings out of 479383
+ 122489 string characters out of 5875830
+ 473574 words of memory out of 5000000
+ 25369 multiletter control sequences out of 15000+600000
+ 413716 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,8n,72p,1697b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,8n,72p,1657b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on textoCompleto.pdf (8 pages, 178429 bytes).
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmti9.pfb>
+Output written on textoCompleto.pdf (8 pages, 174248 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 254 compressed objects within 3 object streams
- 48 named destinations out of 1000 (max. 500000)
+ 282 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 

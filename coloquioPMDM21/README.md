@@ -57,6 +57,10 @@ El núcleo de la investigación será el bucle que retroalimenta práctica artí
 
 ## Escritura
 
+- Investigación artística 
+- Uso de repositorio
+- 
+
 ## Avances y Práctica
 
 - THREE.studies

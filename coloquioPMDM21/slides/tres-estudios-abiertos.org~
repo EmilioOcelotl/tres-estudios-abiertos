@@ -1,0 +1,149 @@
+#+TITLE: Tres Estudios Abiertos
+#+AUTHOR: Emilio Ocelotl Reyes
+#+EMAIL: emilio.ocelotl@gmail.com
+
+* Tres Estudios Abiertos
+
+  - Prácticas artísticas, performáticas, experimentales y audiovisuales para el navegador  
+
+  - [[https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/coloquioPMDM21/textoCompleto/textoCompleto.pdf][Texto completo]]
+  
+  - [[https://github.com/EmilioOcelotl/tres-estudios-abiertos][Repositorio]]
+
+    https://github.com/EmilioOcelotl/tres-estudios-abiertos
+    
+* Secciones
+
+  - Antecedentes y marco teórico
+        
+  - Objetivos y premisa
+
+  - Descripción de la investigación
+    
+  - Escritura y ejecución 
+
+  - Avances y práctica
+
+  - Conclusiones
+    
+* Antecedentes y marco teórico 
+
+  - Trayectoria: escritura de sistemas interactivos > módulos de software audiovisuales.
+
+  - Live Coding [[https://es.wikipedia.org/wiki/Live_coding][en Wikipedia]] > [[https://youtu.be/n5kwi4eRAE4][Caso reciente]]
+
+  - [[https://rggtrn.github.io/][RGGTRN]] y la experiencia con la gira Bellacode  
+
+  - Trilogía de Investigación
+
+    - Objeto, Paisaje y Efecto > escucha como recurso para la investigación sociológica en música y para la investigación social desde el sonido. 
+
+    - Cuidado con la Brecha > Colaboración, interacción entre audio e imagen y uso de herramientas libres, incorporación de estudios del software
+
+      [[https://www.youtube.com/watch?v=R_k9EqBZGug][Altamisa en CMM]]
+  
+    - Tres Estudios Abiertos 
+    
+  - Estudios del software (Lev Manovich) > Escritura con / sobre software y diversidad en la escritura
+
+  - Proyectos cercanos tecnológica, conceptual y estéticamente > Nivel alto, medio, bajo y ecosistemas.
+
+  - [[https://piranhalab.github.io/][PiranhaLab]] > Ciclo de conciertos EDGES > [[https://github.com/piranhalab/panorama][Panorama]] y escritura de espacios
+  
+* Objetivos y premisa
+
+  - La premisa principal de la investigación consiste en estudiar casos específicos de programación estética orientada a la integración audiovisual, posibilitada a partir de lenguajes de programación y observada desde bucle investigación-creación. 
+
+  - De la anterior se desprenden los objetivos secundarios: escribir software que pueda ser implementado en el contexto de obras audiovisuales para el navegador y realizar reflexiones a manera de documentación que vinculen conceptos tecno-sociales y estéticos.
+  
+* Descripción
+
+  - Diversidad en la escritura de software / comunidades que orbitan alrrededor de plataformas.
+    
+  - Decisiones de diseño en sintaxis de control
+
+    - Notaciones musicales y computacionales
+
+    - Lenguajes de programación exóticos y ofuscados
+
+    - Estilos musicales
+
+    - Flujos de voltaje
+
+    - Planteamientos políticos
+
+  - Síntesis granular audiovisual en el navegador. Javascript como el lenguaje predomiente
+
+    # Aquí hacen falta cosas, niveles, motores y cosas así  
+    
+  - Lógicas distribuidas de la web presentes en la realización
+  
+* Escritura y ejecución
+
+  - Investigación artística > loop o bucle entre práctica e investigación artística (Rubén Lopez-Cano)
+
+  - Repqsitorio en Git para escribir software y la investigación
+
+  - Sistemas de control de versiones y apertura a la colaboración 
+
+  - Ponderación con otros sistemas de escritura, idealmente afin a Javascript
+
+  - Por el momento, Latex > Ejemplo 
+
+  - Decisión: Emacs, un editor de texto para codear, escribir la investigación (y realizar esta ponencia) 
+  
+* Avances y práctica
+
+  - Contexto de la pandemia de COVID-19 > giro hacia el navegador y hacia JS 
+
+  - Maquetas audiovisuales > Three.js y Web Audio API 
+  
+  - [[https://github.com/EmilioOcelotl/THREE.studies][THREE.studies]] > performance audio visual en vivo que no ha sido estrenado como tal
+
+    - Espacio que se mezcla con la interpretación audiovisual
+
+    - Transmisión de audio multicanal que se mezcla en un espacio 
+
+    - Ensayos a distancia > ruteo interno de señales > pre y post producción 
+    
+    - Versión fija puesta en marcha > [[http://www.beast.bham.ac.uk/beast-feast-2021/online-works/][BEAST FEaST]]
+
+  - [[https://github.com/EmilioOcelotl/anti][4NT1]] (en proceso de elaboración) > pieza que problematiza relaciones que existen entre usuarios y plataformas tecnológicas
+
+    - Responsabilidad de datos
+
+    - Discusión > instagramización de la política, la estetización de la resistencia y política de la representación 
+
+    - Ofuscación > uso de tecnologías a la evasión
+
+    - El software como caja negra 
+      
+* Conclusiones
+
+  
+  
+* Referencias  
+
+* Fin
+
+
+
+
+
+
+
+
+
+                                 ___           ___           ___           ___                       ___           ___     
+                                /  /\         /  /\         /  /\         /  /\        ___          /  /\         /  /\    
+                               /  /:/_       /  /::\       /  /::\       /  /:/       /  /\        /  /::\       /  /:/_   
+                              /  /:/ /\     /  /:/\:\     /  /:/\:\     /  /:/       /  /:/       /  /:/\:\     /  /:/ /\  
+                             /  /:/_/::\   /  /:/~/:/    /  /:/~/::\   /  /:/  ___  /__/::\      /  /:/~/::\   /  /:/ /::\ 
+                            /__/:/__\/\:\ /__/:/ /:/___ /__/:/ /:/\:\ /__/:/  /  /\ \__\/\:\__  /__/:/ /:/\:\ /__/:/ /:/\:\
+                            \  \:\ /~~/:/ \  \:\/:::::/ \  \:\/:/__\/ \  \:\ /  /:/    \  \:\/\ \  \:\/:/__\/ \  \:\/:/~/:/
+                             \  \:\  /:/   \  \::/~~~~   \  \::/       \  \:\  /:/      \__\::/  \  \::/       \  \::/ /:/ 
+                              \  \:\/:/     \  \:\        \  \:\        \  \:\/:/       /__/:/    \  \:\        \__\/ /:/  
+                               \  \::/       \  \:\        \  \:\        \  \::/        \__\/      \  \:\         /__/:/   
+                                \__\/         \__\/         \__\/         \__\/                     \__\/         \__\/    
+
+  

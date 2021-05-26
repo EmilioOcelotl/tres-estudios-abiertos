@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  14 MAY 2021 16:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.10)  14 MAY 2021 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -313,8 +313,8 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box49
 )
 (./textoCompleto.aux
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
@@ -341,14 +341,14 @@ LaTeX Font Info:    ... okay on input line 43.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* h-part:(L,W,R)=(49.79231pt, 514.71037pt, 49.79231pt)
 * v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=557.38951pt
+* \textwidth=514.71037pt
 * \textheight=681.15898pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-22.47768pt
+* \evensidemargin=-22.47768pt
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -435,32 +435,40 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ]
-Underfull \hbox (badness 1552) in paragraph at lines 21--22
-[]\OT1/cmr/m/n/10.95 Caso de es-tu-dio. TH-REE.studies ([][]Emi-lioO-ce-lotl[][
-],
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]\OT1/cmr/bx/n/10.95 Nivel Al-to:\OT1/cmr/m/n/10.95 , Troop ([][]Qirky[][], []
+[]2016[][]), flok
  []
 
 ) (./sec/premisa.tex) (./sec/planteamiento.tex [2]
-Underfull \vbox (badness 1694) has occurred while \output is active []
+Underfull \vbox (badness 1924) has occurred while \output is active []
 
  [3])
 (./sec/escritura.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4])
-(./sec/avances.tex [5]) (./sec/conclusiones.tex) [6] (./textoCompleto.ent
-Underfull \hbox (badness 4454) in paragraph at lines 2--10
-[][]\OT1/cmr/m/n/9 Un ejem-plo re-cien-te se en-cuen-tra en: [][]$https : / / y
-outu . be /
+Underfull \hbox (badness 2837) in paragraph at lines 8--9
+[]\OT1/cmr/m/n/10.95 Abordamos pro-ce-sos art^^S^^Psti-cos que in-vo-lu-cran
  []
 
 
+Underfull \vbox (badness 1694) has occurred while \output is active []
+
+ [4])
+(./sec/avances.tex [5]
+Underfull \vbox (badness 1694) has occurred while \output is active []
+
+)
+(./sec/conclusiones.tex
+Underfull \hbox (badness 2884) in paragraph at lines 3--4
+[]\OT1/cmr/m/n/10.95 Las res-tric-cio-nes de co-pre-sen-cia del con-tex-to
+ []
+
+[6]) (./textoCompleto.ent
 Underfull \hbox (badness 10000) in paragraph at lines 49--55
 [][][][]$\OT1/cmr/m/n/9 https : / / www . toptal . com / webassembly /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--55
+Underfull \hbox (badness 1509) in paragraph at lines 49--55
 \OT1/cmr/m/n/9 webassembly-[]rust-[]tutorial-[]web-[]audio$[][] (Con-sul-ta-do 
 el 14 de
  []
@@ -471,51 +479,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--59
  / API /
  []
 
-) (./textoCompleto.bbl
-Underfull \hbox (badness 3343) in paragraph at lines 4--7
-[]\OT1/cmr/m/n/10.95 AFrancoB (2019).  ti-me-not.  [][]$https : / / github . co
-m /
+) (./textoCompleto.bbl [7]
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
+[]\OT1/cmr/m/n/10.95 EmilioOcelotl (2020b).  th-reecln.  [][]$https :
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 32--35
-[]\OT1/cmr/m/n/10.95 dktr0 (2019).  Es-tuary.  [][]$https : / / github . com / 
-dktr0 /
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
+\OT1/cmr/m/n/10.95 / / github . com / EmilioOcelotl / THREE . studies /
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 37--40
-[]\OT1/cmr/m/n/10.95 EmilioOcelotl (2020a).  an-ti.  [][]$https : / / github . 
-com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--62
+Underfull \hbox (badness 5878) in paragraph at lines 58--62
 []\OT1/cmr/m/n/10.95 EmilioOcelotl (2021b).  th-ree-beasts.  [][]$https :
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 58--62
-\OT1/cmr/m/n/10.95 / / github . com / EmilioOcelotl / THREE . studies / tree /
+\OT1/cmr/m/n/10.95 / / github . com / EmilioOcelotl / THREE . studies /
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 64--67
-[]\OT1/cmr/m/n/10.95 frantic0 (2021).  sema-engine.  [][]$https : / / github . 
-com /
+Underfull \hbox (badness 1303) in paragraph at lines 170--173
+[]\OT1/cmr/m/n/10.95 tidalcycles (2021).  Tidal.  [][]$https : / / github . com
+ /
  []
 
-[7]
-Underfull \hbox (badness 1259) in paragraph at lines 118--121
-[]\OT1/cmr/m/n/10.95 ojack (2020b).  Li-ve-lab.  [][]$https : / / github . com 
-/ ojack /
- []
-
-) [8
-
-] (./textoCompleto.aux
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+) [8] (./textoCompleto.aux
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
 )
 Package rerunfilecheck Info: File `textoCompleto.out' has not changed.
 (rerunfilecheck)             Checksum: 196CAB34210D5B9D4C0636772C2DCF9D;47.
@@ -523,11 +515,11 @@ Package rerunfilecheck Info: File `textoCompleto.out' has not changed.
 Here is how much of TeX's memory you used:
  8488 strings out of 479383
  122489 string characters out of 5875830
- 473574 words of memory out of 5000000
+ 468948 words of memory out of 5000000
  25369 multiletter control sequences out of 15000+600000
  413716 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,8n,72p,1657b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,8n,72p,1657b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
@@ -537,10 +529,10 @@ are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti9.pfb>
-Output written on textoCompleto.pdf (8 pages, 174248 bytes).
+Output written on textoCompleto.pdf (8 pages, 174852 bytes).
 PDF statistics:
- 282 PDF objects out of 1000 (max. 8388607)
- 259 compressed objects within 3 object streams
+ 288 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
  51 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,7 +6,7 @@
 
   - Prácticas artísticas, performáticas, experimentales y audiovisuales para el navegador  
 
-  - Sí son estudios abiertos pero no son tres 
+  - Son estudios abiertos pero no son tres 
   
   - [[https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/coloquioPMDM21/textoCompleto/textoCompleto.pdf][Texto completo]]
   
@@ -70,8 +70,6 @@
     - Flujos de voltaje
     - Planteamientos políticos
 
-  - Síntesis granular audiovisual en el navegador. Javascript como el lenguaje predominante.
-
   - Cuatro grupos de exploración
 
     - *Bajo* > Web Assembly y compilación en el navegador. Resolución técnica a funcionalidades limitadas o inexistentes 
@@ -81,6 +79,12 @@
     - *Alto* > Interfaz de texto y control. Diseño y personalización. Experiencia del usuario / espectador
 
     - *Ecosistemas* > Intercambio con proyectos de contribución comunitaria para ele navegador. 
+  
+  - Síntesis granular audiovisual en el navegador. Javascript como el lenguaje predominante.
+
+  - Implementación de conceptos transversales: tecnología, estética e investigativa > Escala de tiempo
+
+  - Esta propuesta se desplaza en un continuo que nos permite observar(investigar) el sonido en una dimensión microscópica, lo político y lo social en una dimensión macroscópica y las piezas artísticas como un punto intermedio entre estas dos escalas > Audio e imagen 
 
   - Lógicas distribuidas de la web presentes en la realización
   
@@ -88,7 +92,7 @@
 
   - Investigación artística > loop o bucle entre práctica e investigación artística (Rubén Lopez-Cano)
 
-  - Repositorio en Git para escribir software y la investigación
+  - Repositorio en Git y sistemas de control para escribir software y el texto de la investigación 
 
   - Sistemas de control de versiones y apertura a la colaboración 
 
@@ -98,7 +102,7 @@
 
   - Decisión: Emacs, un editor de texto para codear, escribir la investigación (y realizar esta ponencia) 
 
-  - OBsolesencia y efimero
+  - La obsolesencia y el carácter efímero de las piezas en la web 
   
 * Avances y práctica
 

@@ -36,19 +36,19 @@
 
   - Trilogía de Investigación
 
-    - Objeto, Paisaje y Efecto > escucha como recurso para la investigación sociológica en música y para la investigación social desde el sonido. 
+    - *Objeto, Paisaje y Efecto* > escucha como recurso para la investigación sociológica en música y para la investigación social desde el sonido. 
 
-    - Cuidado con la Brecha > Colaboración, interacción entre audio e imagen y uso de herramientas libres, incorporación de estudios del software
+    - *Cuidado con la Brecha* > Colaboración, interacción entre audio e imagen y uso de herramientas libres, incorporación de estudios del software
 
       [[https://www.youtube.com/watch?v=R_k9EqBZGug][Altamisa en CMM]]
   
-    - Tres Estudios Abiertos 
+    - *Tres Estudios Abiertos*
     
   - Estudios del software (Lev Manovich) > Escritura con / sobre software y diversidad en la escritura
 
   - Proyectos cercanos tecnológica, conceptual y estéticamente > Nivel alto, medio, bajo y ecosistemas.
 
-  - [[https://piranhalab.github.io/][PiranhaLab]] > Ciclo de conciertos EDGES > [[https://github.com/piranhalab/panorama][Panorama]] y escritura de espacios
+  - Recientemente: [[https://piranhalab.github.io/][PiranhaLab]] > Ciclo de conciertos EDGES > [[https://github.com/piranhalab/panorama][Panorama]] y escritura de espacios
   
 * Objetivos y premisa
 
@@ -63,19 +63,23 @@
   - Decisiones de diseño en sintaxis de control
 
     - Notaciones musicales y computacionales
-
     - Lenguajes de programación exóticos y ofuscados
-
     - Estilos musicales
-
     - Flujos de voltaje
-
     - Planteamientos políticos
 
-  - Síntesis granular audiovisual en el navegador. Javascript como el lenguaje predomiente
+  - Síntesis granular audiovisual en el navegador. Javascript como el lenguaje predominante.
 
-    # Aquí hacen falta cosas, niveles, motores y cosas así  
-    
+  - Cuatro grupos de exploración
+
+    - *Bajo* > Web Assembly y compilación en el navegador. Resolución técnica a funcionalidades limitadas o inexistentes 
+
+    - *Medio* > Maquetas > Marcos de trabajo previamente escritos como Web Audio API y Three.js
+
+    - *Alto* > Interfaz de texto y control. Diseño y personalización. Experiencia del usuario / espectador
+
+    - *Ecosistemas* > Intercambio con proyectos de contribución comunitaria para ele navegador. 
+
   - Lógicas distribuidas de la web presentes en la realización
   
 * Escritura y ejecución
@@ -91,6 +95,8 @@
   - Por el momento, Latex > Ejemplo 
 
   - Decisión: Emacs, un editor de texto para codear, escribir la investigación (y realizar esta ponencia) 
+
+  - OBsolesencia y efimero
   
 * Avances y práctica
 
@@ -120,38 +126,34 @@
       
 * Conclusiones
 
-  - Restricciones del contexto pandémico como restricción y ofrecimiento
+  - Contexto pandémico como restricción y ofrecimiento
 
   - Sintetizadores en la nube > desplazar carga del navegador a un servidor
 
   - Búsqueda por bajos niveles de programación > expandir funcionalidades
 
+  - Reto: experiencia de usuario y exploraciones poéticas 
+
   - Texto y escritura en plataformas que pueden cambiar de giro > otras formas de preservación
 
-  - Consecuencias no buscadas 
+  - Consecuencias no buscadas: ética del software y consecuencias ambientales 
   
-* Referencias  
-
 * Fin
 
 
 
 
 
-
-
-
-
-                                 ___           ___           ___           ___                       ___           ___     
-                                /  /\         /  /\         /  /\         /  /\        ___          /  /\         /  /\    
-                               /  /:/_       /  /::\       /  /::\       /  /:/       /  /\        /  /::\       /  /:/_   
-                              /  /:/ /\     /  /:/\:\     /  /:/\:\     /  /:/       /  /:/       /  /:/\:\     /  /:/ /\  
-                             /  /:/_/::\   /  /:/~/:/    /  /:/~/::\   /  /:/  ___  /__/::\      /  /:/~/::\   /  /:/ /::\ 
-                            /__/:/__\/\:\ /__/:/ /:/___ /__/:/ /:/\:\ /__/:/  /  /\ \__\/\:\__  /__/:/ /:/\:\ /__/:/ /:/\:\
-                            \  \:\ /~~/:/ \  \:\/:::::/ \  \:\/:/__\/ \  \:\ /  /:/    \  \:\/\ \  \:\/:/__\/ \  \:\/:/~/:/
-                             \  \:\  /:/   \  \::/~~~~   \  \::/       \  \:\  /:/      \__\::/  \  \::/       \  \::/ /:/ 
-                              \  \:\/:/     \  \:\        \  \:\        \  \:\/:/       /__/:/    \  \:\        \__\/ /:/  
-                               \  \::/       \  \:\        \  \:\        \  \::/        \__\/      \  \:\         /__/:/   
-                                \__\/         \__\/         \__\/         \__\/                     \__\/         \__\/    
-
   
+
+                          ___           ___           ___           ___                       ___           ___     
+                         /  /\         /  /\         /  /\         /  /\        ___          /  /\         /  /\
+                        /  /:/_       /  /::\       /  /::\       /  /:/       /  /\        /  /::\       /  /:/_   
+                       /  /:/ /\     /  /:/\:\     /  /:/\:\     /  /:/       /  /:/       /  /:/\:\     /  /:/ /\  
+                      /  /:/_/::\   /  /:/~/:/    /  /:/~/::\   /  /:/  ___  /__/::\      /  /:/~/::\   /  /:/ /::\ 
+                     /__/:/__\/\:\ /__/:/ /:/___ /__/:/ /:/\:\ /__/:/  /  /\ \__\/\:\__  /__/:/ /:/\:\ /__/:/ /:/\:\
+                     \  \:\ /~~/:/ \  \:\/:::::/ \  \:\/:/__\/ \  \:\ /  /:/    \  \:\/\ \  \:\/:/__\/ \  \:\/:/~/:/
+                      \  \:\  /:/   \  \::/~~~~   \  \::/       \  \:\  /:/      \__\::/  \  \::/       \  \::/ /:/ 
+                       \  \:\/:/     \  \:\        \  \:\        \  \:\/:/       /__/:/    \  \:\        \__\/ /:/  
+                        \  \::/       \  \:\        \  \:\        \  \::/        \__\/      \  \:\         /__/:/   
+                         \__\/         \__\/         \__\/         \__\/                     \__\/         \__\/  

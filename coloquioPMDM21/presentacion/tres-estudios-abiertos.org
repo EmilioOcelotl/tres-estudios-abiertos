@@ -116,7 +116,7 @@
 
     - Transmisión de audio multicanal que se mezcla en un espacio 
 
-    - Ensayos a distancia > ruteo interno de señales > pre y post producción 
+    - Ensayos a distancia > ruteo interno de señales > pre y post producción > Video en crudo
     
     - Versión fija puesta en marcha > [[http://www.beast.bham.ac.uk/beast-feast-2021/online-works/][BEAST FEaST]]
 

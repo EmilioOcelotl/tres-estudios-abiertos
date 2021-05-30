@@ -6,9 +6,9 @@
 
   - Prácticas artísticas, performáticas, experimentales y audiovisuales para el navegador  
 
-  - Son estudios abiertos pero no son tres 
+  - Descripción breve > Son estudios abiertos pero no son tres 
   
-  - [[https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/coloquioPMDM21/textoCompleto/textoCompleto.pdf][Texto completo]]
+  - Texto completo [[https://github.com/EmilioOcelotl/tres-estudios-abiertos/blob/main/coloquioPMDM21/textoCompleto/textoCompleto.pdf][PDF]] [[https://emilioocelotl.github.io/tres-estudios-abiertos/][web]]
   
   - [[https://github.com/EmilioOcelotl/tres-estudios-abiertos][Repositorio]]
 
@@ -48,19 +48,19 @@
     
   - Estudios del software (Lev Manovich) > Escritura con / sobre software y diversidad en la escritura
 
-  - Proyectos cercanos tecnológica, conceptual y estéticamente > Nivel alto, medio, bajo y ecosistemas.
+  - Proyectos cercanos tecnológica, conceptual y estéticamente > Nivel alto, medio, bajo y ecosistemas (abrir documento) 
 
   - Recientemente: [[https://piranhalab.github.io/][PiranhaLab]] > Ciclo de conciertos EDGES > [[https://github.com/piranhalab/panorama][Panorama]] y escritura de espacios
   
 * Objetivos y premisa
 
-  - La premisa principal de la investigación consiste en estudiar casos específicos de programación estética orientada a la integración audiovisual, posibilitada a partir de lenguajes de programación y observada desde bucle investigación-creación. 
+  - La premisa principal de la investigación consiste en estudiar casos específicos de programación estética orientada a la integración audiovisual, posibilitada a partir de lenguajes de programación y observada desde el bucle investigación-creación. 
 
   - De la anterior se desprenden los objetivos secundarios: escribir software que pueda ser implementado en el contexto de obras audiovisuales para el navegador y realizar reflexiones a manera de documentación que vinculen conceptos tecno-sociales y estéticos.
   
 * Descripción
 
-  - Diversidad en la escritura de software / comunidades que orbitan alrrededor de plataformas.
+  - Diversidad en la escritura de software / comunidades que orbitan alrededor de plataformas.
     
   - Decisiones de diseño en sintaxis de control
 
@@ -68,25 +68,23 @@
     - Lenguajes de programación exóticos y ofuscados
     - Estilos musicales
     - Flujos de voltaje
-    - Planteamientos políticos
+    - Decolonialidad
 
   - Cuatro grupos de exploración
 
     - *Bajo* > Web Assembly y compilación en el navegador. Resolución técnica a funcionalidades limitadas o inexistentes 
-
     - *Medio* > Maquetas > Marcos de trabajo previamente escritos como Web Audio API y Three.js
-
     - *Alto* > Interfaz de texto y control. Diseño y personalización. Experiencia del usuario / espectador
-
     - *Ecosistemas* > Intercambio con proyectos de contribución comunitaria para ele navegador. 
   
   - Síntesis granular audiovisual en el navegador. Javascript como el lenguaje predominante.
-
+    
+  - Planteamientos distribuidos en la web
+  
   - Implementación de conceptos transversales: tecnología, estética e investigativa > Escala de tiempo
 
-  - Esta propuesta se desplaza en un continuo que nos permite observar(investigar) el sonido en una dimensión microscópica, lo político y lo social en una dimensión macroscópica y las piezas artísticas como un punto intermedio entre estas dos escalas > Audio e imagen 
+  - Esta propuesta se desplaza en un continuo que nos permite observar (investigar) al sonido (y su transformación granular) en una dimensión microscópica, lo político y lo social en una dimensión macroscópica y las piezas artísticas como un punto intermedio entre estas dos escalas > Audio e imagen 
 
-  - Lógicas distribuidas de la web presentes en la realización
   
 * Escritura y ejecución
 
@@ -96,18 +94,20 @@
 
   - Sistemas de control de versiones y apertura a la colaboración 
 
-  - Ponderación con otros sistemas de escritura, idealmente afin a Javascript
+  - Ponderación con otros sistemas de escritura y respaldo, idealmente afines a Javascript
 
   - Por el momento, Latex > Ejemplo 
 
   - Decisión: Emacs, un editor de texto para codear, escribir la investigación (y realizar esta ponencia) 
 
-  - La obsolesencia y el carácter efímero de las piezas en la web 
+  - Reto: obsolesencia y el carácter efímero de las piezas y los documentos en la web 
   
 * Avances y práctica
 
   - Contexto de la pandemia de COVID-19 > giro hacia el navegador y hacia JS 
 
+  - Consecuencias de la experiencia con EDGES y PiranhaLab 
+    
   - Maquetas audiovisuales > Three.js y Web Audio API 
   
   - [[https://github.com/EmilioOcelotl/THREE.studies][THREE.studies]] > performance audio visual en vivo que no ha sido estrenado como tal
@@ -142,7 +142,7 @@
 
   - Texto y escritura en plataformas que pueden cambiar de giro > otras formas de preservación
 
-  - Consecuencias no buscadas: ética del software y consecuencias ambientales 
+  - Consecuencias no buscadas y enunciadas externamente: ética del software y consecuencias ambientales 
   
 * Fin
 

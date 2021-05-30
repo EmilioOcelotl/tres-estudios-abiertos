@@ -1,0 +1,494 @@
+<!DOCTYPE html> 
+<html lang='es' xml:lang='es'> 
+<head><title>Tres Estudios Abiertos
+Prácticas performáticas, audiovisuales y experimentales en el navegador</title> 
+<meta charset='utf-8' /> 
+<meta name='generator' content='TeX4ht (https://tug.org/tex4ht/)' /> 
+<meta name='viewport' content='width=device-width,initial-scale=1' /> 
+<link type='text/css' href='tres.css' rel='stylesheet' /> 
+<meta name='src' content='textoCompleto.tex' /> 
+</head><body>
+   <div class='maketitle'>
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+
+<h2 class='titleHead'>Tres Estudios Abiertos<br />
+Prácticas performáticas, audiovisuales y experimentales en el navegador</h2>
+<div class='author'><span class='rm-lmr-12'>Emilio Ocelotl Reyes</span></div><br />
+<div class='date'><span class='rm-lmr-12'>30 de mayo de 2021</span></div>
+   </div>
+   <section class='abstract' role='doc-abstract'> 
+<h3 class='abstracttitle'>
+<span class='rm-lmbx-10'>Resumen</span>
+</h3>
+     <!-- l. 2 --><p class='noindent'><span class='rm-lmri-10'>Tres Estudios Abiertos </span><span class='rm-lmr-10'>es una investigación que aborda prácticas artísticas, performáticas, experimentales
+     </span><span class='rm-lmr-10'>y audiovisuales para el navegador. Estudia la influencia de los lenguajes de programación y el aporte
+     </span><span class='rm-lmr-10'>que la programación estética puede realizar a la investigación artística con tecnología. Como parte del
+     </span><span class='rm-lmr-10'>objetivo tecnológico, busca implementar un esqueleto de granulación audiovisual y módulos personalizados
+     </span><span class='rm-lmr-10'>de software que conformarán una colección de estudios para el navegador.</span>
+     </p><!-- l. 6 --><p class='indent'>   <span class='rm-lmr-10'>Estas  piezas  tendrán  audio  y  video,  estarán  alojadas  en  la  web,  tendrán  una  lógica  distribuida,
+     </span><span class='rm-lmr-10'>estarán optimizadas para el bajo consumo de recursos de la computadora y no requerirán instalación
+     </span><span class='rm-lmr-10'>ni dependencias adicionales. </span><span class='rm-lmri-10'>Javascript </span><span class='rm-lmr-10'>es el lenguaje de programación principal del proyecto y estará
+     </span><span class='rm-lmr-10'>presente en el nivel bajo, medio y alto de programación.</span>
+     </p><!-- l. 8 --><p class='indent'>   <span class='rm-lmr-10'>El núcleo de la investigación será el bucle que retroalimenta práctica artística y reflexión, es decir, la
+     </span><span class='rm-lmr-10'>relación que existirá entre las piezas realizadas, el entramado de software que posibilitará su realización
+     </span><span class='rm-lmr-10'>en la web y las implicaciones tecno-sociales de la tecnología principal de este proyecto: los lenguajes de
+     </span><span class='rm-lmr-10'>programación.</span>
+</p>
+</section>
+   <h3 class='likesectionHead'><a id='x1-1000'></a>Antecedentes y marco teórico</h3>
+                                                                                                  
+                                                                                                  
+<!-- l. 3 --><p class='noindent'>Los antecedentes de esta investigación aluden a una trayectoria que va de la transición de la escritura de software
+para la realización de sistemas interactivos a la escritura de módulos de software audiovisuales. Estas experiencias
+toman como premisas la optimización y la ligereza de hardware (por ejemplo, con el uso de computadoras de placa
+reducida como Raspberry Pi o Jetson Nano ) y la elaboración sistemas ligeros, accesibles y portables para la síntesis
+y renderización audiovisual en el navegador.
+</p><!-- l. 5 --><p class='indent'>   Dentro de los antecedentes está la experiencia performática de escribir código al vuelo con fines creativos,
+audiovisuales y experimentales, tal y como lo describen <a href='#Xvillasenor'>Villaseñor-Ramírez y Paz</a> (<a href='#Xvillasenor'>2020</a>) para los casos de
+Barcelona y Ciudad de México.<sup><a href='#ennote-1' id='enmark-1'><span class='cmr-8'>1</span></a></sup>
+</p><!-- l. 7 --><p class='indent'>   <span class='rm-lmri-10x-x-109'>Tres Estudios Abiertos </span>forma parte de una trilogía de investigación. La primera parte fue Objeto, Paisaje y
+Efecto (<a href='#XocelotlLic'>Ocelotl</a>, <a href='#XocelotlLic'>2015</a>), un proyecto de investigación que abordó las nociones de objeto sonoro (<a href='#Xschaeffer'>Schaeffer</a>, <a href='#Xschaeffer'>2003</a>),
+paisaje sonoro(<a href='#Xschafer1'>Schafer</a>, <a href='#Xschafer1'>1994</a>) y efecto sonoro (<a href='#Xaugoyard'>Augoyard y Torgue</a>, <a href='#Xaugoyard'>2006</a>) para considerar a la escucha
+como un recurso para la investigación sociológica en música y para la investigación social desde el
+sonido.
+</p><!-- l. 9 --><p class='indent'>   Un segundo punto de investigación involucró un proceso de investigación-producción artística (<a href='#XocelotlMas'>Ocelotl</a>, <a href='#XocelotlMas'>2019</a>).
+La realización de este proyecto fue un prototipo tecnológico y partió de objetivos que inicialmente estaban
+propuestos como secundarios pero que más tarde se revelaron como parte del núcleo en la investigación. Estos
+aspectos son: 1) el proceso de trabajo colaborativo, 2) la reflexión sobre la interacción entre audio e imagen en la
+composición musical electroacústica y 3) el uso de herramientas libres, personalizadas para la realización de
+prototipos audiovisuales y para el planteamiento de una observación crítica de procesos creativos donde investigador
+y artista son el mismo agente. La propuesta de los estudios del software fue incorporada en este momento de
+investigación.
+</p><!-- l. 11 --><p class='indent'>   <span class='rm-lmri-10x-x-109'>Tres Estudios Abiertos </span>retoma esta incorporación, parte del giro de los nuevos medios y de los estudios del
+software (<a href='#Xmanovichlanguage'>Manovich</a>, <a href='#Xmanovichlanguage'>2001</a>). Como una extensión del punto de partida, la investigación se adscribe a la escritura con
+y sobre software (<a href='#XaestheticProgramming'>Soon y Cox</a>, <a href='#XaestheticProgramming'>2020</a>). Atiende al papel que juega la experiencia subjetiva y las implicaciones
+políticas y sociales en la programación estética (<a href='#XspeakingCode'>Cox y McLean</a>, <a href='#XspeakingCode'>2012</a>).
+</p><!-- l. 13 --><p class='indent'>   Otro antecedente de este proyecto es la práctica y reflexión planteada en colectivo por<span class='rm-lmri-10x-x-109'>PiranhaLab</span><sup><a href='#ennote-2' id='enmark-2'><span class='cmr-8'>2</span></a></sup>. El ciclo de
+talleres realizado en el Centro de Cultura Digital (CCD) en coparticipación con el Laboratorio de Tecnologías
+Libres<sup><a href='#ennote-3' id='enmark-3'><span class='cmr-8'>3</span></a></sup> permitió plantear dos conclusiones que se heredan a <span class='rm-lmri-10x-x-109'>Tres Estudios Abiertos</span>: La difuminación de la distinción
+usuario/desarrollador como una motivación para la escritura de software y la procuración de diversidad en la
+escritura de software en América Latina.
+</p><!-- l. 15 --><p class='indent'>   La escritura de espacios para el ciclo de conciertos EDGES 2020 realizado por el Taller de Imágenes en
+Movimiento del Centro Multimedia (CMM) permitió la exploración de entornos tridimensionales inmersivos en el
+navegador en el contexto del encierro causado por la pandemia de COVID-19. Técnica y conceptualmente la
+escritura de estos espacios digitales influye en el presente proyecto. El artículo <span class='rm-lmri-10x-x-109'>Panorama </span>(<a href='#XpanoramaArticulo'>PiranhaLab</a>, <a href='#XpanoramaArticulo'>2020</a>) hace
+referencia de manera extensa al ecosistema de espacios y propuestas que también inciden en <span class='rm-lmri-10x-x-109'>Tres Estudios
+</span><span class='rm-lmri-10x-x-109'>Abiertos</span>.
+</p><!-- l. 17 --><p class='indent'>   De manera directa, los siguientes proyectos están relacionados con la investigación y se convierten en casos de
+estudio, en algunas otras ocasiones fungen como antecedentes directos:
+</p>
+     <ul class='itemize1'>
+                                                                                                  
+                                                                                                  
+     <li class='itemize'>Caso  de  estudio.  THREE.studies  (<a href='#Xthreestudies'>EmilioOcelotl</a>, <a href='#Xthreestudies'>2020c</a>)  y  en  específico,  las  iteraciones  threecln
+     (<a href='#Xthreecln'>EmilioOcelotl</a>, <a href='#Xthreecln'>2020b</a>) y threeBEASTs (<a href='#XthreeBEASTs'>EmilioOcelotl</a>, <a href='#XthreeBEASTs'>2021b</a>)
+     </li>
+     <li class='itemize'>Caso de estudio. Anti (<a href='#Xanti'>EmilioOcelotl</a>, <a href='#Xanti'>2020a</a>)
+     </li>
+     <li class='itemize'>Antecedente directo. Diálogo IV @ Coloquio Salvador Contreras. Artes Sonoras y Creación Musical en
+     México: Siglo XXI (<a href='#Xdialogo'>EmilioOcelotl</a>, <a href='#Xdialogo'>2021a</a>)
+     </li>
+     <li class='itemize'>Antecedente  directo.  Panorama.  Escritura  de  espacios  libres  e  inmersivos  para  el  performance
+     audiovisual (<a href='#XpanoramaArticulo'>PiranhaLab</a>, <a href='#XpanoramaArticulo'>2020</a>)<sup><a href='#ennote-4' id='enmark-4'><span class='cmr-8'>4</span></a></sup>
+     </li></ul>
+<!-- l. 28 --><p class='indent'>   Algunos proyectos cercanos tecnológica, conceptual y estéticamente a <span class='rm-lmri-10x-x-109'>Tres Estudios Abiertos </span>son:
+</p>
+     <ul class='itemize1'>
+     <li class='itemize'><span class='rm-lmbx-10x-x-109'>Nivel Bajo: </span>Ruffbox (<a href='#Xruffbox'>the-drunk coder</a>, <a href='#Xruffbox'>2019</a>), WebAssembly/Rust Tutorial<sup><a href='#ennote-5' id='enmark-5'><span class='cmr-8'>5</span></a></sup> y Flocking (<a href='#Xflocking'>continuing
+     creativity</a>, <a href='#Xflocking'>2011</a>).
+     </li>
+     <li class='itemize'><span class='rm-lmbx-10x-x-109'>Nivel Medio: </span>(<a href='#Xsupercolliderweb'>khilnani</a>, <a href='#Xsupercolliderweb'>2012</a>), Web Audio API<sup><a href='#ennote-6' id='enmark-6'><span class='cmr-8'>6</span></a></sup>, Tone.js<sup><a href='#ennote-7' id='enmark-7'><span class='cmr-8'>7</span></a></sup> y supercolliderjs<sup><a href='#ennote-8' id='enmark-8'><span class='cmr-8'>8</span></a></sup>.
+     </li>
+     <li class='itemize'><span class='rm-lmbx-10x-x-109'>Nivel   Alto:</span>,   Troop   (<a href='#XTroop'>Qirky</a>, <a href='#XTroop'>2016</a>),   flok   (<a href='#Xflok'>munshkr</a>, <a href='#Xflok'>2019</a>),   tilt   (<a href='#Xtilt'>munshkr</a>, <a href='#Xtilt'>2021</a>),   LiveLab
+     (<a href='#Xlivelab'>ojack</a>, <a href='#Xlivelab'>2020b</a>), Hydra (<a href='#Xhydra'>ojack</a>, <a href='#Xhydra'>2020a</a>), timeNot (<a href='#Xtimenot'>AFrancoB</a>, <a href='#Xtimenot'>2019</a>) y seis8s (<a href='#Xseis8s'>luisnavarrodelangel</a>, <a href='#Xseis8s'>2020</a>)
+     </li>
+     <li class='itemize'><span class='rm-lmbx-10x-x-109'>Ecosistemas: </span>Estuary (<a href='#Xestuary'>dktr0</a>, <a href='#Xestuary'>2019</a>) y sema-engine (<a href='#Xsema'>frantic0</a>, <a href='#Xsema'>2021</a>).
+     </li></ul>
+<!-- l. 1 --><p class='noindent'>
+</p>
+   <h3 class='likesectionHead'><a id='x1-2000'></a>Premisa y objetivos</h3>
+<!-- l. 5 --><p class='noindent'>La premisa principal de la investigación consiste en estudiar casos específicos de programación estética orientada a
+la integración audiovisual, posibilitada a partir de lenguajes de programación y observada desde bucle
+investigación-creación.
+</p><!-- l. 7 --><p class='indent'>   De esta premisa se desprenden los objetivos secundarios: escribir software que pueda ser implementado en el
+contexto de obras audiovisuales para el navegador y realizar reflexiones a manera de documentación que vinculen
+conceptos tecno-sociales y estéticos.
+                                                                                                  
+                                                                                                  
+</p><!-- l. 1 --><p class='noindent'>
+</p>
+   <h3 class='likesectionHead'><a id='x1-3000'></a>Descripción</h3>
+<!-- l. 3 --><p class='noindent'>El presente proyecto se inserta en un ecosistema de funcionalidades, exploraciones estéticas, escritura de software y
+comunidades que de manera directa o indirecta se vinculan con la programación estética. Si partimos de esta
+relación de agentes, podemos contemplar dos distinciones que permiten localizar a <span class='rm-lmri-10x-x-109'>Tres Estudios Abiertos </span>en este
+ecosistema.
+</p><!-- l. 9 --><p class='indent'>   La primera está centrada en proyectos específicos y se centra en el uso e implementación de módulos de código
+en una comunidad que ejecuta, retroalimenta y enriquece al proyecto. Para este caso, destacamos el caso de Hydra
+(<a href='#Xhydra'>ojack</a>, <a href='#Xhydra'>2020a</a>) o TidalCycles (<a href='#Xtidal'>tidalcycles</a>, <a href='#Xtidal'>2021</a>). La segunda está orientada a la diversidad no focalizada en un
+proyecto específico con una comunidad orbitante de usuarios. Se enfoca principalmente a la escritura
+de interfaces de control, para este rubro mencionamos las posibilidades de ecosistemas que albergan
+lenguajes de programación como Estuary (<a href='#Xestuary'>dktr0</a>, <a href='#Xestuary'>2019</a>) y sema-engine (<a href='#Xsema'>frantic0</a>, <a href='#Xsema'>2021</a>) y librerías para el
+control de motores de audio como INSTRUMENT (<a href='#Xinstrument'>punksnotdev</a>, <a href='#Xinstrument'>2021</a>) o canon-generator (<a href='#Xcanongenerator'>nanc-in-a
+can</a>, <a href='#Xcanongenerator'>2020</a>)
+</p><!-- l. 11 --><p class='indent'>   El presente proyecto se delimita a partir de una serie de características que son comunes a los proyectos del
+ecosistema de usuarios y escritores de software. Éstas influyen y delimitan programas e interfaces y conducen la
+realización de obras e interpretaciones artísticas a partir de notaciones musicales y computacionales, sintaxis de
+programación, estilos musicales, ruteos de señales similares a los flujos de voltaje e incluso planteamientos de crítica
+política y social.
+</p><!-- l. 13 --><p class='indent'>   Referimos a este conjunto de características como decisiones de diseño en sintaxis que controlan motores de
+audio y video y que tienen consecuencias en la estética del resultado sonoro/visual. <span class='rm-lmri-10x-x-109'>Tres Estudios Abiertos </span>las
+transita y se adscribe a esta diversidad en la escritura de y con software.
+</p><!-- l. 15 --><p class='indent'>   De manera específica, este proyecto propone bibliotecas para un caso específico de sonoridad digital: síntesis
+granular audiovisual en el navegador. El proyecto opta por este camino en resistencia a la preponderancia del patrón
+audiovisual basado en relojes y en pos de la densidad, la textura y el gesto como detonador de eventos sonoros.
+Aprovecha las posiblidades de procesamiento y conexión en red para generar módulos de software. El proyecto
+implementará módulos de software en piezas audiovisuales para el navegador, cada una, tendrán módulos adicionales
+que matizarán el esqueleto granular y que aportarán elementos tecnológicos para la diferenciación entre
+piezas.
+</p><!-- l. 17 --><p class='indent'>   La ruta de navegación de este escrito implica cuatro grupos de exploración. Estos niveles serán abordados de
+manera no lineal y se describen a continuación:
+</p>
+     <ul class='itemize1'>
+     <li class='itemize'><span class='rm-lmbx-10x-x-109'>Bajo.- </span>Como parte de la búsqueda por la ligereza y el bajo consumo de recursos, el proyecto busca
+     explorar las posibilidades de la compilación de código fuente directamente en el navegador. Para este
+     fin, el uso de <span class='rm-lmri-10x-x-109'>Web Assembly </span>será necesario. En este nivel es posible proponer una librería granular
+     compliada para el navegador.
+     </li>
+                                                                                                  
+                                                                                                  
+     <li class='itemize'><span class='rm-lmbx-10x-x-109'>Medio.- </span>Implementación del esqueleto de módulos con <span class='rm-lmri-10x-x-109'>frameworks </span>dedicados previamente escritos
+     como Web Audio API<sup><a href='#ennote-9' id='enmark-9'><span class='cmr-8'>9</span></a></sup>, three.js<sup><a href='#ennote-10' id='enmark-10'><span class='cmr-8'>10</span></a></sup>  y Icecast<sup><a href='#ennote-11' id='enmark-11'><span class='cmr-8'>11</span></a></sup>. Este nivel es de utilidad para bosquejar el posible
+     comportamiento del esqueleto granular con marcos robustos y estables.
+     </li>
+     <li class='itemize'><span class='rm-lmbx-10x-x-109'>Alto.- </span>Implementación de funciones de control que puedan interactuar con el esqueleto de módulos
+     para la granulación de audio y video. Idealmente éstas conformarán la sintaxis de una interfaz de texto
+     que será deducida de <span class='rm-lmri-10x-x-109'>Javascript</span>. La escritura de software y la referencia a otros proyectos de nivel
+     alto permite tener una idea de cómo se podría resolver el control de librerías y de motores de audio
+     y video. Este nivel permite explorar las posibilidades poéticas del texto como interfaz. Este aspecto
+     también considera la experiencia del usuario / espectador.
+     </li>
+     <li class='itemize'><span class='rm-lmbx-10x-x-109'>Ecosistemas.- </span>El proyecto podría integrarse a la agendas de contribución comunitaria de proyectos
+     como sema-engine (<a href='#X2019_40'>Bernardo <span class='rm-lmri-10x-x-109'>et al.</span></a>, <a href='#X2019_40'>2019</a>) y Estuary. Esto permitiría el trabajo modular de manera
+     colectiva en colaboración con otros proyectos similares y nutrirse de la experiencia de diseño de lenguajes
+     para el control de señales de audio e imagen a partir de interfaces de texto.
+     </li></ul>
+<!-- l. 31 --><p class='indent'>   Para la realización de una librería de síntesis granular audiovisual, el proyecto parte de conceptos propuestos
+por <a href='#Xmicrosound'>Roads</a> (<a href='#Xmicrosound'>2001</a>) y en específico aborda la noción de escala de tiempo para realizar acercamientos o alejamientos
+que puedan enfocar obra artística, tecnología y que incluso alcancen a plantear un marco de observación social.
+Esta propuesta se desplaza en un continuo que nos permite observar el sonido en una dimensión microscópica, lo
+político y lo social en una dimensión macroscópica y las piezas artísticas como un punto intermedio entre estas dos
+escalas.
+</p><!-- l. 33 --><p class='indent'>   Los casos de estudio estarán alojados en la web. En este sentido, el proyecto pretende resolver el <span class='rm-lmri-10x-x-109'>backend </span>del
+proyecto y en específico, busca explorar las posiblidades técnicas y conceptuales de la distribución el web a partir
+del concepto par-a-par<sup><a href='#ennote-12' id='enmark-12'><span class='cmr-8'>12</span></a></sup>. Hemos optado por arquitecturas distribuidas para la realización de las piezas para reducir
+la carga en la comunicación enetre nodos, para no depender de la centralidad de un servidor y particularmente para
+compartir flujos de audio y video a través de la web sin restricciones de contenido o forma. El proyecto en este
+sentido apunta hacia la realización de un sintetizador distribuído alojado en la web y del uso de la
+noción de nodo y red para la resolución tecnológica de las piezas pero también como una forma de
+observar la organización social que se relaciona con tecnologías que posibilitan la interacción en espacios
+digitales.
+</p><!-- l. 4 --><p class='noindent'>
+</p>
+   <h3 class='likesectionHead'><a id='x1-4000'></a>Escritura y Ejecución</h3>
+<!-- l. 6 --><p class='noindent'>Para su ejecución, el proyecto alude a la investigación artística y extiende la idea de <span class='rm-lmri-10x-x-109'>loop </span>o bucle para hablar de la
+relación que existe entre investigación y práctica artística cuando el investigador y artista son la misma persona, tal
+y como describe <a href='#XocelotlMas'>Ocelotl</a> (<a href='#XocelotlMas'>2019</a>). Esta forma de trabajo retroalimenta la escritura investigativa con la práctica
+                                                                                                  
+                                                                                                  
+artística y viceversa. Consideramos que esta perspectiva revela aspectos que el distanciamiento convencional no
+toma en cuenta.
+</p><!-- l. 8 --><p class='indent'>   Abordamos procesos artísticos que involucran música, software y computadoras. La investigación no busca
+realizar mediciones para establecer parámetros de ligereza o eficacia el software resultante. En todo caso, aprovecha
+la lógica tecnológica de la programación y del procesamiento de información para encontrar soluciones para la
+investigación y la reflexión.
+</p><!-- l. 10 --><p class='indent'>   Rescatamos el uso del repositorio como una estrategia para escribir software, como un respaldo para el trabajo
+colaborativo y como una documentación que puede modificarse y consultarse en el tiempo. Para la presente
+investigación, la noción de repositorio de código es central ya que nos permite adentarnos en <span class='rm-lmri-10x-x-109'>las tripas del software </span>y
+contemplar al código como un recurso de y para la investigación. En este sentido la escritura y la consulta
+de software puede realizarse con sistemas distribuidos de control de versiones como <span class='rm-lmri-10x-x-109'>Git</span><sup><a href='#ennote-13' id='enmark-13'><span class='cmr-8'>13</span></a></sup>. Con esto,
+nos adentramos en la discusión sobre el carácter efímero del software y de piezas artísticas para el
+navegador.
+</p><!-- l. 12 --><p class='indent'>   Aprovechamos la lógica de estos sistemas para construir un entramado que pueda dar cuenta, por un lado, del
+proceso creativo con los respositorios de las piezas que existen en la web y por el otro, el texto que conforma la
+investigación y que pretende discutir con la contraparte programada. De esta manera, los procesos
+quedan lo suficientemente abiertos como para interrelacionarse sin perder delimitación y diferenciación.
+Buscamos extender la propuesta de un momento anterior de investigación que anuncia la lógica del
+trabajo con sistemas distribuidos para la investigación artística con tecnología orientada a la creación
+audivisual.
+</p><!-- l. 14 --><p class='indent'>   La ejecución de la investigación consiste en relacionar código, texto y recursos multimedia. En un momento
+futuro, ponderaremos la implementación de distintos sistemas de escritura de texto/código y elegiremos el que mejor
+se adapte a los objetivos y alcances del proyecto. Hasta el momento, la investigación considera tres sistemas que de
+alguna u otra manera se relacionan con la escritura de texto/código: <span class='rm-lmri-10x-x-109'>LaTeX</span><sup><a href='#ennote-14' id='enmark-14'><span class='cmr-8'>14</span></a></sup>, <span class='rm-lmri-10x-x-109'>Git </span>y <span class='rm-lmri-10x-x-109'>JupyterLab</span><sup><a href='#ennote-15' id='enmark-15'><span class='cmr-8'>15</span></a></sup>. La elección o
+combinación de entornos para la escritura de la tesis requerirán una ponderación que tome en cuenta la integración
+entre texto, código y acoplamiento con el lenguaje de programación principal del proyecto: <span class='rm-lmri-10x-x-109'>Javascript</span>. De
+manera complementaria, la investigación contemplará los alcances de diseño, composición tipográfica y
+estilo personalizados. Como una alternativa al formato de presentación impreso (digital o físico), el
+proyecto busca que el proceso y el resultado pueda ser compilado y consultado en línea como una página
+web.<sup><a href='#ennote-16' id='enmark-16'><span class='cmr-8'>16</span></a></sup>
+</p><!-- l. 16 --><p class='indent'>   La ejecución de la investigación coincide con los planteamientos y la delimitación del proceso de
+reflexión-creación: estos procesos implican múltiples hilos que corren al mismo tiempo y que podemos enunciar de
+manera general como: tecnológico, estético y de investigación. El uso de conceptos que atraviesen estos rubros nos
+permitirá desplazarnos a partir de la retroalimentación que se genera entre tecnología y propuesta artística. El
+vínculo hacia lo reflexivo puede establecerse en las plataformas para escribir código como entornos de desarrollo
+integrados (IDEs) y sistemas de control de versiones, en la escritura por sí misma como tecnología y en el uso de
+conceptos y su vinculación con la metáfora.
+</p><!-- l. 1 --><p class='noindent'>
+</p>
+                                                                                                  
+                                                                                                  
+   <h3 class='likesectionHead'><a id='x1-5000'></a>Avances y Práctica</h3>
+<!-- l. 3 --><p class='noindent'>El contexto de la pandemia de COVID-19 ha influído en los avances de la investigación. La realización
+de maquetas audiovisuales y estudios para el navegador que puedan responder a premisas bajo la
+restricción del distanciamiento social ha sido un reto para el momento de arranque de <span class='rm-lmri-10x-x-109'>Tres Estudios
+</span><span class='rm-lmri-10x-x-109'>Abiertos</span>.
+</p><!-- l. 5 --><p class='indent'>   Actualmente el proyecto está compuesto de algunos módulos escritos a manera de exploración inicial que parten
+de entornos de trabajo dedicados al despliegue de gráficos tridimensionales como three.js y la reproducción y
+posicionamiento virtual del audio como Web Audio API.
+</p><!-- l. 13 --><p class='indent'>   THREE.studies, el primer estudio exploratorio, fue propuesto como un performance audiovisual en vivo para el
+navegador. Adicionalmente existe una versión fija de estos estudios. Las señales de audio y video coinciden en un
+espacio digital diseñado para dar cabida a la pieza. Los elementos del espacio interactúan con las señales y
+proporcionan retroalimentación al intérprete musical.
+</p><!-- l. 15 --><p class='indent'>   El espacio se mezcla con la interpretación audiovisual, lo cual da como resultado una pieza / partitura gráfica
+para el navegador que se transforma a sí misma cada vez que se interpreta. La pieza involucra a una
+intérprete musical al operador de la electrónica en vivo y al equipo que mantiene la estabilidad del
+espacio.
+</p><!-- l. 17 --><p class='indent'>   El intérprete musical envía un stream de audio multicanal que es espacializado y que interactúa con los
+elementos visuales de la escena. El resultado es una pieza /partitura / entorno que establece un vínculo entre la
+interpretación física y su recepción virtual. En este sentido, la pieza es un espacio que puede ser explorado en
+tiempo real por el público.
+</p><!-- l. 19 --><p class='indent'>   Para la versión en vivo y la fija fue necesario realizar un proceso de pre y post producción. El contexto de la
+pandemia restringió la realización de ensayos presenciales y obligó la búsqueda de soluciones para el envío de
+señales de audio a distanciau, con audio de calidad sin distorsiones y con poca latencia. Sonobus y
+Jacktrip fueron las soluciones exploradas para resolver este paso y al final, Sonobus fue la solución
+elegida.
+</p><!-- l. 21 --><p class='indent'>   En este sentido, los ensayos consistieron en fuentes sonoras emitidas, recibidas y compartidase por medio de dos
+computadoras y una conexión directa. Desplazar parte del procesamiento de señales del navegador a una red de dos
+computadoras facilitó el proceso de transformación de la señal del cello y la retroalimentación de la electrónica. Este
+resultado, aunado a las propuestas del tutor de esta investigación, sugirió la posibilidad de utilizar una red de
+computadoras para realizar el procesamiento de señal en una especie de síntesis de audio y video en la
+nube.
+</p><!-- l. 23 --><p class='indent'>   El ruteo de señales de audio fue posible gracias a que Sonobus fungió como un cliente de Jack. Este servidor
+permite cablear y rutear señales de audio digitales dentro de la misma computadora y posibilitó la conexión entrante
+de Sonobus y SuperCollider. La señal de audio del cello, envíada a través de la web, fue ruteada hacia SuperCollider
+y procesada para enviarlo de vuelta hacia Sonobus como una señal de monitoreo para la intérprete de
+cello.
+</p><!-- l. 25 --><p class='indent'>   Para la versión fija, el resultado fue grabado en canales independientes y procesado en un momento posterior
+dentro de SuperCollider. Las pistas procesadas fueron colocadas en reproductores de audio posicionado que
+permitieron tener la sensación de movimiento en un espacio virtual. Estas posiciones fueron asociadas a cubos que
+cambian de posición y que guardan las mismas coodenadas del audio.
+</p><!-- l. 27 --><p class='indent'>   La segunda instancia que ha sido bosquejada en el contexto de esta investigación es 4NT1. Este proyecto busca
+                                                                                                  
+                                                                                                  
+problematizar las relaciones que existen entre usuarios y plataformas tecnológicas; es un paso hacia la realización de
+usuarixs que desdibujan las fronteras de la pasividad política y económica teniendo como epicentro lo
+sensible. El proyecto parte de la composición audiovisual conducida por datos generados por gestos
+faciales.
+</p><!-- l. 29 --><p class='indent'>   La obra toma en cuenta la transformación de flujos de audio y video y se retroalimenta con la acción de
+agentes externos. Con técnicas de aprendizaje automático, detecta gestos faciales que son intepretados
+como un flujo de datos. El proyecto problematiza este flujo con el uso de tecnologías que implican una
+responsabilidad de los datos de usuarixs. De esta manera el proyecto plantea una discusión que parte de la
+instagramización de la política y la estetización de la resistencia para desembocar en la política de la
+representación.
+</p><!-- l. 31 --><p class='indent'>   Anti es un pedazo de software que puede utilizarse en la vida cotidiana y que desplaza la ofuscación en el uso de
+tecnologías que funcionan como cajas negras al desarrollo de capas estéticas para la evasión. El proyecto contempla
+la comparación de dos caminos que permitan plantear una crítica al software como caja negra. Es un primer estudio
+de reflexión tecno-social.
+</p><!-- l. 1 --><p class='noindent'>
+</p>
+   <h3 class='likesectionHead'><a id='x1-6000'></a>Conclusiones</h3>
+<!-- l. 3 --><p class='noindent'>Las restricciones de copresencia del contexto pandémico ha posibilitado exploraciones superficiales
+que fungen como una observación de la panorámica de los rumbos de la investigación. Consideramos
+que la investigación tiene momentos abiertos que se resuelven en la realización creativa de piezas. La
+parte más robusta de la investigación se concentra en los antecedentes y en la detección de proyectos
+cercanos que delimitan al proyecto en términos de los alcances y retos, tomando en consideración un
+ecosistema relativamente activo de escritura y uso de software en la web potenciado en el contexto de la
+pandemia.
+</p><!-- l. 5 --><p class='indent'>   Los avances actuales apuntan a la realización de piezas que hagan uso de sintetizadores granulares audiovisuales
+en la nube. Esto permite desplazar la carga de procesamiento de audio e imagen a un servidor dedicado o a un
+conjunto de computadoras conectadas entre sí. Este aspecto permitiría realizar análisis del flujo de audio e
+imagen detallados sin que esto represente un problema para los recursos de las máquinas que acceden a
+las piezas y los espacios. Esta solución también podría implicar una alternativa para aprovechar las
+posibilidades de motores gráficos, de audio y de análisis de información mucho más robustos que aquellos
+que actualmente están disponibles para el navegador y que funcionan únicamente de forma local. La
+centralidad del procesamiento de señales y la omisión de la experiencia de usuario ha sido una crítica
+señalada.
+</p><!-- l. 9 --><p class='indent'>   La presente investigación ha tenido en cuenta la ponderación entre práctica e investigación artística.
+El lado tecnológico de la investigación, aquel que implica la escritura de software, podría orientarse
+al bajo nivel de programación. Esta acción permitiría resolver aspectos que <span class='rm-lmri-10x-x-109'>frameworks </span>dedicados
+resuelven parcialmente. Sobre la realización de la investigación, destacamos la importancia del bucle y la
+metafora como estrategias para la observación y la práctica transversal que se retroalimenta mientras se
+ejecuta.
+                                                                                                  
+                                                                                                  
+</p><!-- l. 13 --><p class='indent'>   El epicentro de la escritura podría recaer en el mismo texto/código y no en plataformas de repositorios que
+pertenecen a empresas que pueden cambiar de giro en cualquier momento. El respaldo del trabajo por medios
+digitales podría encontrar soluciones actuales en la encriptación. Ambas posibilidades pueden extender la escritura
+a formas experimentales e integradas al código.
+</p><!-- l. 15 --><p class='indent'>   Como parte de las consecuencias señaladas y no buscadas del proyecto se encuentran el activismo
+ecológico y los planteamientos éticos del software. Estos dos aspectos no son necesariamente centrales pero
+pueden tenerse en cuenta dentro de una agenda de acción que se desborda de la práctica artística y la
+investigación.
+</p><!-- l. 69 --><p class='noindent'>
+</p>
+   <h3 class='likesectionHead'><a id='x1-7000'></a>Notas</h3>
+<!-- l. 69 --><p class='noindent'></p><!-- l. 4 --><p class='indent'>   <a href='#enmark-1' id='ennote-1'><sup><span class='cmr-6'>1</span></sup></a><a id='x1-7001x1'></a><span class='rm-lmr-9'>Un ejemplo reciente se encuentra en: </span><a class='url' href='https://youtu.be/n5kwi4eRAE4'><span class='rm-lmr-9'>https://youtu.be/n5kwi4eRAE4</span></a>
+</p><!-- l. 16 --><p class='indent'>   <a href='#enmark-2' id='ennote-2'><sup><span class='cmr-6'>2</span></sup></a><a id='x1-7002x2'></a><span class='rm-lmr-9'>“PiranhaLab  es  un  laboratorio  interdisciplinario  que  trabaja  en  las  tripas  del  software”.  </span><a class='url' href='https://piranhalab.github.io/'><span class='rm-lmr-9'>https://piranhalab.github.io/</span></a>
+<span class='rm-lmr-9'>(Consultado el 30 de mayo de 2021)</span>
+</p><!-- l. 38 --><p class='indent'>   <a href='#enmark-3' id='ennote-3'><sup><span class='cmr-6'>3</span></sup></a><a id='x1-7003x3'></a><span class='rm-lmr-9'>Actualmente Laboratorio de Tecnologías Compartidas</span>
+</p><!-- l. 47 --><p class='indent'>   <a href='#enmark-4' id='ennote-4'><sup><span class='cmr-6'>4</span></sup></a><a id='x1-7004x4'></a><span class='rm-lmr-9'>Versión en construcción y en línea: </span><a class='url' href='https://piranhalab.github.io/panorama/'><span class='rm-lmr-9'>https://piranhalab.github.io/panorama/</span></a>
+</p><!-- l. 59 --><p class='indent'>   <a href='#enmark-5' id='ennote-5'><sup><span class='cmr-6'>5</span></sup></a><a id='x1-7005x5'></a><a class='url' href='https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio'><span class='rm-lmr-9'>https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio</span></a> <span class='rm-lmr-9'>(Consultado el 30 de mayo de 2021)</span>
+</p><!-- l. 69 --><p class='indent'>   <a href='#enmark-6' id='ennote-6'><sup><span class='cmr-6'>6</span></sup></a><a id='x1-7006x6'></a><a class='url' href='https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API'><span class='rm-lmr-9'>https://developer.mozilla.org/es/docs/Web/API/Web</span>_<span class='rm-lmr-9'>Audio</span>_<span class='rm-lmr-9'>API</span></a>
+</p><!-- l. 75 --><p class='indent'>   <a href='#enmark-7' id='ennote-7'><sup><span class='cmr-6'>7</span></sup></a><a id='x1-7007x7'></a><a class='url' href='https://tonejs.github.io/'><span class='rm-lmr-9'>https://tonejs.github.io/</span></a>
+</p><!-- l. 81 --><p class='indent'>   <a href='#enmark-8' id='ennote-8'><sup><span class='cmr-6'>8</span></sup></a><a id='x1-7008x8'></a><a class='url' href='https://github.com/crucialfelix/supercolliderjs/'><span class='rm-lmr-9'>https://github.com/crucialfelix/supercolliderjs/</span></a>
+</p><!-- l. 87 --><p class='indent'>   <a href='#enmark-9' id='ennote-9'><sup><span class='cmr-6'>9</span></sup></a><a id='x1-7009x9'></a><span class='rm-lmr-9'>“La  API  de  Audio  Web  provee  un  sistema  poderoso  y  versatil  para  controlar  audio  en  la  Web,  permitiendo  a  los
+</span><span class='rm-lmr-9'>desarrolladores escoger fuentes de audio, agregar efectos al audio, crear visualizaciones de audios, aplicar efectos espaciales (como
+</span><span class='rm-lmr-9'>paneo) y mucho más.” </span><a class='url' href='https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API'><span class='rm-lmr-9'>https://developer.mozilla.org/es/docs/Web/API/Web</span>_<span class='rm-lmr-9'>Audio</span>_<span class='rm-lmr-9'>API</span></a> <span class='rm-lmr-9'>(Consultado el 30 de mayo de 2021)</span>
+</p><!-- l. 138 --><p class='indent'>   <a href='#enmark-10' id='ennote-10'><sup><span class='cmr-6'>10</span></sup></a><a id='x1-7010x10'></a><span class='rm-lmr-9'>“El proyecto de three.js apunta a la creación de una librería 3D fácil de usar, ligera, multinavegador, multipropósito”.</span>
+<a class='url' href='https://threejs.org/'><span class='rm-lmr-9'>https://threejs.org/</span></a> <span class='rm-lmr-9'>(Consultado el 30 de mayo de 2021)</span>
+</p><!-- l. 166 --><p class='indent'>   <a href='#enmark-11' id='ennote-11'><sup><span class='cmr-6'>11</span></sup></a><a id='x1-7011x11'></a><span class='rm-lmr-9'>“</span><span class='rm-lmri-9'>Icecast </span><span class='rm-lmr-9'>es un servidor para transmitir audio y video, actualmente soporta Ogg (Vorbis y Theora), Opus, WebM y MP3.
+</span><span class='rm-lmr-9'>Puede ser usado para crear una estación de radio por Internet o para correr de manera privada una rocola y muchas otras cosas.”</span>
+<a class='url' href='https://icecast.org/'><span class='rm-lmr-9'>https://icecast.org/</span></a> <span class='rm-lmr-9'>(Consultado el 30 de mayo de 2021)</span>
+</p><!-- l. 219 --><p class='indent'>   <a href='#enmark-12' id='ennote-12'><sup><span class='cmr-6'>12</span></sup></a><a id='x1-7012x12'></a><span class='rm-lmri-9'>P2P </span><span class='rm-lmr-9'>(par a par) “La arquitectura de una red distribuida puede ser llamada Par a Par (P-to-P, P2P, ...) si los participantes
+</span><span class='rm-lmr-9'>comparten una parte de los recursos de su propio software (poder de procesamiento, capacidad de almacenamiento, capacidad
+</span><span class='rm-lmr-9'>de conexión a la red, impresoras,...) Estos recursos compartidos son necesarios para proveer el Servicio y el contenido ofrecido
+</span><span class='rm-lmr-9'>por la red... Estos son accedidos por otros pares directamente sin pasar por entidades intermediarias.”(</span><a href='#Xp2p'><span class='rm-lmr-9'>Schollmeier</span></a><span class='rm-lmr-9'>, </span><a href='#Xp2p'><span class='rm-lmr-9'>2001</span></a><span class='rm-lmr-9'>)</span>
+</p><!-- l. 299 --><p class='indent'>   <a href='#enmark-13' id='ennote-13'><sup><span class='cmr-6'>13</span></sup></a><a id='x1-7013x13'></a><span class='rm-lmr-9'>“</span><span class='rm-lmri-9'>Git </span><span class='rm-lmr-9'>es un sistema distribuido de control de versiones libre y abierto diseñado para tratar con todo, desde proyectos pequeños
+</span><span class='rm-lmr-9'>hasta proyectos muy grandes con velocidad y eficiencia.” </span><a class='url' href='https://git-scm.com/'><span class='rm-lmr-9'>https://git-scm.com/</span></a> <span class='rm-lmr-9'>(Consultado el 30 de mayo de 2021)</span>
+</p><!-- l. 338 --><p class='indent'>   <a href='#enmark-14' id='ennote-14'><sup><span class='cmr-6'>14</span></sup></a><a id='x1-7014x14'></a><span class='rm-lmr-9'>LaTeX es un sistema de composición tipográfica de alta calidad; incluye funcionalidades diseñadas para la producción de
+</span><span class='rm-lmr-9'>documentación técnica y científica. </span><a class='url' href='https://www.latex-project.org/'><span class='rm-lmr-9'>https://www.latex-project.org/</span></a> <span class='rm-lmr-9'>(Consultado el 30 de mayo de 2021)</span>
+</p><!-- l. 369 --><p class='indent'>   <a href='#enmark-15' id='ennote-15'><sup><span class='cmr-6'>15</span></sup></a><a id='x1-7015x15'></a><span class='rm-lmri-9'>JupyterLab  </span><span class='rm-lmr-9'>es  un  entorno  de  desarrollo  interactivo  basado  en  la  web  para  </span><span class='rm-lmri-9'>notebooks  </span><span class='rm-lmr-9'>de  </span><span class='rm-lmri-9'>Jupyter</span><span class='rm-lmr-9'>,  código  y  datos.</span>
+<a class='url' href='https://jupyter.org/'><span class='rm-lmr-9'>https://jupyter.org/</span></a><span class='rm-lmr-9'>. (Consultado el 30 de mayo de 2021)</span>
+</p><!-- l. 400 --><p class='indent'>   <a href='#enmark-16' id='ennote-16'><sup><span class='cmr-6'>16</span></sup></a><a id='x1-7016x16'></a><span class='rm-lmr-9'>Una prueba de esta propuesta se puede consultar en: </span><a class='url' href='https://emilioocelotl.github.io/tres-estudios-abiertos/'><span class='rm-lmr-9'>https://emilioocelotl.github.io/tres-estudios-abiertos/</span></a>
+<a id='Q1-1-8'></a>
+</p><!-- l. 1 --><p class='noindent'>
+</p>
+   <h3 class='likesectionHead'><a id='x1-8000'></a>Referencias</h3>
+<!-- l. 1 --><p class='noindent'>
+  </p><div class='thebibliography'>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xtimenot'></a><span class='bibsp'>   </span></span> AFrancoB (2019). timenot. <a class='url' href='https://github.com/AFrancoB/timeNot'>https://github.com/AFrancoB/timeNot</a>.
+                                                                                                  
+                                                                                                  
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xaugoyard'></a><span class='bibsp'>   </span></span> Augoyard, J.-F. y Torgue, H., editores (2006).  <span class='rm-lmri-10x-x-109'>Sonic experience. A guide to everyday sounds</span>.  McHill
+  Queen’s University Press, Canada.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='X2019_40'></a><span class='bibsp'>   </span></span> Bernardo, F., Kiefer, C., y Magnusson, T. (2019). An audioworklet-based signal engine for a live coding
+  language ecosystem. En Xambó, A., Martín, S. R., y Roma, G., editores, <span class='rm-lmri-10x-x-109'>Proceedings of the International
+  </span><span class='rm-lmri-10x-x-109'>Web Audio Conference</span>, WAC ’19, pp. 77–82, Trondheim, Norway. NTNU.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xflocking'></a><span class='bibsp'>   </span></span> continuing creativity (2011). Flocking. <a class='url' href='https://github.com/continuing-creativity/Flocking/'>https://github.com/continuing-creativity/Flocking/</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='XspeakingCode'></a><span class='bibsp'>   </span></span> Cox, G. y McLean, A. (2012). <span class='rm-lmri-10x-x-109'>Speaking Code: Coding as Aesthetic and Political Expression</span>. The MIT
+  Press.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xestuary'></a><span class='bibsp'>   </span></span> dktr0 (2019). Estuary. <a class='url' href='https://github.com/dktr0/estuary'>https://github.com/dktr0/estuary</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xanti'></a><span class='bibsp'>   </span></span> EmilioOcelotl (2020a). anti. <a class='url' href='https://github.com/EmilioOcelotl/anti'>https://github.com/EmilioOcelotl/anti</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xthreecln'></a><span class='bibsp'>   </span></span>                    EmilioOcelotl                    (2020b).                                                         threecln.
+  <a class='url' href='https://github.com/EmilioOcelotl/THREE.studies/tree/main/threecln'>https://github.com/EmilioOcelotl/THREE.studies/tree/main/threecln</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xthreestudies'></a><span class='bibsp'>   </span></span> EmilioOcelotl (2020c). Three.studies. <a class='url' href='https://github.com/EmilioOcelotl/THREE.studies'>https://github.com/EmilioOcelotl/THREE.studies</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xdialogo'></a><span class='bibsp'>   </span></span> EmilioOcelotl (2021a). Dialogoiv. <a class='url' href='https://github.com/EmilioOcelotl/dialogoIV'>https://github.com/EmilioOcelotl/dialogoIV</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='XthreeBEASTs'></a><span class='bibsp'>   </span></span>                   EmilioOcelotl                   (2021b).                                                      threebeasts.
+  <a class='url' href='https://github.com/EmilioOcelotl/THREE.studies/tree/main/threeBEASTs'>https://github.com/EmilioOcelotl/THREE.studies/tree/main/threeBEASTs</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xsema'></a><span class='bibsp'>   </span></span> frantic0 (2021). sema-engine. <a class='url' href='https://github.com/frantic0/sema-enginef'>https://github.com/frantic0/sema-enginef</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xsupercolliderweb'></a><span class='bibsp'>   </span></span> khilnani (2012). supercollider.web. <a class='url' href='https://github.com/khilnani/supercollider.web/'>https://github.com/khilnani/supercollider.web/</a>.
+                                                                                                  
+                                                                                                  
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xseis8s'></a><span class='bibsp'>   </span></span> luisnavarrodelangel (2020). seis8s. <a class='url' href='https://github.com/luisnavarrodelangel/seis8s'>https://github.com/luisnavarrodelangel/seis8s</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xmanovichlanguage'></a><span class='bibsp'>   </span></span> Manovich, L. (2001). <span class='rm-lmri-10x-x-109'>The Language of New Media</span>. Leonardo (Series) (Cambridge, Mass.). MIT Press.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xflok'></a><span class='bibsp'>   </span></span> munshkr (2019). flok. <a class='url' href='https://github.com/munshkr/flok'>https://github.com/munshkr/flok</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xtilt'></a><span class='bibsp'>   </span></span> munshkr (2021). tilt. <a class='url' href='https://github.com/munshkr/tilt'>https://github.com/munshkr/tilt</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xcanongenerator'></a><span class='bibsp'>   </span></span> nanc-in-a can (2020). canon-generator. <a class='url' href='https://github.com/nanc-in-a-can/canon-generator'>https://github.com/nanc-in-a-can/canon-generator</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='XocelotlLic'></a><span class='bibsp'>   </span></span> Ocelotl, E. (2015).  Objeto, paisaje y efecto. Aportes para la investigación social en música.  Tesis de
+  licenciatura en sociología, Facultad de Ciencias Políticas y Sociales. Universidad Nacional Autónoma de
+  México.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='XocelotlMas'></a><span class='bibsp'>   </span></span> Ocelotl, E. (2019). Cuidado con la brecha autorreferencial. Aportes para la producción-investigación en
+  música de sistemas interactivos. Tesis de maestría en música (tecnología musical), Posgrado en Música.
+  Universidad Nacional Autónoma de México.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xhydra'></a><span class='bibsp'>   </span></span> ojack (2020a). hydra. <a class='url' href='https://github.com/ojack/hydra'>https://github.com/ojack/hydra</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xlivelab'></a><span class='bibsp'>   </span></span> ojack (2020b). Livelab. <a class='url' href='https://github.com/ojack/LiveLab'>https://github.com/ojack/LiveLab</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='XpanoramaArticulo'></a><span class='bibsp'>   </span></span> PiranhaLab (2020). Panorama. <a class='url' href='https://github.com/piranhalab/panorama'>https://github.com/piranhalab/panorama</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xinstrument'></a><span class='bibsp'>   </span></span> punksnotdev (2021). Instrument. <a class='url' href='https://github.com/punksnotdev/INSTRUMENT'>https://github.com/punksnotdev/INSTRUMENT</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='XTroop'></a><span class='bibsp'>   </span></span> Qirky (2016). Troop. <a class='url' href='https://github.com/Qirky/Troop'>https://github.com/Qirky/Troop</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xmicrosound'></a><span class='bibsp'>   </span></span> Roads, C. (2001). <span class='rm-lmri-10x-x-109'>Microsound / Curtis Roads. </span>MIT Press, Cambridge, Mass.
+                                                                                                  
+                                                                                                  
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xschaeffer'></a><span class='bibsp'>   </span></span> Schaeffer, P. (2003). <span class='rm-lmri-10x-x-109'>Tratado de los objetos musicales</span>. Alianza Mú´usica, Mé´exico D.F.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xschafer1'></a><span class='bibsp'>   </span></span> Schafer, M. R. (1994). <span class='rm-lmri-10x-x-109'>The Soundscape. Our Sonic Environment and the Turning of the World</span>. Destiny
+  Books, Vermont.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xp2p'></a><span class='bibsp'>   </span></span> Schollmeier, R. (2001).  A definition of peer-to-peer networking for the classification of peer-to-peer
+  architectures and applications. pp. 101 – 102.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='XaestheticProgramming'></a><span class='bibsp'>   </span></span> Soon, W. y Cox, G. (2020). <span class='rm-lmri-10x-x-109'>Aesthetic Programming: A Handbook of Software Studies</span>. Open Humanities
+  Press.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xruffbox'></a><span class='bibsp'>   </span></span> the-drunk coder (2019). ruffbox. <a class='url' href='https://github.com/the-drunk-coder/ruffbox'>https://github.com/the-drunk-coder/ruffbox</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xtidal'></a><span class='bibsp'>   </span></span> tidalcycles (2021). Tidal. <a class='url' href='https://github.com/tidalcycles/Tidal'>https://github.com/tidalcycles/Tidal</a>.
+  </p>
+  <p class='bibitem'><span class='biblabel'>
+<a id='Xvillasenor'></a><span class='bibsp'>   </span></span> Villaseñor-Ramírez, H. y Paz, I. (2020).  Live Coding From Scratch:The Cases of Practice in Mexico
+  City and Barcelona.  En <span class='rm-lmri-10x-x-109'>Proceedings of the 2020 International Conference on Live Coding (ICLC2020)</span>,
+  pp. 59–68, Limerick, Ireland. University of Limerick.
+</p>
+  </div>
+    
+</body> 
+</html>

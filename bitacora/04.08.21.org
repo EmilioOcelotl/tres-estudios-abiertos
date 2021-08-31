@@ -1,0 +1,39 @@
+
+* Puntos
+
+** Carta de propuesta de jurado
+
+Firma y enviarla para que sea considerada en la reunión del comité 
+
+** Modo de trabajo con los co-tutores
+
+Reuniones y trabajo sobre algún tipo de documentos
+
+** Constelación de proyectos y conceptos
+
+Considero que puedo empezar a hilar unas ideas con los proyectos/módulos que ya están realizados.
+Pienso que podría ampliar la cantidad de casos de estudio para complejizar la escritura de software.
+Módulos que se pueden conectar tecnológica y teóricamente 
+
+Avances de anti: cambios en la estética visual, optimización.
+
+Pendientes: Escenas y desarrollo, optimización para móviles
+
+Experimento local con webRTC para probar el audio distribuido 
+
+** ¡ Estudio sencillo de comunicación local vía webRTC ?
+
+** 4nti
+
+ transparencias. Pedazos del rostro se ve sesentero
+ relación con el rostro
+ narcisismo - video arte
+ Como compite con la expresividad del medio que ha manejado el rostro
+ audio a imagen o imagen a audio
+ que evolucionen
+ emociiones
+ viendo a otras personas
+ personas que van en pareja
+ planos cercania y lejania
+ texto que va apareciendo dependiendo de ciertas situaciones
+ desaparecer 

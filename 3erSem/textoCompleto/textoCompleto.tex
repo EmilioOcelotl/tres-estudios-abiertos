@@ -1,0 +1,75 @@
+\documentclass[11pt,letterpaper]{article}
+% \usepackage{times}
+\usepackage[left=1.75cm,right=1.75cm,top=2cm,bottom=2cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{endnotes}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage[sort&compress]{natbib}
+
+\onehalfspacing
+
+\renewcommand{\notesname}{Notas}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=magenta,
+    citecolor=magenta,
+}
+
+\urlstyle{same}
+
+
+\let\footnote=\endnote
+
+\providecommand{\keywords}[1]
+{
+  \small	
+  \textbf{\textit{Palabras clave---}} #1
+}
+
+\title{%
+  Tres Estudios Abiertos \\
+  \large Prácticas performáticas, audiovisuales y experimentales en el navegador}
+
+\author{Emilio Ocelotl Reyes}
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\input{sec/abstract}
+\end{abstract}
+
+\input{sec/antecedentes} %% Esta es la parte más fuerte de la investigación
+\input{sec/premisa}
+\input{sec/planteamiento}
+\input{sec/escritura}
+\input{sec/avances} % Funcionaría como resultados
+\input{sec/conclusiones}
+
+%% ¿Qué? En el otro docu esto es el planteamiento del problema 
+%% ¿Cómo? Metodología 
+%% ¿Por qué? Para qué? Igual y esto podría ir en las conclusiones 
+%% Conclusiones 
+
+% \nocite{ocelotlMas}
+
+\singlespacing
+
+% \newpage
+
+\theendnotes
+
+\addcontentsline{toc}{chapter}{\protect\numberline{}Referencias}%
+\bibliography{../../bib/panBib}{} 
+\bibliographystyle{../../bib/apalike-es}
+
+\end{document}

@@ -1,0 +1,36 @@
+\section*{Avances y Práctica}
+
+El contexto de la pandemia de COVID-19 ha influído en los avances de la investigación. La realización de maquetas audiovisuales y estudios para el navegador que puedan responder a premisas bajo la restricción del distanciamiento social ha sido un reto para el momento de arranque de \textit{Tres Estudios Abiertos}. 
+
+Actualmente el proyecto está compuesto de algunos módulos escritos a manera de exploración inicial que parten de entornos de trabajo dedicados al despliegue de gráficos tridimensionales como three.js y la reproducción y posicionamiento virtual del audio como Web Audio API. 
+
+% No hablar de los toquines en el articulo y más bien desplazarlo a la presentación 
+
+% THREE.studies, el primer estudio exploratorio, es una pieza realizada en el marco del programa Resilencia Sonora de Música UNAM. La interpretación (cello eléctrico) en todos los casos estuvo a cargo de Iracema de Andrade. La pieza contó con el apoyo estético y logístico de PiranhaLab (Marianne Teixido y Dorian Sotomayor). 
+
+% Al momento de escritura del presente proyecto la primera instancia del estudio no ha sido estrenada. Una versión fija ha sido exprandida y presentada en el marco de  BEAST FEaST 2021\footnote{\url{http://www.beast.bham.ac.uk/beast-feast-2021/online-works/}}.
+
+THREE.studies, el primer estudio exploratorio, fue propuesto como un performance audiovisual en vivo para el navegador. Adicionalmente existe una versión fija de estos estudios. Las señales de audio y video coinciden en un espacio digital diseñado para dar cabida a la pieza. Los elementos del espacio interactúan con las señales y proporcionan retroalimentación al intérprete musical.
+
+El espacio se mezcla con la interpretación audiovisual, lo cual da como resultado una pieza / partitura gráfica para el navegador que se transforma a sí misma cada vez que se interpreta. La pieza involucra a una intérprete musical al operador de la electrónica en vivo y al equipo que mantiene la estabilidad del espacio. 
+
+El intérprete musical envía un stream de audio multicanal que es espacializado y que interactúa con los elementos visuales de la escena. El resultado es una pieza /partitura / entorno que establece un vínculo entre la interpretación física y su recepción virtual. En este sentido, la pieza es un espacio que puede ser explorado en tiempo real por el público. 
+
+Para la versión en vivo y la fija fue necesario realizar un proceso de pre y post producción. El contexto de la pandemia restringió la realización de ensayos presenciales y obligó la búsqueda de soluciones para el envío de señales de audio a distanciau, con audio de calidad sin distorsiones y con poca latencia. Sonobus y Jacktrip fueron las soluciones exploradas para resolver este paso y al final, Sonobus fue la solución elegida. 
+
+En este sentido, los ensayos consistieron en fuentes sonoras emitidas, recibidas y compartidase por medio de dos computadoras y una conexión directa. Desplazar parte del procesamiento de señales del navegador a una red de dos computadoras facilitó el proceso de transformación de la señal del cello y la retroalimentación de la electrónica. Este resultado, aunado a las propuestas del tutor de esta investigación, sugirió la posibilidad de utilizar una red de computadoras para realizar el procesamiento de señal en una especie de síntesis de audio y video en la nube. 
+
+El ruteo de señales de audio fue posible gracias a que Sonobus fungió como un cliente de Jack. Este servidor permite cablear y rutear señales de audio digitales dentro de la misma computadora y posibilitó la conexión entrante de Sonobus y SuperCollider. La señal de audio del cello, envíada a través de la web, fue ruteada hacia SuperCollider y procesada para enviarlo de vuelta hacia Sonobus como una señal de monitoreo para la intérprete de cello. 
+
+Para la versión fija, el resultado fue grabado en canales independientes y procesado en un momento posterior dentro de SuperCollider. Las pistas procesadas fueron colocadas en reproductores de audio posicionado que permitieron tener la sensación de movimiento en un espacio virtual. Estas posiciones fueron asociadas a cubos que cambian de posición y que guardan las mismas coodenadas del audio. 
+
+La segunda instancia que ha sido bosquejada en el contexto de esta investigación es 4NT1. Este proyecto busca problematizar las relaciones que existen entre usuarios y plataformas tecnológicas; es un paso hacia la realización de usuarixs que desdibujan las fronteras de la pasividad política y económica teniendo como epicentro lo sensible. El proyecto parte de la composición audiovisual conducida por datos generados por gestos faciales. 
+
+La obra toma en cuenta la transformación de flujos de audio y video y se retroalimenta con la acción de agentes externos. Con técnicas de aprendizaje automático, detecta gestos faciales que son intepretados como un flujo de datos. El proyecto problematiza este flujo con el uso de tecnologías que implican una responsabilidad de los datos de usuarixs. De esta manera el proyecto plantea una discusión que parte de la instagramización de la política y la estetización de la resistencia para desembocar en la política de la representación.
+
+Anti es un pedazo de software que puede utilizarse en la vida cotidiana y que desplaza la ofuscación en el uso de tecnologías que funcionan como cajas negras al desarrollo de capas estéticas para la evasión. El proyecto contempla la comparación de dos caminos que permitan plantear una crítica al software como caja negra. Es un primer estudio de reflexión tecno-social.
+
+% 4NT1 y algunos eventos que abonan desde el contexto de la pieza.
+
+% Además de las instancias prácticas del proyecto, la investigación se ha retroalimentado a partir de dos proyectos coexistentes: el Seminario Permamente de Tecnología Músical de la FaM y el texto que el colectivo \textit{PiranhaLab} escribe para la realización de este espacio.
+

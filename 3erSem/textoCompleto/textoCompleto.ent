@@ -1,5 +1,3 @@
-\def
-\endnoteN{1}
 \@doanenote {1}
 macro:->Un
 ejemplo
@@ -10,8 +8,6 @@ en:
 \url
 {https://youtu.be/n5kwi4eRAE4}
 \@endanenote 
-\def
-\endnoteN{2}
 \@doanenote {2}
 macro:->``PiranhaLab
 es
@@ -32,8 +28,6 @@ el
 \today
 )
 \@endanenote 
-\def
-\endnoteN{3}
 \@doanenote {3}
 macro:->Actualmente
 Laboratorio
@@ -41,8 +35,6 @@ de
 Tecnologías
 Compartidas
 \@endanenote 
-\def
-\endnoteN{4}
 \@doanenote {4}
 macro:->Versión
 en
@@ -53,8 +45,6 @@ línea:
 \url
 {https://piranhalab.github.io/panorama/}
 \@endanenote 
-\def
-\endnoteN{5}
 \@doanenote {5}
 macro:->\url
 {https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio}
@@ -63,26 +53,18 @@ el
 \today
 )
 \@endanenote 
-\def
-\endnoteN{6}
 \@doanenote {6}
 macro:->\url
 {https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API}
 \@endanenote 
-\def
-\endnoteN{7}
 \@doanenote {7}
 macro:->\url
 {https://tonejs.github.io/}
 \@endanenote 
-\def
-\endnoteN{8}
 \@doanenote {8}
 macro:->\url
 {https://github.com/crucialfelix/supercolliderjs/}
 \@endanenote 
-\def
-\endnoteN{9}
 \@doanenote {9}
 macro:->``La
 API
@@ -132,8 +114,6 @@ el
 \today
 )
 \@endanenote 
-\def
-\endnoteN{10}
 \@doanenote {10}
 macro:->``El
 proyecto
@@ -160,8 +140,6 @@ el
 \today
 )
 \@endanenote 
-\def
-\endnoteN{11}
 \@doanenote {11}
 macro:->``\textit
 {Icecast}
@@ -213,8 +191,6 @@ el
 \today
 )
 \@endanenote 
-\def
-\endnoteN{12}
 \@doanenote {12}
 macro:->\textit
 {P2P}
@@ -293,8 +269,6 @@ intermediarias."
 \citep
 {p2p}
 \@endanenote 
-\def
-\endnoteN{13}
 \@doanenote {13}
 macro:->``\textit
 {Git}
@@ -332,8 +306,6 @@ el
 \today
 )
 \@endanenote 
-\def
-\endnoteN{14}
 \@doanenote {14}
 macro:->LaTeX
 es
@@ -363,8 +335,6 @@ el
 \today
 )
 \@endanenote 
-\def
-\endnoteN{15}
 \@doanenote {15}
 macro:->\textit
 {JupyterLab}
@@ -394,8 +364,6 @@ el
 \today
 )
 \@endanenote 
-\def
-\endnoteN{16}
 \@doanenote {16}
 macro:->Una
 prueba
@@ -408,4 +376,16 @@ consultar
 en:
 \url
 {https://emilioocelotl.github.io/tres-estudios-abiertos/}
+\@endanenote 
+\@doanenote {17}
+macro:->La
+instancia
+actual
+del
+proyecto
+se
+encuentra
+en:
+\url
+{https://three.ocelotl.cc/}
 \@endanenote 

@@ -21,6 +21,12 @@ El 3er semestre se caracteriza por dos avances prácticos: THREE.studies y anti
 
 Algunas ideas se pueden extender. 
 
+## Comentarios y objetivos ( planteados por el Comité Tutor )
+
+- [ ] Compartir el protocolo y las instancias ya escritas de la investigación
+- [ ] Título e indices tentativos
+- [ ] Propuesta de artículo que podría publicarse en algún lado 
+
 ## Pendientes 
 
 - [ ] ¿ Es posible expandir la parte textual de mi investigación a las piezas artísticas ? ¿ Es posible contemplar la parte estética de la obra a la investigación ?
@@ -30,4 +36,7 @@ Algunas ideas se pueden extender.
 - [ ] ¿ Hay un límite ? 
 - [ ] Preguntar sobre la referencia a repositorios como si fuera bibliografía 
 - [ ] Idea inicial: Otro(s) lenguajes de programación
-- [ ] Incorporación de las reflexiones derivadas de three y anti 
+- [ ] Incorporación de las reflexiones derivadas de three y anti
+- [ ] Calendario de corto y largo plazo
+- [ ] Protocolo de investigación
+- [ ] ¿Propuesta de artículo académico? 

@@ -1,0 +1,14 @@
+
+* Referencias
+
+** 23 septiembre 2021
+
+ Flusser - El futuro de la escritura ¿Las máquinas tienen la capacidad de desparecer la escritura ? ¿Extenderla ?
+
+ Desplazamiento imagen-texto puede ser una relación
+
+ “El texto sugiere que hay fundamentalmente dos caminos fuera de la escritura: de regreso a las imágenes o adelante hacia los números; de vuelta a la imaginación o adelante al cálculo. En el curso de estas consideraciones, resultó que estas dos direcciones podían subrepticiamente fundirse: los números pueden computarse en imágenes”.
+
+ On the existence of digital objects > distanciamiento con respecto a la programación orientada a objetos ( no tienen funciones computacionales). Existen en la pantalla y en el back end
+
+ objeto en el contexto de las ciencias de la computación > producción de datos y la cosecha de correlaciones y patrones 

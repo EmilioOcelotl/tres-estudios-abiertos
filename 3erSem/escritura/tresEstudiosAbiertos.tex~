@@ -1,0 +1,50 @@
+\documentclass[12pt,letterpaper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[sort&compress]{natbib}
+
+\onehalfspacing
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=magenta,
+    citecolor=magenta,
+}
+
+
+\urlstyle{same}
+
+% \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Emilio Ocelotl Reyes}
+
+\title{%
+  Tres Estudios Abiertos \\
+  \large Prácticas performáticas, audiovisuales y experimentales en el navegador}
+
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\input{sec/introduccion}
+\input{sec/antecedentes}
+\input{sec/casos}
+\input{sec/anti}
+\input{sec/caso2}
+\input{sec/caso3}
+\input{sec/conclusiones}
+
+\addcontentsline{toc}{chapter}{\protect\numberline{}Referencias}%
+\bibliography{../bib/panBib}{} 
+\bibliographystyle{../bib/apalike-es}
+
+\end{document}

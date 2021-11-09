@@ -1,0 +1,33 @@
+* Reunión Hugo
+
+En esta reunión hablaré de avances
+Calendarios >
+¿ Reunión con el comité tutor a partir del 6 de diciembre ?
+¿ Reunión antes de la reunión con el comité tutor ? 
+
+** Avances en la escritura de tesis 
+
+- Indice tentativo > caps img y audio como efectos y la(s) escritura(s)  
+- Charla con Fer: el papel de las escrituras
+- Audio / imagen como efectos deñ conocimiento  
+- La fecha límite: el examen de candidatura 
+- Formato de escritura
+
+** Otras actividades
+
+- Motivación del ecosistema de desarrollos como la retribución del proyecto  
+- Cusco y carta para el comité académico 
+- Seminario(s) ¿ Lugares ? Iber y Piso 16 > recursos distribuidos
+  
+** Avances prácticos de anti 
+
+- Ejecución de la versión en línea para mantenimiento 
+- Parpadeo > el modelo de irises es más pesado
+- Audio
+- Condiciones de exhibición presencial 
+- Reorganización del proyecto
+- Optimización ( algo quedó roto para móviles )
+- Calidad vs ligereza
+- ¿ Uso de modelos ?
+- Texto vs voz
+

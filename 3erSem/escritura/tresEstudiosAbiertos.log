@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.26)  4 NOV 2021 20:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.26)  9 NOV 2021 00:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,7 +397,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 ...numberline {4}Conclusiones}{10}{chapter.4}
+l.28 ...{4}Efectos de conocimiento}{10}{chapter.4}
                                                   % [1
 
 ])
@@ -413,20 +413,28 @@ Cap\'{\i }tulo 1.
 Cap\'{\i }tulo 2.
 [4
 
-] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
+]
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 [][][][]$\OT1/cmr/m/n/10 https : / / www . toptal . com / webassembly / webasse
 mbly-[]rust-[]tutorial-[]web-[]audio$[][] (Con-
  []
 
-[6]) (./sec/casos.tex [7]
+[5] [6]) (./sec/casos.tex [7]
 Cap\'{\i }tulo 3.
-) (./sec/anti.tex) (./sec/caso2.tex) (./sec/caso3.tex) (./sec/conclusiones.tex
-[8
+) (./sec/ecosistema.tex) (./sec/anti.tex) (./sec/interfaz.tex [8
 
-] [9]
+])
+(./sec/efectos.tex [9]
 Cap\'{\i }tulo 4.
-) (./tresEstudiosAbiertos.bbl [10
+) (./sec/escritura.tex [10
+
+]
+Cap\'{\i }tulo 5.
+) (./sec/conclusiones.tex [11
+
+]
+Cap\'{\i }tulo 6.
+) (./tresEstudiosAbiertos.bbl [12
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 14--17
@@ -452,23 +460,23 @@ Underfull \hbox (badness 6559) in paragraph at lines 61--64
 thub . com / khilnani /
  []
 
-[11
+[13
 
-]) [12] (./tresEstudiosAbiertos.aux
+]) [14] (./tresEstudiosAbiertos.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `tresEstudiosAbiertos.out' has not changed.
-(rerunfilecheck)             Checksum: 3C19D6162F9F816A95618C3320E6F37B;3562.
+(rerunfilecheck)             Checksum: 9D861E230CB3A122BB92AA3719DF1190;3938.
  ) 
 Here is how much of TeX's memory you used:
- 10662 strings out of 478994
- 150999 string characters out of 5864751
+ 10676 strings out of 478994
+ 151201 string characters out of 5864751
  473952 words of memory out of 5000000
- 27901 multiletter control sequences out of 15000+600000
+ 27905 multiletter control sequences out of 15000+600000
  413791 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,74p,904b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,8n,74p,884b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -499,10 +507,10 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
 pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tresEstudiosAbiertos.pdf (13 pages, 121228 bytes).
+Output written on tresEstudiosAbiertos.pdf (15 pages, 122780 bytes).
 PDF statistics:
- 386 PDF objects out of 1000 (max. 8388607)
- 360 compressed objects within 4 object streams
- 77 named destinations out of 1000 (max. 500000)
- 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 405 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
 

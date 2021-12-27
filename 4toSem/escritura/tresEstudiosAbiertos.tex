@@ -8,6 +8,7 @@
 \usepackage{hyperref}
 \usepackage[sort&compress]{natbib}
 \usepackage{setspace}
+\usepackage{subfiles}
 
 \hypersetup{
     colorlinks=true,
@@ -40,10 +41,12 @@
 % Primer capítulo 
 
 \input{sec/casos}
-\input{sec/ecosistema}
-\input{sec/interfaz}
-\input{sec/anti}
+% \input{sec/ecosistema}
+% \input{sec/interfaz}
 
+\subfile{sec/anti/anti}
+\input{sec/anti}
+\input{sec/caso2}
 % Segundo capítulo 
 
 \input{sec/efectos}

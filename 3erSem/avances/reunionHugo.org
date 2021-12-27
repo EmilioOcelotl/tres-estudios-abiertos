@@ -12,12 +12,14 @@ Calendarios >
 - Audio / imagen como efectos deñ conocimiento  
 - La fecha límite: el examen de candidatura 
 - Formato de escritura
-- Proceso y reflexiones de anti como un artículo 
-
+- Proceso y reflexiones de anti como un artículo
+- Casos > ¿Cómo se pueden relacionar con la idea de escala de tiempo ( ¿más casos? ) 
+- La pregunta sobre el impacto social de la investigación 
+  
 ** Otras actividades
 
 - Motivación del ecosistema de desarrollos como la retribución del proyecto  
-- Cusco y carta para el comité académico 
+- Cusco > ¿ Necesaria una carta para el comité académico ? 
 - Seminario(s) ¿ Lugares ? Iber y Piso 16 > recursos distribuidos
   
 ** Avances prácticos de anti 
@@ -31,3 +33,15 @@ Calendarios >
 - Calidad vs ligereza
 - ¿ Uso de modelos ?
 - Texto vs voz
+- Resolución de la cámara y variaciones entre navegadores
+  
+** Comentarios Hugo
+
+- Problema con la auto-referencia
+- ¿Cuál es la tesis ?
+- Con qué dinámica me acerco a los problemas
+- Enaltecer la dimensión epistemológica y anecdotario
+- Si es difuminada poner algunas anclas
+- Escritura TR - TD
+- Hilo conductor 
+- No pensar en el examen de candidatura 

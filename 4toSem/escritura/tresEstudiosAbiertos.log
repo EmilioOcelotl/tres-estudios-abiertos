@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.26)  9 NOV 2021 11:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.7)  27 DEC 2021 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -291,7 +291,13 @@ LaTeX Info: Redefining \cite on input line 694.
 (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+(/usr/share/texmf-dist/tex/latex/subfiles/subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+
+(/usr/share/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 19.
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
@@ -304,26 +310,26 @@ LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `tresEstudiosAbiertos.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -355,7 +361,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 31.
+Package hyperref Info: Link coloring ON on input line 32.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -368,21 +374,21 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count287
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
 
 (./tresEstudiosAbiertos.out) (./tresEstudiosAbiertos.out)
 \@outlinefile=\write3
 \openout3 = `tresEstudiosAbiertos.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -397,7 +403,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 ...numberline {6}Conclusiones}{12}{chapter.6}
+l.25 ...}{\numberline {5}Escritura}{11}{chapter.5}
                                                   % [1
 
 ])
@@ -411,20 +417,129 @@ Cap\'{\i }tulo 1.
 
 ]
 Cap\'{\i }tulo 2.
+
+Package natbib Warning: Citation `manovichlanguage' on page 4 undefined on inpu
+t line 23.
+
+
+Package natbib Warning: Citation `aestheticProgramming' on page 4 undefined on 
+input line 23.
+
+
+Package natbib Warning: Citation `speakingCode' on page 4 undefined on input li
+ne 23.
+
 [4
 
 ]
+
+Package natbib Warning: Citation `threestudies' on page 5 undefined on input li
+ne 32.
+
+
+Package natbib Warning: Citation `threecln' on page 5 undefined on input line 3
+2.
+
+
+Package natbib Warning: Citation `threeBEASTs' on page 5 undefined on input lin
+e 32.
+
+
+Package natbib Warning: Citation `anti' on page 5 undefined on input line 33.
+
+
+Package natbib Warning: Citation `dialogo' on page 5 undefined on input line 34
+.
+
+
+Package natbib Warning: Citation `panoramaArticulo' on page 5 undefined on inpu
+t line 35.
+
+
+Package natbib Warning: Citation `ruffbox' on page 5 undefined on input line 43
+.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 43--43
 [][][][]$\OT1/cmr/m/n/10 https : / / www . toptal . com / webassembly / webasse
 mbly-[]rust-[]tutorial-[]web-[]audio$[][] (Con-
  []
 
-[5] [6]) (./sec/casos.tex [7]
-Cap\'{\i }tulo 3.
-) (./sec/ecosistema.tex) (./sec/interfaz.tex) (./sec/anti.tex [8
 
-])
-(./sec/efectos.tex [9]
+Package natbib Warning: Citation `flocking' on page 5 undefined on input line 4
+3.
+
+
+Package natbib Warning: Citation `supercolliderweb' on page 5 undefined on inpu
+t line 44.
+
+
+Package natbib Warning: Citation `Troop' on page 5 undefined on input line 45.
+
+
+Package natbib Warning: Citation `flok' on page 5 undefined on input line 45.
+
+
+Package natbib Warning: Citation `tilt' on page 5 undefined on input line 45.
+
+
+Package natbib Warning: Citation `livelab' on page 5 undefined on input line 45
+.
+
+
+Package natbib Warning: Citation `hydra' on page 5 undefined on input line 45.
+
+
+Package natbib Warning: Citation `timenot' on page 5 undefined on input line 45
+.
+
+
+Package natbib Warning: Citation `seis8s' on page 5 undefined on input line 45.
+
+
+
+Package natbib Warning: Citation `estuary' on page 5 undefined on input line 46
+.
+
+
+Package natbib Warning: Citation `sema' on page 5 undefined on input line 46.
+
+[5]
+
+Package natbib Warning: Citation `ocelotlLic' on page 6 undefined on input line
+ 64.
+
+
+Package natbib Warning: Citation `schaeffer' on page 6 undefined on input line 
+64.
+
+
+Package natbib Warning: Citation `schafer1' on page 6 undefined on input line 6
+4.
+
+
+Package natbib Warning: Citation `augoyard' on page 6 undefined on input line 6
+4.
+
+
+Package natbib Warning: Citation `ocelotlMas' on page 6 undefined on input line
+ 68.
+
+
+Package natbib Warning: Citation `villasenor' on page 6 undefined on input line
+ 72.
+
+[6]
+
+Package natbib Warning: Citation `panoramaArticulo' on page 7 undefined on inpu
+t line 90.
+
+) (./sec/casos.tex [7]
+Cap\'{\i }tulo 3.
+) (./sec/anti/anti.tex (./tresEstudiosAbiertos.bbl)) (./sec/anti.tex)
+(./sec/caso2.tex) [8
+
+] (./sec/efectos.tex [9]
 Cap\'{\i }tulo 4.
 ) (./sec/escritura.tex [10
 
@@ -434,49 +549,27 @@ Cap\'{\i }tulo 5.
 
 ]
 Cap\'{\i }tulo 6.
-) (./tresEstudiosAbiertos.bbl [12
+) (./tresEstudiosAbiertos.bbl)
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 14--17
-[]\OT1/cmr/m/n/12 continuing crea-ti-vity (2011).  Floc-king.  [][]$https : / /
- github . com /
- []
+Package natbib Warning: There were undefined citations.
 
+[12
 
-Underfull \hbox (badness 2237) in paragraph at lines 34--38
-[]\OT1/cmr/m/n/12 EmilioOcelotl (2020b).  th-reecln.  [][]$https : / / github .
- com / EmilioOcelotl /
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 45--48
-[]\OT1/cmr/m/n/12 EmilioOcelotl (2021a).  Dia-lo-goiv.  [][]$https : / / github
- . com / EmilioOcelotl /
- []
-
-
-Underfull \hbox (badness 6559) in paragraph at lines 61--64
-[]\OT1/cmr/m/n/12 khilnani (2012).  su-per-co-lli-der.web.  [][]$https : / / gi
-thub . com / khilnani /
- []
-
-[13
-
-]) [14] (./tresEstudiosAbiertos.aux
+] (./tresEstudiosAbiertos.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `tresEstudiosAbiertos.out' has not changed.
-(rerunfilecheck)             Checksum: 110D3E0EA4C924B00FAE33240DD40763;3453.
+(rerunfilecheck)             Checksum: 96F314A5D22477DE2A5D1C6251B091FE;3440.
  ) 
 Here is how much of TeX's memory you used:
- 10668 strings out of 478994
- 151065 string characters out of 5864751
- 473952 words of memory out of 5000000
- 27901 multiletter control sequences out of 15000+600000
+ 10632 strings out of 478994
+ 150728 string characters out of 5864751
+ 471983 words of memory out of 5000000
+ 27885 multiletter control sequences out of 15000+600000
  413791 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,74p,884b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,8n,74p,895b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -507,10 +600,10 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
 pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tresEstudiosAbiertos.pdf (15 pages, 123637 bytes).
+Output written on tresEstudiosAbiertos.pdf (13 pages, 110849 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
- 356 compressed objects within 4 object streams
- 77 named destinations out of 1000 (max. 500000)
+ 256 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
+ 46 named destinations out of 1000 (max. 500000)
  209 words of extra memory for PDF output out of 10000 (max. 10000000)
 

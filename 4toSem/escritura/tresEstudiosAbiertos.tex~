@@ -40,10 +40,12 @@
 % Primer capítulo 
 
 \input{sec/casos}
-\input{sec/ecosistema}
-\input{sec/interfaz}
-\input{sec/anti}
+% \input{sec/ecosistema}
+% \input{sec/interfaz}
 
+\include{sec/anti/anti}
+\input{sec/anti}
+\input{sec/caso2}
 % Segundo capítulo 
 
 \input{sec/efectos}

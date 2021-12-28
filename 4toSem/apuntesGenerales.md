@@ -27,4 +27,10 @@ Estructura de la carpeta de este semestre:
 
 - [ ] Lecturas
 - [ ] Una especie de metodología
-- [ ] Estudiar webRTC (posible punto en común con anti) > https://webrtc.org/getting-started/overview 
+- [ ] Estudiar webRTC (posible punto en común con anti) > https://webrtc.org/getting-started/overview
+- [ ] Imágenes y otros recursos > ¿ imágenes como hipervínculos en latex?
+
+## Referencias
+
+- https://tex.stackexchange.com/questions/54927/how-to-insert-an-image-that-also-acts-as-a-link
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.7)  27 DEC 2021 13:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.12.7)  27 DEC 2021 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -403,7 +403,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 ...}{\numberline {5}Escritura}{11}{chapter.5}
+l.30 ...pter}{\numberline {3}Casos}{11}{chapter.3}
                                                   % [1
 
 ])
@@ -413,165 +413,89 @@ l.25 ...}{\numberline {5}Escritura}{11}{chapter.5}
 
 (./sec/introduccion.tex [2]
 Cap\'{\i }tulo 1.
-) (./sec/antecedentes.tex [3
 
-]
+Overfull \hbox (2.7065pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/m/n/12 Aqu^^S^^P pue-do es-cri-bir so-bre as-pec-tos ``sub-je-ti-vos
+'' co-mo la pan-de-mia. Valdr^^S^^Pa
+ []
+
+[3
+
+]) (./sec/antecedentes.tex [4]
 Cap\'{\i }tulo 2.
+[5
 
-Package natbib Warning: Citation `manovichlanguage' on page 4 undefined on inpu
-t line 23.
-
-
-Package natbib Warning: Citation `aestheticProgramming' on page 4 undefined on 
-input line 23.
-
-
-Package natbib Warning: Citation `speakingCode' on page 4 undefined on input li
-ne 23.
-
-[4
-
-]
-
-Package natbib Warning: Citation `threestudies' on page 5 undefined on input li
-ne 32.
-
-
-Package natbib Warning: Citation `threecln' on page 5 undefined on input line 3
-2.
-
-
-Package natbib Warning: Citation `threeBEASTs' on page 5 undefined on input lin
-e 32.
-
-
-Package natbib Warning: Citation `anti' on page 5 undefined on input line 33.
-
-
-Package natbib Warning: Citation `dialogo' on page 5 undefined on input line 34
-.
-
-
-Package natbib Warning: Citation `panoramaArticulo' on page 5 undefined on inpu
-t line 35.
-
-
-Package natbib Warning: Citation `ruffbox' on page 5 undefined on input line 43
-.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
 [][][][]$\OT1/cmr/m/n/10 https : / / www . toptal . com / webassembly / webasse
 mbly-[]rust-[]tutorial-[]web-[]audio$[][] (Con-
  []
 
-
-Package natbib Warning: Citation `flocking' on page 5 undefined on input line 4
-3.
-
-
-Package natbib Warning: Citation `supercolliderweb' on page 5 undefined on inpu
-t line 44.
-
-
-Package natbib Warning: Citation `Troop' on page 5 undefined on input line 45.
-
-
-Package natbib Warning: Citation `flok' on page 5 undefined on input line 45.
-
-
-Package natbib Warning: Citation `tilt' on page 5 undefined on input line 45.
-
-
-Package natbib Warning: Citation `livelab' on page 5 undefined on input line 45
-.
-
-
-Package natbib Warning: Citation `hydra' on page 5 undefined on input line 45.
-
-
-Package natbib Warning: Citation `timenot' on page 5 undefined on input line 45
-.
-
-
-Package natbib Warning: Citation `seis8s' on page 5 undefined on input line 45.
-
-
-
-Package natbib Warning: Citation `estuary' on page 5 undefined on input line 46
-.
-
-
-Package natbib Warning: Citation `sema' on page 5 undefined on input line 46.
-
-[5]
-
-Package natbib Warning: Citation `ocelotlLic' on page 6 undefined on input line
- 64.
-
-
-Package natbib Warning: Citation `schaeffer' on page 6 undefined on input line 
-64.
-
-
-Package natbib Warning: Citation `schafer1' on page 6 undefined on input line 6
-4.
-
-
-Package natbib Warning: Citation `augoyard' on page 6 undefined on input line 6
-4.
-
-
-Package natbib Warning: Citation `ocelotlMas' on page 6 undefined on input line
- 68.
-
-
-Package natbib Warning: Citation `villasenor' on page 6 undefined on input line
- 72.
-
-[6]
-
-Package natbib Warning: Citation `panoramaArticulo' on page 7 undefined on inpu
-t line 90.
-
-) (./sec/casos.tex [7]
+[7] [8] [9]) (./sec/casos.tex [10]
 Cap\'{\i }tulo 3.
-) (./sec/anti/anti.tex (./tresEstudiosAbiertos.bbl)) (./sec/anti.tex)
-(./sec/caso2.tex) [8
+) (./sec/anti.tex) (./sec/caso2.tex) [11
 
-] (./sec/efectos.tex [9]
+] (./sec/efectos.tex [12]
 Cap\'{\i }tulo 4.
-) (./sec/escritura.tex [10
+) (./sec/escritura.tex [13
 
 ]
 Cap\'{\i }tulo 5.
-) (./sec/conclusiones.tex [11
+) (./sec/conclusiones.tex [14
 
 ]
 Cap\'{\i }tulo 6.
-) (./tresEstudiosAbiertos.bbl)
+) (./tresEstudiosAbiertos.bbl [15
 
-Package natbib Warning: There were undefined citations.
+]
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+[]\OT1/cmr/m/n/12 continuing crea-ti-vity (2011).  Floc-king.  [][]$https : / /
+ github . com /
+ []
 
-[12
 
-] (./tresEstudiosAbiertos.aux
+Underfull \hbox (badness 2237) in paragraph at lines 34--38
+[]\OT1/cmr/m/n/12 EmilioOcelotl (2020b).  th-reecln.  [][]$https : / / github .
+ com / EmilioOcelotl /
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 45--48
+[]\OT1/cmr/m/n/12 EmilioOcelotl (2021a).  Dia-lo-goiv.  [][]$https : / / github
+ . com / EmilioOcelotl /
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 61--64
+[]\OT1/cmr/m/n/12 khilnani (2012).  su-per-co-lli-der.web.  [][]$https : / / gi
+thub . com / khilnani /
+ []
+
+[16
+
+]) [17] (./tresEstudiosAbiertos.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `tresEstudiosAbiertos.out' has not changed.
-(rerunfilecheck)             Checksum: 96F314A5D22477DE2A5D1C6251B091FE;3440.
+(rerunfilecheck)             Checksum: D4D121DDC4F301E2D03BE03280A4773C;5457.
  ) 
 Here is how much of TeX's memory you used:
- 10632 strings out of 478994
- 150728 string characters out of 5864751
- 471983 words of memory out of 5000000
- 27885 multiletter control sequences out of 15000+600000
+ 10772 strings out of 478994
+ 152871 string characters out of 5864751
+ 474824 words of memory out of 5000000
+ 27983 multiletter control sequences out of 15000+600000
  413791 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,74p,895b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exi
-st, replaced by a fixed one
+ 71i,8n,74p,931b,659s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
+, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
 , replaced by a fixed one
@@ -600,10 +524,10 @@ type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
 pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tresEstudiosAbiertos.pdf (13 pages, 110849 bytes).
+Output written on tresEstudiosAbiertos.pdf (18 pages, 132456 bytes).
 PDF statistics:
- 256 PDF objects out of 1000 (max. 8388607)
- 231 compressed objects within 3 object streams
- 46 named destinations out of 1000 (max. 500000)
- 209 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 466 PDF objects out of 1000 (max. 8388607)
+ 434 compressed objects within 5 object streams
+ 94 named destinations out of 1000 (max. 500000)
+ 305 words of extra memory for PDF output out of 10000 (max. 10000000)
 

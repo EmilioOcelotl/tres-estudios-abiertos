@@ -1,4 +1,8 @@
-\documentclass[12pt,letterpaper]{report}
+%\documentclass[12pt,letterpaper]{report}
+\documentclass[11pt, twoside,openright,
+headinclude,footinclude,BCOR5mm,
+numbers=noenddot,cleardoublepage=empty,
+tablecaptionabove]{scrreprt}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage{amsmath}
@@ -8,18 +12,34 @@
 \usepackage{hyperref}
 \usepackage[sort&compress]{natbib}
 \usepackage{setspace}
-\usepackage{subfiles}
+%\usepackage{subfiles}
+%\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing]{classicthesis}
+\usepackage{arsclassica}
+\usepackage[final]{pdfpages}
 
-\hypersetup{
-    colorlinks=true,
-    linkcolor=black,
-    filecolor=magenta,      
-    urlcolor=magenta,
-    citecolor=magenta,
+%\definecolor{gris}{rgb}{0.9, 0.9, 0.9}
+%\pagecolor{black}
+%\color{white}f
+
+%\input{sec/glos}
+% Magenta para fondo blanco, Lavender para fondo negro 
+
+\hypersetup{%
+  colorlinks=true,
+  linkcolor=Lavender,
+  filecolor=Lavender,      
+  urlcolor=Lavender,
+  citecolor=Lavender,
 }
 
-
 \urlstyle{same}
+
+\usepackage[toc]{glossaries}
+\makeglossaries
+
+\input{sec/glos.tex}
 
 % \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \author{Emilio Ocelotl Reyes}
@@ -31,34 +51,46 @@
 
 \begin{document}
 
-\maketitle
+%\maketitle
+
+%\input{sec/portada/portada.pdf}
+\includepdf{sec/portada/portada.pdf}
 
 \tableofcontents
+\listoffigures
 
 \input{sec/introduccion}
 \input{sec/antecedentes}
 
 % Primer capítulo 
 
-\input{sec/casos}
+% \input{sec/casos}
 % \input{sec/ecosistema}
 % \input{sec/interfaz}
 % \subfile{sec/anti/anti}
 
+% \input{sec/efectos}
+
+\input{sec/three}
 \input{sec/anti}
-\input{sec/caso2}
+\input{sec/caso3}
+
+%\input{sec/caso3}
 % Segundo capítulo 
 
-\input{sec/efectos}
 
 % Tercer capítulo 
 
-\input{sec/escritura}
+% \input{sec/escritura}
 
 \input{sec/conclusiones}
+
 
 \addcontentsline{toc}{chapter}{\protect\numberline{}Referencias}%
 \bibliography{../../bib/panBib}{} 
 \bibliographystyle{../../bib/apalike-es}
+\clearpage
+
+\printglossaries
 
 \end{document}

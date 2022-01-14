@@ -163,45 +163,55 @@ You're missing a field name---line 461 of file ../../bib/panBib.bib
  : %  author = {Charles, P.W.D.},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You've used 27 entries,
+You're missing a field name---line 528 of file ../../bib/panBib.bib
+ :     
+ :     %note     = "",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 554 of file ../../bib/panBib.bib
+ :   
+ :   %edition = {Primera}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 32 entries,
             1977 wiz_defined-function locations,
-            606 strings with 6518 characters,
-and the built_in function-call counts, 7287 in all, are:
-= -- 751
-> -- 214
-< -- 28
-+ -- 70
-- -- 62
-* -- 461
-:= -- 1403
-add.period$ -- 83
-call.type$ -- 27
-change.case$ -- 162
-chr.to.int$ -- 23
-cite$ -- 27
-duplicate$ -- 313
-empty$ -- 486
-format.name$ -- 101
-if$ -- 1385
+            631 strings with 7332 characters,
+and the built_in function-call counts, 9034 in all, are:
+= -- 913
+> -- 306
+< -- 31
++ -- 102
+- -- 94
+* -- 606
+:= -- 1732
+add.period$ -- 97
+call.type$ -- 32
+change.case$ -- 200
+chr.to.int$ -- 28
+cite$ -- 32
+duplicate$ -- 377
+empty$ -- 592
+format.name$ -- 138
+if$ -- 1712
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 12
-newline$ -- 138
-num.names$ -- 82
-pop$ -- 118
+missing$ -- 17
+newline$ -- 162
+num.names$ -- 97
+pop$ -- 156
 preamble$ -- 1
-purify$ -- 166
+purify$ -- 207
 quote$ -- 0
-skip$ -- 257
+skip$ -- 305
 stack$ -- 0
-substring$ -- 348
-swap$ -- 14
+substring$ -- 423
+swap$ -- 18
 text.length$ -- 1
-text.prefix$ -- 8
+text.prefix$ -- 10
 top$ -- 0
-type$ -- 150
+type$ -- 176
 warning$ -- 0
-while$ -- 56
+while$ -- 67
 width$ -- 0
-write$ -- 335
-(There were 32 error messages)
+write$ -- 397
+(There were 34 error messages)

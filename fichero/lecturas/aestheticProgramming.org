@@ -1,0 +1,14 @@
+
+* Aesthetic Programming
+
+Explora las relaciones entre escribir, programar y pensar 
+La práctica de programar como objeto de estudio
+Considerar críticamente la perspectiva no técnica y de las disciplinas no científicas
+Pensamiento computacional para expandir la programación más allá de los confines de las ciencias de la computación o la ingeniería del software
+Efectos políticos y sociales ( también artísticos ? )
+Relaciones de poder y jerarquías implícitas en el código
+
+in terms of binary logic, hierarchies, naming of attributes, accessibility, and how wider societal
+inequalities are further reinforced and perpetuated through non-representational
+computation
+

@@ -1,18 +1,106 @@
-\section{Anti}
+\chapter{Caso 2: Anti}
 
 % Este apartado puede convertirse en un artículo por sí mismo. Describirlo de una manera distinta al tipo contexto, planteamiento, proceso y resultados  
 
-Anti es una pieza que parte de la ofuscación para plantear una reflexión sobre la relación que existe entre usuarios y tecnología.
+% \href{https://anti.ocelotl.cc}{\includegraphics[width=\textwidth]{img/anti01.png}} % Una imagen que también es hipervínculo 
+
+\begin{figure}[tb]
+\centering 
+\includegraphics[width=\columnwidth]{img/anti01.png} 
+\caption[Captura de Anti]{Captura de anti y de la interfaz gráfica que utiliza de \url{https://anti.ocelotl.cc}.} % The text in the square bracket is the caption for the list of figures while the text in the curly brackets is the figure caption
+\label{fig:gallery} 
+\end{figure}
+
+Anti es una pieza que parte de la ofuscación para plantear una reflexión sobre la relación que existe entre usuarios y tecnología. Utiliza algunos módulos de \gls{aprendizajeautomatico} (machine learning) 
 
 %\subsection{Contexto}
 
+\section{Delimitación y contexto}
+
+La pieza está alojada en la web y utiliza tone.js como motor de audio y three.js para el despliegue de gráficos tridimensionales. Adicionalmente utiliza: 1) Tensorflow.js para la lectura de puntos de referencia faciales (face-landmark-detection) y 2) algunos módulos adicionales de la librería JSM para el rendereo de efectos de post-proceso de imagen.
+
+\subsection{Esquema general de la aplicación}
+
+La aplicación cuenta con tres momentos principales: 1) Detección de puntos de referencia faciales 2) motores gráfico y sonoro, 3) materiales y organización y 4) Redirección de flujos de audio y sonido.  
+
+\subsection{Puesta en marcha y montaje}
+
+Anti tuvo una modalidad de exhibición presencial que tuvo lugar en el Antiguo Colegio de San Ildefonso.
+
+\begin{figure}[tb]
+\centering 
+\includegraphics[width=0.7\columnwidth]{img/antiExWhite.png} 
+\caption[Diagrama de Montaje Anti]{Diagrama de montaje de Anti.} % The text in the square bracket is the caption for the list of figures while the text in the curly brackets is the figure caption
+\label{fig:gallery} 
+\end{figure}
+
 \subsection{Ecosistema}
 
-Documentación de las piezas que existieron simultáneamente 
+Documentación de las piezas que compartieron tiempo y espacio con anti. Preocupaciones compartidas por las consecuencias sociales de la tecnología y el uso responsable de éstas para transformarla, de acuerdo a lo que se mencionó anteriormente de Soon y Cox. Contexto de la desapariciones de los feminicidios en México, la contaminación provocada por el consumo de fast fashion y la relación / interpretación de la realidad a partir de narrativas que contemplan la agencia no-humana. 
 
-\subsection{La ofuscación como motivo}
+La centralidad del individuo 
 
-\subsection{La escritura como rodeo} % Otra palabra que no sea rodeo 
+La idea de múltiples programas de los objetos tecnológicos \citep{latour}
+
+%\section{Descripción técnica general}
+
+Precisión 
+
+\section{Motores audiosvisusales}
+
+Decisiones de diseño. ¿Por qué Three.js? ¿ Por qué Tone.js ? 
+
+\subsection{Three.js}
+
+\subsection{Tone.js}
+
+%\subsection{Redirección de flujos de audio y sonido}
+
+\section{Eventos}
+
+\subsection{Puntos y desarrollo}
+
+El desplazamiento del evento musical y la diversificación de los materiales. Peculiaridades del texto, sonido e imagen. Eventos que establecen puntos de salida y de llegada. Preguntas sobre lo que existe entre puntos. La rampa de tiempo como una forma de relacionar eventualidades y desarrollarlas en el tiempo.
+
+\subsection{Transducción de magnitudes}
+
+Relaciones y diferencias. Transducción de magnitudes 
+
+La biblioteca MediaPipe Facemesh devuelve 468 puntos de referencia faciales. ¿Cómo estos puntos son relevantes? 
+
+Promedios de movimiento asociados a todo y a regiones del rostro. 
+
+\subsection{Materiales}
+
+%\subsection{Materiales y organización}
+
+En esta parte se distribuyeron los materiales sonoros, visuales y textuales en eventos que pudieran detonarse a partir de un esquema temporal y espacial a manera de partitura. 
+
+\section{El tiempo en el navegador}
+
+\subsection{Tiempo y secuenciación}
+
+Este apartado puede hablar de las diferencias que existen entre las distintas formas de transformar eventos en el tiempo: setInterval, requestAnimationFrame, Tweenjs y los objetos de Tone.js que permiten detonar eventos como si fueran secuenciadores. Hasta el momento se han detectado tres tipos de aproximaciones: 1) Aquella que está medida en microsegundos y que no necesariamente es precisa, 2) aquella que tiene que ver con temporalidades medidas en segundos ( de hecho el diseño de la estructura general de la pieza tomó esta división con punto de partida y 3) la aproximación que coincide con la convención musical basada en golpes por segundo (BPM). 
+
+\subsection{Panorámica}
+
+Partitura
+
+\section{La ofuscación como motivo}
+
+\subsection{Predicciones}
+
+Anti utiliza la biblioteca MediaPipe Facemesh\footnote{MediaPipe Facemesh un un paquete ligero que predice 486 puntos faciales tridimensionales para inferir la superficie geométrica aproximada de una cara humana. Consultado el \today en: Nota: esperar a que suban el paquete} para la detección de puntos de referencia faciales. Estos puntos están optimizados para que las zonas de la cara con mayor gestualidad tengan una densidad de puntos mayor. \citep{kartynnik2019realtime}.
+
+\subsection{Ofuscación audiovisual}
+
+Aquí podría hablar de los aspectos tecnológicos que motivaron la realización de la pieza. Tecnologías diversas que pueden coincidir (no necesariamente lo hacen, por lo menosen términos de la declaratoria y motivación de los proyectos) con la ofuscación facial. Tensorflow y face-landmark-detection. 
+te
+\section{La escritura como rodeo} % Otra palabra que no sea rodeo 
+
+Resultados y giros. 
+Distinción entre investigación / práctica artística y manifiesto 
+Escritura de código. 
 
 % Texto académico vs && || manifiesto 
 

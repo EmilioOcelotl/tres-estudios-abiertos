@@ -57,10 +57,27 @@ frantic0 (2021).
 \newblock sema-engine.
 \newblock \url{https://github.com/frantic0/sema-enginef}.
 
+\bibitem[García, 2021]{jorgeDavid2021}
+García, J.~D. (2021).
+\newblock Tecnología libre para una música libre ¿es posible construir un
+  sistema de producción alternativo?
+\newblock {\em Revista F-ILIA}, II(4):57--88.
+
+\bibitem[Kartynnik \textit{et al.}, 2019]{kartynnik2019realtime}
+Kartynnik, Y., Ablavatski, A., Grishchenko, I., y Grundmann, M. (2019).
+\newblock Real-time facial surface geometry from monocular video on mobile
+  gpus.
+
 \bibitem[khilnani, 2012]{supercolliderweb}
 khilnani (2012).
 \newblock supercollider.web.
 \newblock \url{https://github.com/khilnani/supercollider.web/}.
+
+\bibitem[Latour, 2001]{latour}
+Latour, B. (2001).
+\newblock {\em La esperanza de Pandora. Ensayos sobre la realidad de los
+  estudios de la ciencia}.
+\newblock Gedisa, Barcelona.
 
 \bibitem[luisnavarrodelangel, 2020]{seis8s}
 luisnavarrodelangel (2020).
@@ -71,6 +88,12 @@ luisnavarrodelangel (2020).
 Manovich, L. (2001).
 \newblock {\em The Language of New Media}.
 \newblock Leonardo (Series) (Cambridge, Mass.). MIT Press.
+
+\bibitem[McLean, 2011]{McLean2011}
+McLean, A. (2011).
+\newblock {\em {Artist-Programmers} and Programming Languages for the Arts}.
+\newblock Tesis doctoral, Department of Computing, Goldsmiths, University of
+  London.
 
 \bibitem[munshkr, 2019]{flok}
 munshkr (2019).
@@ -110,6 +133,12 @@ ojack (2020b).
 PiranhaLab (2020).
 \newblock Panorama.
 \newblock \url{https://github.com/piranhalab/panorama}.
+
+\bibitem[Platohedro \textit{et al.}, 2019]{platohedro}
+Platohedro, Correa, A., Alvarez, L., Fleischmann, L., Rodríguez, Y., Rueda,
+  D., Jaramillo, J.~A., Correa, C., y y O.~Narváez (2019).
+\newblock {\em Platohedro. Multiversos}.
+\newblock Cráneo Invertido, Medellín, Colombia.
 
 \bibitem[Qirky, 2016]{Troop}
 Qirky (2016).

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.3)  14 JAN 2022 13:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.3)  25 JAN 2022 12:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -85,6 +85,12 @@ File: scrsize11pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (11pt
 Package: typearea 2021/11/13 v3.35 KOMA-Script package (type area)
 \ta@bcor=\skip48
 \ta@div=\count183
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
 
 
 Package typearea Warning: You've used obsolete option `BCOR5mm'.
@@ -824,8 +830,67 @@ File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count306
 \AM@templatesizebox=\box57
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 35.
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count307
+\Gm@cntv=\count308
+\c@Gm@tempcnt=\count309
+\Gm@bindingoffset=\dimen189
+\Gm@wd@mp=\dimen190
+\Gm@odd@mp=\dimen191
+\Gm@even@mp=\dimen192
+\Gm@layoutwidth=\dimen193
+\Gm@layoutheight=\dimen194
+\Gm@layouthoffset=\dimen195
+\Gm@layoutvoffset=\dimen196
+\Gm@dimlist=\toks29
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
+
+(/usr/share/texmf-dist/tex/latex/enotez/enotez.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-11-22 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count310
+\l__pdf_internal_box=\box58
+))
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2021-11-12 L3 Experimental document command parser
+)
+(/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-11-12 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2021-11-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen197
+\l__xtemplate_tmp_int=\count311
+\l__xtemplate_tmp_muskip=\muskip18
+\l__xtemplate_tmp_skip=\skip126
+)
+Package: enotez 2020/12/13 v0.10c Endnotes for LaTeX2e
+\l__enotez_list_preamble_skip=\skip127
+\l__enotez_list_postamble_skip=\skip128
+\g__enotez_endnote_id_int=\count312
+\g__enotez_endnote_mark_int=\count313
+\c@endnote=\count314
+\g__enotez_list_printed_int=\count315
+\l__enotez_tmpa_int=\count316
+
+Package xtemplate Info: Declaring object type 'enotez-list' taking 1
+(xtemplate)             argument(s) on line 471.
+
+\l__enotez_list_notes_sep_dim=\dimen198
+
+(/usr/share/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+))
 (/usr/share/texmf-dist/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2021/11/01 v4.49 (NLCT)
 
@@ -834,16 +899,16 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks29
-\XKV@tempa@toks=\toks30
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
 )
-\XKV@depth=\count307
+\XKV@depth=\count317
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
 Package: mfirstuc 2021/10/15 v2.07 (NLCT)
-\@glsmfirst=\toks31
-\@glsmrest=\toks32
+\@glsmfirst=\toks32
+\@glsmrest=\toks33
 )
 (/usr/share/texmf-dist/tex/latex/xfor/xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
@@ -853,7 +918,7 @@ Package: datatool-base 2019/09/27 v2.32 (NLCT)
 
 (/usr/share/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count308
+\c@su@anzahl=\count318
 )
 (/usr/share/texmf-dist/tex/latex/datatool/datatool-fp.sty
 Package: datatool-fp 2019/09/27 v2.32 (NLCT)
@@ -864,19 +929,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (/usr/share/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count309
+\actioncount=\count319
 )
 (/usr/share/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count310
-\FP@xia=\count311
-\FP@xib=\count312
-\FP@xfa=\count313
-\FP@xfb=\count314
-\FP@rega=\count315
-\FP@regb=\count316
-\FP@regs=\count317
-\FP@times=\count318
+\FP@xs=\count320
+\FP@xia=\count321
+\FP@xib=\count322
+\FP@xfa=\count323
+\FP@xfb=\count324
+\FP@rega=\count325
+\FP@regb=\count326
+\FP@regs=\count327
+\FP@times=\count328
 )
 (/usr/share/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -895,7 +960,7 @@ Package: fp-pas 1994/08/29
 )
 (/usr/share/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count319
+\FPseed=\count329
 )
 (/usr/share/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -906,15 +971,15 @@ Package: fp-upn 1996/10/21
 (/usr/share/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks33
-\@dtl@tmpcount=\count320
-\dtl@tmplength=\skip126
-\dtl@sortresult=\count321
-\@dtl@numgrpsepcount=\count322
-\@dtl@datatype=\count323
-\dtl@codeA=\count324
-\dtl@codeB=\count325
-\@dtl@foreach@level=\count326
+\@dtl@toks=\toks34
+\@dtl@tmpcount=\count330
+\dtl@tmplength=\skip129
+\dtl@sortresult=\count331
+\@dtl@numgrpsepcount=\count332
+\@dtl@datatype=\count333
+\dtl@codeA=\count334
+\dtl@codeB=\count335
+\@dtl@foreach@level=\count336
 )
 (/usr/share/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307.sty
 Package: glossaries-compatible-307 2021/11/01 v4.49 (NLCT)
@@ -930,88 +995,83 @@ File: glossaries-spanish.ldf 2014/11/23 v1.0
 
 (/usr/share/texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish-utf8.ldf
 ))
-\gls@level=\count327
-\@gls@tmpb=\toks34
-\gls@tmplen=\skip127
-\glskeylisttok=\toks35
-\glslabeltok=\toks36
-\glsshorttok=\toks37
-\glslongtok=\toks38
+\gls@level=\count337
+\@gls@tmpb=\toks35
+\gls@tmplen=\skip130
+\glskeylisttok=\toks36
+\glslabeltok=\toks37
+\glsshorttok=\toks38
+\glslongtok=\toks39
  (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty
 Package: glossary-hypernav 2021/11/01 v4.49 (NLCT)
 )
 (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
 Package: glossary-list 2021/11/01 v4.49 (NLCT)
-\glslistdottedwidth=\skip128
+\glslistdottedwidth=\skip131
 )
 (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
 Package: glossary-long 2021/11/01 v4.49 (NLCT)
 
 (/usr/share/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip129
-\LTright=\skip130
-\LTpre=\skip131
-\LTpost=\skip132
-\LTchunksize=\count328
-\LTcapwidth=\dimen189
-\LT@head=\box58
-\LT@firsthead=\box59
-\LT@foot=\box60
-\LT@lastfoot=\box61
-\LT@gbox=\box62
-\LT@cols=\count329
-\LT@rows=\count330
-\c@LT@tables=\count331
-\c@LT@chunks=\count332
-\LT@p@ftn=\toks39
+\LTleft=\skip132
+\LTright=\skip133
+\LTpre=\skip134
+\LTpost=\skip135
+\LTchunksize=\count338
+\LTcapwidth=\dimen199
+\LT@head=\box59
+\LT@firsthead=\box60
+\LT@foot=\box61
+\LT@lastfoot=\box62
+\LT@gbox=\box63
+\LT@cols=\count339
+\LT@rows=\count340
+\c@LT@tables=\count341
+\c@LT@chunks=\count342
+\LT@p@ftn=\toks40
 )
 Class scrreprt Info: longtable captions redefined on input line 43.
-\glsdescwidth=\skip133
-\glspagelistwidth=\skip134
+\glsdescwidth=\skip136
+\glspagelistwidth=\skip137
 )
 (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
 Package: glossary-super 2021/11/01 v4.49 (NLCT)
 
 (/usr/share/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2020/02/02 v4.1g the supertabular environment
-\c@tracingst=\count333
-\ST@wd=\dimen190
-\ST@rightskip=\skip135
-\ST@leftskip=\skip136
-\ST@parfillskip=\skip137
-\ST@pageleft=\dimen191
-\ST@headht=\dimen192
-\ST@tailht=\dimen193
-\ST@pagesofar=\dimen194
-\ST@pboxht=\dimen195
-\ST@lineht=\dimen196
-\ST@prevht=\dimen197
-\ST@toadd=\dimen198
-\ST@dimen=\dimen199
-\ST@pbox=\box63
+\c@tracingst=\count343
+\ST@wd=\dimen256
+\ST@rightskip=\skip138
+\ST@leftskip=\skip139
+\ST@parfillskip=\skip140
+\ST@pageleft=\dimen257
+\ST@headht=\dimen258
+\ST@tailht=\dimen259
+\ST@pagesofar=\dimen260
+\ST@pboxht=\dimen261
+\ST@lineht=\dimen262
+\ST@prevht=\dimen263
+\ST@toadd=\dimen264
+\ST@dimen=\dimen265
+\ST@pbox=\box64
 ))
 (/usr/share/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
 Package: glossary-tree 2021/11/01 v4.49 (NLCT)
-\glstreeindent=\skip138
+\glstreeindent=\skip141
 ))
 \glswrite=\write3
 \glo@main@file=\write4
 \openout4 = `tresEstudiosAbiertos.glo'.
 
 Package glossaries Info: Writing glossary file tresEstudiosAbiertos.glo on inpu
-t line 40.
+t line 51.
 
 (./sec/glos.tex)
 LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 
-52.
+63.
  (/usr/share/texmf-dist/tex/latex/psnfss/ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
-)
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count334
-\l__pdf_internal_box=\box64
 )
 (./tresEstudiosAbiertos.aux
 LaTeX Info: Redefining \. on input line 33.
@@ -1032,39 +1092,39 @@ LaTeX Warning: Label `fig:gallery' multiply defined.
 )
 \openout1 = `tresEstudiosAbiertos.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count335
-\scratchdimen=\dimen256
+\scratchcounter=\count344
+\scratchdimen=\dimen266
 \scratchbox=\box65
-\nofMPsegments=\count336
-\nofMParguments=\count337
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count338
-\MPscratchDim=\dimen257
-\MPnumerator=\count339
-\makeMPintoPDFobject=\count340
-\everyMPtoPDFconversion=\toks41
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count347
+\MPscratchDim=\dimen267
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks42
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1074,7 +1134,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 52.
+Package hyperref Info: Link coloring ON on input line 63.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1085,11 +1145,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count341
+\c@section@level=\count350
 )
-LaTeX Info: Redefining \ref on input line 52.
-LaTeX Info: Redefining \pageref on input line 52.
-LaTeX Info: Redefining \nameref on input line 52.
+LaTeX Info: Redefining \ref on input line 63.
+LaTeX Info: Redefining \pageref on input line 63.
+LaTeX Info: Redefining \nameref on input line 63.
 
 (./tresEstudiosAbiertos.out) (./tresEstudiosAbiertos.out)
 \@outlinefile=\write5
@@ -1102,18 +1162,18 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 52.
+(scrreprt)           before \begin{document} on input line 63.
 Class scrreprt Info: temporary deactivation of babel-spanish quoting  on input 
-line 52.
+line 63.
 
 (/usr/share/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
 (/usr/share/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count342
+\BKM@id=\count351
 ))
-Class scrreprt Info: reactivation of babel-spanish quoting  on input line 52.
+Class scrreprt Info: reactivation of babel-spanish quoting  on input line 63.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: longtable package is loaded.
@@ -1123,13 +1183,13 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 52.
-Package microtype Info: Applying patch `item' on input line 52.
-Package microtype Info: Applying patch `toc' on input line 52.
-Package microtype Info: Applying patch `eqnum' on input line 52.
+LaTeX Info: Redefining \microtypecontext on input line 63.
+Package microtype Info: Applying patch `item' on input line 63.
+Package microtype Info: Applying patch `toc' on input line 63.
+Package microtype Info: Applying patch `eqnum' on input line 63.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 52.
+Package microtype Warning: Unable to apply patch `footnote' on input line 63.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -1149,39 +1209,89 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=-0.56833pt
+* \evensidemargin=35.28255pt
+* \topmargin=-7.21335pt
+* \headheight=15.95pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.60002pt
+* \marginparwidth=106.64078pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+LaTeX hooks Warning: Generic hook
+(hooks)              'file/after/translations-basic-dictionary-spanish.trsl'
+(hooks)              is deprecated.
+(hooks)              Use hook
+(hooks)              'file/translations-basic-dictionary-spanish.trsl/after'
+(hooks)              instead.
+
+
+(/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-spa
+nish.trsl
+File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `spanish'. on input line 63.
 <sec/portada/portada.pdf, id=4, 597.50829pt x 845.0471pt>
 File: sec/portada/portada.pdf Graphic file (type pdf)
 <use sec/portada/portada.pdf>
-Package pdftex.def Info: sec/portada/portada.pdf  used on input line 57.
+Package pdftex.def Info: sec/portada/portada.pdf  used on input line 68.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: sec/portada/portada.pdf Graphic file (type pdf)
 <use sec/portada/portada.pdf>
-Package pdftex.def Info: sec/portada/portada.pdf  used on input line 57.
+Package pdftex.def Info: sec/portada/portada.pdf  used on input line 68.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 <sec/portada/portada.pdf, id=7, page=1, 597.50829pt x 845.0471pt>
 File: sec/portada/portada.pdf Graphic file (type pdf)
 <use sec/portada/portada.pdf, page 1>
-Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 57.
+Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 68.
 
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: sec/portada/portada.pdf Graphic file (type pdf)
 <use sec/portada/portada.pdf, page 1>
-Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 57.
+Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 68.
 
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: sec/portada/portada.pdf Graphic file (type pdf)
 <use sec/portada/portada.pdf, page 1>
-Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 57.
+Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 68.
 
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: sec/portada/portada.pdf Graphic file (type pdf)
 <use sec/portada/portada.pdf, page 1>
-Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 57.
+Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 68.
 
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: sec/portada/portada.pdf Graphic file (type pdf)
 <use sec/portada/portada.pdf, page 1>
-Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 57.
+Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 68.
 
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [1
@@ -1194,16 +1304,15 @@ Package pdftex.def Info: sec/portada/portada.pdf , page1 used on input line 57.
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+iwona on input line
- 59.
-
-(/usr/share/texmf-dist/tex/latex/iwona/ot1iwona.fd
+ 70.
+ (/usr/share/texmf-dist/tex/latex/iwona/ot1iwona.fd
 File: ot1iwona.fd 2008/07/22 v0.995 font definition file for OT1/iwona (MW)
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `iwona' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+zeur on input line 59
+LaTeX Font Info:    Trying to load font information for U+zeur on input line 70
 .
 
 (/usr/share/texmf-dist/tex/latex/eulervm/uzeur.fd
@@ -1212,7 +1321,7 @@ File: uzeur.fd 2005/01/11 v4.0 (WaS)
 (/usr/share/texmf-dist/tex/latex/microtype/mt-eur.cfg
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeus on input line 59
+LaTeX Font Info:    Trying to load font information for U+zeus on input line 70
 .
 
 (/usr/share/texmf-dist/tex/latex/eulervm/uzeus.fd
@@ -1221,8 +1330,8 @@ File: uzeus.fd 2005/01/11 v4.0 (WaS)
 (/usr/share/texmf-dist/tex/latex/microtype/mt-eus.cfg
 File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeuex on input line 5
-9.
+LaTeX Font Info:    Trying to load font information for U+zeuex on input line 7
+0.
 
 (/usr/share/texmf-dist/tex/latex/eulervm/uzeuex.fd
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
@@ -1234,7 +1343,7 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-59.
+70.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -1243,7 +1352,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package tocbasic Info: character protrusion at toc deactivated on input line 59
+Package tocbasic Info: character protrusion at toc deactivated on input line 70
 .
  (./tresEstudiosAbiertos.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1255,10 +1364,10 @@ Package microtype Info: Character `013' is missing
 \tf@toc=\write6
 \openout6 = `tresEstudiosAbiertos.toc'.
 
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
  [4]
-Package tocbasic Info: character protrusion at lof deactivated on input line 60
+Package tocbasic Info: character protrusion at lof deactivated on input line 71
 .
  (./tresEstudiosAbiertos.lof
 LaTeX Info: Redefining \. on input line 1.
@@ -1279,179 +1388,181 @@ Cap\'{\i }tulo 1.
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/iwona/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [7]
-Overfull \hbox (11.5086pt too wide) in paragraph at lines 61--62
-[]\OT1/pplj/m/n/10.95 ``Consideramos la pro-gra-ma-ci[]on co-mo una pr[]acti-ca
- cul-tu-ral din[]ami-
+Underfull \vbox (badness 2221) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+ [8]
+Overfull \hbox (0.19351pt too wide) in paragraph at lines 76--77
+\OT1/pplj/m/n/10.95 pro-gra-ma-ci[]on. Co-di-fi-ca-ci[]on crea-ti-va ( Crea-ti-
+ve Co-ding ) y el t[]ermino edu-ca-ti-vo [][][]STEAM[][]
  []
 
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
-[8]
-Overfull \hbox (5.93935pt too wide) in paragraph at lines 71--72
-\OT1/pplj/m/n/10.95 gua-jes de pro-gra-ma-ci[]on. Co-di-fi-ca-ci[]on crea-ti-va
- ( Crea-ti-ve Co-ding ) y el t[]ermino
- []
-
-) (./sec/antecedentes.tex
-Cap\'{\i }tulo 2.
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/iwona/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-[9] [10
+[9]) (./sec/antecedentes.tex
+Cap\'{\i }tulo 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+[10]
+Overfull \hbox (5.41219pt too wide) in paragraph at lines 14--15
+[]\OT1/pplj/m/n/10.95 Los an-te-ce-den-tes de es-ta in-ves-ti-ga-ci[]on alu-den
+ a una tra-yec-to-ria que va de la transici[]on
+ []
 
-
-]
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/iwona/b/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
+[11
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
+]
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
  [12]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 99.
-LaTeX Info: Redefining \% on input line 99.
- [13]
-<img/of13.png, id=283, 1927.2pt x 1084.05pt>
-File: img/of13.png Graphic file (type png)
-<use img/of13.png>
-Package pdftex.def Info: img/of13.png  used on input line 122.
-(pdftex.def)             Requested size: 370.0pt x 208.122pt.
-LaTeX Info: Redefining \. on input line 137.
-LaTeX Info: Redefining \% on input line 137.
-
-[14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 155.
-LaTeX Info: Redefining \% on input line 155.
- [15 <./img/of13.png>]
-<img/col2.png, id=349, 1927.2pt x 1084.05pt>
-File: img/col2.png Graphic file (type png)
-<use img/col2.png>
-Package pdftex.def Info: img/col2.png  used on input line 183.
-(pdftex.def)             Requested size: 370.0pt x 208.122pt.
-
-Underfull \hbox (badness 1642) in paragraph at lines 184--184
-[][]|\OT1/pplj/m/n/10 Cap-tu-ra del con-cier-to del Co-lo-quio de alum-nas [][]
-$https : / / youtu . be /
+Overfull \hbox (7.47075pt too wide) in paragraph at lines 69--70
+[]\OT1/pplj/m/n/10.95 Un se-gun-do pun-to de in-ves-ti-ga-ci[]on in-vo-lucr[]o 
+un pro-ce-so de in-ves-ti-ga-ci[]on-producci[]on
  []
 
-
-Underfull \vbox (badness 5504) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 186.
-LaTeX Info: Redefining \% on input line 186.
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
+[13]
+<img/of13.png, id=287, 1927.2pt x 1084.05pt>
+File: img/of13.png Graphic file (type png)
+<use img/of13.png>
+Package pdftex.def Info: img/of13.png  used on input line 114.
+(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
+ [14 <./img/of13.png>]
+LaTeX Info: Redefining \. on input line 157.
+LaTeX Info: Redefining \% on input line 157.
+ [15]
+LaTeX Info: Redefining \. on input line 185.
+LaTeX Info: Redefining \% on input line 185.
  [16]
-<img/conversatorio.jpg, id=362, 963.6pt x 641.39626pt>
+<img/col2.png, id=366, 1927.2pt x 1084.05pt>
+File: img/col2.png Graphic file (type png)
+<use img/col2.png>
+Package pdftex.def Info: img/col2.png  used on input line 207.
+(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
+
+Underfull \vbox (badness 1424) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 221.
+LaTeX Info: Redefining \% on input line 221.
+ [17]
+<img/conversatorio.jpg, id=381, 963.6pt x 641.39626pt>
 File: img/conversatorio.jpg Graphic file (type jpg)
 <use img/conversatorio.jpg>
-Package pdftex.def Info: img/conversatorio.jpg  used on input line 200.
-(pdftex.def)             Requested size: 370.0pt x 246.2777pt.
+Package pdftex.def Info: img/conversatorio.jpg  used on input line 224.
+(pdftex.def)             Requested size: 418.25368pt x 278.39833pt.
+)
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
 
-Underfull \vbox (badness 3333) has occurred while \output is active []
+[18 <./img/col2.png>]
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+ [19 <./img/conversatorio.jpg>] [20
 
-LaTeX Info: Redefining \. on input line 208.
-LaTeX Info: Redefining \% on input line 208.
- [17 <./img/col2.png>]) (./sec/three.tex
+
+]
+Overfull \hbox (3.39075pt too wide) in paragraph at lines 74--74
+[]\OT1/pplj/m/n/9 ``PiranhaLab es un la-bo-ra-to-rio in-ter-dis-ci-pli-na-rio q
+ue tra-ba-ja en las tri-pas del soft-wa-re''. [][]$https : / / piranhalab .
+ []
+
+(./sec/perspectivas.tex
 Cap\'{\i }tulo 3.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-[18 <./img/conversatorio.jpg>]
-<img/beast.png, id=378, 1927.2pt x 1084.05pt>
+[21] [22
+
+
+]) (./sec/three.tex
+Cap\'{\i }tulo 4.
+[23] [24
+
+
+]
+<img/beast.png, id=450, 1927.2pt x 1084.05pt>
 File: img/beast.png Graphic file (type png)
 <use img/beast.png>
 Package pdftex.def Info: img/beast.png  used on input line 17.
-(pdftex.def)             Requested size: 370.0pt x 208.122pt.
-<img/threeNw.png, id=379, 1927.2pt x 1084.05pt>
+(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
+<img/threeNw.png, id=451, 1927.2pt x 1084.05pt>
 File: img/threeNw.png Graphic file (type png)
 <use img/threeNw.png>
 Package pdftex.def Info: img/threeNw.png  used on input line 18.
-(pdftex.def)             Requested size: 370.0pt x 208.122pt.
+(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
 ) (./sec/anti.tex
-Cap\'{\i }tulo 4.
-[19
-
-
-]
+Cap\'{\i }tulo 5.
+[25]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [20 <./img/beast.png> <./img/threeNw.png>]
-<img/anti01.png, id=393, 1927.2pt x 1084.05pt>
+ [26 <./img/beast.png> <./img/threeNw.png>]
+<img/anti01.png, id=465, 1927.2pt x 1084.05pt>
 File: img/anti01.png Graphic file (type png)
 <use img/anti01.png>
 Package pdftex.def Info: img/anti01.png  used on input line 9.
-(pdftex.def)             Requested size: 370.0pt x 208.122pt.
-<img/antiExWhite.png, id=397, 925.4575pt x 955.57pt>
+(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
+<img/antiExWhite.png, id=471, 925.4575pt x 955.57pt>
 File: img/antiExWhite.png Graphic file (type png)
 <use img/antiExWhite.png>
-Package pdftex.def Info: img/antiExWhite.png  used on input line 32.
-(pdftex.def)             Requested size: 258.99887pt x 267.42654pt.
- [21
+Package pdftex.def Info: img/antiExWhite.png  used on input line 40.
+(pdftex.def)             Requested size: 292.77629pt x 302.30383pt.
+ [27
 
 
 ]
+Underfull \vbox (badness 2368) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+ [28 <./img/anti01.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 84.
-LaTeX Info: Redefining \% on input line 84.
- [22 <./img/anti01.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
+ [29 <./img/antiExWhite.png>]
+Overfull \hbox (2.67924pt too wide) in paragraph at lines 82--83
+[]\OT1/pplj/m/n/10.95 La bi-blio-te-ca Me-dia-Pi-pe Fa-ce-mesh de-vuel-ve 468 p
+un-tos de re-fe-ren-cia fa-cia-les. ?`C[]omo
+ []
 
-LaTeX Info: Redefining \. on input line 94.
-LaTeX Info: Redefining \% on input line 94.
- [23 <./img/antiExWhite.png>]) (./sec/caso3.tex
-Cap\'{\i }tulo 5.
+
+Underfull \vbox (badness 1173) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+ [30])
+(./sec/caso3.tex
+Cap\'{\i }tulo 6.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[24]) (./sec/conclusiones.tex
-Cap\'{\i }tulo 6.
-[25
+[31] [32
 
 
-] [26
+]) (./sec/conclusiones.tex
+Cap\'{\i }tulo 7.
+[33] [34
 
 
-]) (./tresEstudiosAbiertos.bbl [27] [28
+]) (./tresEstudiosAbiertos.bbl [35] [36
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 14--17
-[]\OT1/pplj/m/n/10.95 continuing crea-ti-vity (2011).  Floc-king.  [][]$https :
- / / github . com /
- []
-
-
-Underfull \hbox (badness 1383) in paragraph at lines 45--48
-[]\OT1/pplj/m/n/10.95 EmilioOcelotl (2021a).  Dia-lo-goiv.  [][]$https : / / gi
-thub . com / EmilioOcelotl /
- []
-
-
-Underfull \hbox (badness 5667) in paragraph at lines 72--75
-[]\OT1/pplj/m/n/10.95 khilnani (2012).  su-per-co-lli-der.web.  [][]$https : / 
-/ github . com / khilnani /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
-[]\OT1/pplj/m/n/10.95 luisnavarrodelangel (2020).  seis8s.  [][]$https : / / gi
-thub . com /
- []
-
-[29])
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
- [30] (./tresEstudiosAbiertos.gls) [31
+] [37])
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+ [38]
+(./tresEstudiosAbiertos.gls) [39
 
 
 
@@ -1468,59 +1579,30 @@ Package rerunfilecheck Info: File `tresEstudiosAbiertos.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28992 strings out of 478353
- 545357 string characters out of 5854636
- 1070698 words of memory out of 5000000
- 46432 multiletter control sequences out of 15000+600000
- 479654 words of font info for 129 fonts, out of 8000000 for 9000
+ 31235 strings out of 478353
+ 605271 string characters out of 5854636
+ 1111773 words of memory out of 5000000
+ 48598 multiletter control sequences out of 15000+600000
+ 483420 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,23n,106p,10638b,965s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
-, replaced by a fixed one
+pdfTeX warning (dest): name{enz.26} has been referenced but does not exist, r
+eplaced by a fixed one
 
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts
 /enc/dvips/iwona/rm-iwona.enc}{/usr/share/texmf-dist/fonts/enc/dvips/iwona/rm-i
-wona-sc.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb
-></usr/share/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texmf-di
-st/fonts/type1/public/fpl/fplrij8a.pfb></usr/share/texmf-dist/fonts/type1/nowac
-ki/iwona/iwonab.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb
-></usr/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-d
-ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/
-palatino/uplri8a.pfb>
-Output written on tresEstudiosAbiertos.pdf (31 pages, 7044573 bytes).
+wona-sc.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/share/t
+exmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texmf-dist/fonts/type1
+/public/fpl/fplrij8a.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/iwona
+b.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/iwonabi.pfb></usr/share/
+texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/share/texmf-dist/fonts/ty
+pe1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/upl
+r8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on tresEstudiosAbiertos.pdf (39 pages, 7076481 bytes).
 PDF statistics:
- 766 PDF objects out of 1000 (max. 8388607)
- 689 compressed objects within 7 object streams
- 153 named destinations out of 1000 (max. 500000)
- 19008 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 844 PDF objects out of 1000 (max. 8388607)
+ 754 compressed objects within 8 object streams
+ 190 named destinations out of 1000 (max. 500000)
+ 19536 words of extra memory for PDF output out of 20736 (max. 10000000)
 

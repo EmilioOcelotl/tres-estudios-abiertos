@@ -1,14 +1,17 @@
 %\documentclass[12pt,letterpaper]{report}
-\documentclass[11pt, twoside,openright,
+\documentclass[11pt,a4paper, twoside, openright,
 headinclude,footinclude,BCOR5mm,
 numbers=noenddot,cleardoublepage=empty,
 tablecaptionabove]{scrreprt}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
+
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
+
+
 \usepackage{hyperref}
 \usepackage[sort&compress]{natbib}
 \usepackage{setspace}
@@ -19,6 +22,9 @@ tablecaptionabove]{scrreprt}
 \usepackage{arsclassica}
 \usepackage[final]{pdfpages}
 
+\usepackage[a4paper,
+            bindingoffset=0in]{geometry}
+
 %\definecolor{gris}{rgb}{0.9, 0.9, 0.9}
 %\pagecolor{black}
 %\color{white}f
@@ -28,13 +34,18 @@ tablecaptionabove]{scrreprt}
 
 \hypersetup{%
   colorlinks=true,
-  linkcolor=Lavender,
-  filecolor=Lavender,      
-  urlcolor=Lavender,
-  citecolor=Lavender,
+  linkcolor=Magenta,
+  filecolor=Magenta,      
+  urlcolor=Magenta,
+  citecolor=Magenta,
 }
 
+\usepackage{enotez}
+\let\footnote=\endnote
+
 \urlstyle{same}
+
+
 
 \usepackage[toc]{glossaries}
 \makeglossaries
@@ -61,6 +72,7 @@ tablecaptionabove]{scrreprt}
 
 \input{sec/introduccion}
 \input{sec/antecedentes}
+\input{sec/perspectivas}
 
 % Primer capítulo 
 

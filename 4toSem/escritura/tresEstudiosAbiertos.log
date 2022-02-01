@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.3)  25 JAN 2022 12:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.1.3)  31 JAN 2022 20:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**tresEstudiosAbiertos
+**tresEstudiosAbiertos.tex
 (./tresEstudiosAbiertos.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22>
@@ -1524,26 +1524,22 @@ Package pdftex.def Info: img/antiExWhite.png  used on input line 40.
 ]
 Underfull \vbox (badness 2368) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
  [28 <./img/anti01.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
  [29 <./img/antiExWhite.png>]
-Overfull \hbox (2.67924pt too wide) in paragraph at lines 82--83
+Overfull \hbox (2.67924pt too wide) in paragraph at lines 84--85
 []\OT1/pplj/m/n/10.95 La bi-blio-te-ca Me-dia-Pi-pe Fa-ce-mesh de-vuel-ve 468 p
 un-tos de re-fe-ren-cia fa-cia-les. ?`C[]omo
  []
 
-
-Underfull \vbox (badness 1173) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
- [30])
-(./sec/caso3.tex
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
+[30]) (./sec/caso3.tex
 Cap\'{\i }tulo 6.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1585,7 +1581,7 @@ Here is how much of TeX's memory you used:
  48598 multiletter control sequences out of 15000+600000
  483420 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,23n,106p,10638b,965s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 108i,23n,106p,10642b,965s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{enz.26} has been referenced but does not exist, r
 eplaced by a fixed one
 
@@ -1599,7 +1595,7 @@ b.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/iwonabi.pfb></usr/share/
 texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/share/texmf-dist/fonts/ty
 pe1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/upl
 r8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on tresEstudiosAbiertos.pdf (39 pages, 7076481 bytes).
+Output written on tresEstudiosAbiertos.pdf (39 pages, 7076566 bytes).
 PDF statistics:
  844 PDF objects out of 1000 (max. 8388607)
  754 compressed objects within 8 object streams

@@ -1,0 +1,58 @@
+
+* Notas
+
+
+Todos nuestros ejemplos tendrán, como se verá, verbos en la primera persona del singular del presente del indicativo en la voz activa4. Se pueden hallar expresiones que satisfacen estos requisitos y que, sin embargo:
+A) no “describen” o “registran” nada, y no son “verdaderas o falsas”; y
+%B) el acto de expresar la oración es realizar una acción, o parte de ella, acción que a su vez no sería normalmente descripta como consistente en decir algo.
+
+Y adicionalmente:
+
+En estos ejemplos parece claro que expresar la oración (por supuesto que en las circunstancias apropiadas) no es describir ni hacer aquello que se diría que hago al expresarme así6, o enunciar que lo estoy haciendo: es hacerlo.
+
+Las dos citas anteriores son de John Austin
+
+¿Cómo llamaremos a una oración o a una expresión de este tipo?7 Propongo denominarla oración realizativa o expresión realizativa o, para abreviar, “un realizativo”. La palabra “realizativo” será usada en muchas formas y construcciones conectadas entre sí, tal como ocurre con el término “imperativo”8. Deriva, por supuesto, de “realizar”, que es el verbo usual que se antepone al sustantivo “acción”. Indica que emitir la expresión es realizar una acción y que ésta no se concibe normalmente como el mero decir algo.
+
+Condiciones para que la expresión sea acompañada de una acción. Una serie de prerrequisitos que en el caso del live coding pueden incluir la situación de interpretación (escenica?). Pienso que esto abre unas ideas interesantes entre lo que es música como abstracción y lo que es música como acción. Supongo que aquí está el meollo de la realización performática de los lenguajes de programación.
+
+Te prometo... › Espectativa
+
+cuando esas cosas se dan, la expresión sea verdadera, y falsa cuando ocurre lo contrario
+
+Los enunciados pueden ser verdaderos o falsos.
+
+Por tal razón, llamaremos a la doctrina de las cosas que pueden andar mal y salir mal, en oportunidad de tales expresiones, la doctrina de los infortunios.
+
+Por ello llamaremos desaciertos a los infortunios del tipo A.1 a B.2, en los que no se consigue llevar a cabo el acto para cuya realización, o en cuya realización, sirve la fórmula verbal correspondiente. Y, por otra parte, llamaremos ABUSOS a aquellos infortunios (los del tipo G) en los que el acto es llevado a cabo. (No hay que subrayar demasiado las connotaciones normales de estos nombres.) › Habría que notar si en el performance audiovisual hay abusos o incluso, desaciertos
+
+Pregunta: Mi labor consistirá en realizar algún tipo de cuadro parecido al de Austin, en cuanto a la programación fija y a la dinámica y también en cuanto a su realización?
+
+Pienso que en este punto hay un problema con mi tesis, no necesariamente estoy hablando de live coding y parece que en algunos momentos confundo la programación fija con la dinámica. ¿ Será posible enmarcar estas programaciones en un mismo tipo?
+
+Austin está hablando de actos rituales o ceremoniales › actos convencionales. Es obvio que las interpreteaciones son convencionales pero rituales o ceremoniales?
+
+El caso está chistoso pero una invocación podría ser una acción realizativa y trasladado al mundo de la música, este acto podría ser una invocación ? No me queda claro si esto entra en el terreno de la metáfora y si puede relacionarse con esta discusión
+
+Antes de que se me olvide por completo: estaría interesante retomar las ideas sobre música de schutz
+
+Desafortunados los apuntes que se perdieron en cuadernos deshechos
+
+Está muy chistoso que todo esto tenga una estrecha relación con los juristas
+
+Sin embargo, tiene un interés más directo para nosotros advertir que, de la misma manera, muchos de los actos que caen dentro del dominio de la Ética no son simplemente y en último extremo, tal como los filósofos dan por sentado con demasiada facilidad, movimientos físicos. Muchos de ellos tienen el carácter general, en todo o en parte, de ser actos convencionales o rituales, y por ello, entre otras cosas, están expuestos a infortunios.
+
+¿No podemos decir que un enunciado que se refiere a algo que no existe es nulo, y no que es falso? › null }
+
+Todo esto no influye la teoría de la acción comunicativa de Habermas ?
+
+una expresión realizativa será hueca o vacía de un modo peculiar si es formulada por un actor en un escenario, incluida en un poema o dicha en un soliloquio. Esto vale de manera similar para todas las expresiones: en circunstancias especiales como las indicadas, siempre hay un cambio fundamental de ese tipo. En tales circunstancias el lenguaje no es usado en serio, sino en modos o maneras que son dependientes de su uso normal. Estos modos o maneras caen dentro de la doctrina de las decoloraciones del lenguaje. Excluiremos todo esto en nuestra consideración. Las expresiones realizativas, afortunadas o no, han de entendidas como emitidas en circunstancias ordinarias. › ay no
+
+Las circunstancias performáticas son ordinarias
+
+Obviamente para que pueda decirse que he hecho una promesa es normalmente
+necesario.
+A) que yo haya sido oído por alguien, quizá por el destinatario de la promesa;
+B) que el destinatario de la promesa haya entendido que hice una promesa.
+
+Interpelación en una especie de espacio público › realmente quiero llevar para allá el asunto? 

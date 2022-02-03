@@ -8,3 +8,5 @@ Escribir un artículo académico con la misma estructura del capítulo de la tes
 ## Pendientes
 
 - [ ] Investigar sobre la ofuscación en el contexto de la programación, del hackeo y de los lenguajes esotéricos de programmación 
+
+- [ ] Pregunta: estructras de control y booleanos en latex ? Me imagino que un mismo texto puede desplegar una versión reducida o una versión extensa dependiendo del if 

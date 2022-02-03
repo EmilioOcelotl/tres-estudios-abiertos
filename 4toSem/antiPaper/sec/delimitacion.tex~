@@ -1,0 +1,4 @@
+
+Inicialmente la aplicación fue concebida para ser ejecutada localmente. Dadas las circunstancias específicas de la pandemia de COVID-19, el proyecto migró a una aplicación web.
+
+Una de las consecuencias no buscadas del desarrollo para la web fue la compatibilidad entre sistemas operativos y la cero instalación de entornos y librerías; la aplicación puede ejecutarse con un navegador web actual 

@@ -5,6 +5,8 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
+\usepackage[sort&compress]{natbib}
+
 \author{Emilio Ocelotl Reyes}
 \title{Anti\\
   La ofuscación como motivo, la escritura como rodeo}
@@ -15,14 +17,15 @@
 
 \section*{Resumen}
 
-La presente investigación da cuenta de un espacio de reflexión que parte de un bucle de investigación-producción artística. El resultado práctico de la investigación es un prototipo audiovisual que puede accederse por medio de un navegador web.
-Presenta una discusión sobre el uso de motores de audio y gráfico, así como la implementación de eventos y el tiempo en el navegador.
-El proyecto gira en torno a un concepto específico: la ofuscación. De manera complementaria busca establecer los desbordamientos resultantes que conducieron a la escritura y a la reflexión. 
+\input{sec/resumen.tex}
 
-\section*{Introducción}
+\section*{Introducciónx}
 
-La presente investigación parte de la siguiente pregunta: ¿Puede la ofuscación ser un motivo para la producción artística-tecnológica y un concepto para reflexionarla? 
+\input{sec/intro.tex}
 
+\section*{Delimitación}
+
+\input{sec/delimitacion.tex}
 
 % \section*{Delimitación y Contexto}
 
@@ -37,5 +40,11 @@ La presente investigación parte de la siguiente pregunta: ¿Puede la ofuscació
 %\section*{La escritura como rodeo}
 
 %\section*{Conclusiones}
+
+
+\addcontentsline{toc}{chapter}{\protect\numberline{}Referencias}%
+\bibliography{../../bib/panBib}{} 
+\bibliographystyle{../../bib/apalike-es}
+
 
 \end{document}

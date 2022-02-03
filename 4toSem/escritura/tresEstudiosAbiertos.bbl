@@ -15,6 +15,11 @@ Di~Prospero, C. (2015).
 \newblock Live coding. arte computacional en proceso.
 \newblock {\em Revista Contenido. Cultura y Ciencias Sociales}, 1(5):44--63.
 
+\bibitem[Dijkstra, nd]{EWD:EWD35}
+Dijkstra, E.~W. (n.d.).
+\newblock Some meditations on advanced programming.
+\newblock {C}irculated privately.
+
 \bibitem[García, 2021]{jorgeDavid2021}
 García, J.~D. (2021).
 \newblock Tecnología libre para una música libre ¿es posible construir un
@@ -42,6 +47,12 @@ McLean, A. (2011).
 \newblock {\em {Artist-Programmers} and Programming Languages for the Arts}.
 \newblock Tesis doctoral, Department of Computing, Goldsmiths, University of
   London.
+
+\bibitem[Montfort, 2008]{obfuscatedCode}
+Montfort, N. (2008).
+\newblock Obfuscated code.
+\newblock En Fuller, M., editor, {\em Software Studies: A Lexicon}. The MIT
+  Press.
 
 \bibitem[Ocelotl, 2015]{ocelotlLic}
 Ocelotl, E. (2015).
